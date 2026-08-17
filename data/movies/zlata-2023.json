@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zlata_2023",
+  "title": "Zlata",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123053162",
+    "imdb": "tt23137748",
+    "tmdb": 1174780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-12"
+}
