@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_found",
+  "title": "Found",
+  "start_year": 2023,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q122791549",
+    "imdb": "tt9071808",
+    "tmdb": 214160
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 35
+}

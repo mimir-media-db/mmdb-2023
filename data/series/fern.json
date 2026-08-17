@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fern",
+  "title": "fern.",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135404432",
+    "imdb": "tt29520896",
+    "tmdb": 296142
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 81
+}

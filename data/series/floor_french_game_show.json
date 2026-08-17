@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_floor_french_game_show",
+  "title": "The Floor (French game show)",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131531253",
+    "imdb": "tt31070711",
+    "tmdb": 242616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 9
+}
