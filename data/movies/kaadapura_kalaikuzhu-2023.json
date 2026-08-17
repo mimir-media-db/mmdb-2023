@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaadapura_kalaikuzhu_2023",
+  "title": "Kaadapura Kalaikuzhu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120637257",
+    "imdb": "tt28023607",
+    "tmdb": 1153675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07"
+}
