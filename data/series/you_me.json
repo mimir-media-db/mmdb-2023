@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_you_me",
+  "title": "You & Me",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116938937",
+    "imdb": "tt14296284",
+    "tmdb": 221050
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}
