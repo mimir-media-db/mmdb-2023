@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obsessed_with_light_2023",
+  "title": "Obsessed with Light",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124464536",
+    "imdb": "tt14741348",
+    "tmdb": 1193015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-21"
+}

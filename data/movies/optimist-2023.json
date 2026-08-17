@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_optimist_2023",
+  "title": "The Optimist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122921166",
+    "imdb": "tt27803347",
+    "tmdb": 1129188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06",
+  "runtime_minutes": 112
+}

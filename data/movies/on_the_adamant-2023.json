@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_adamant_2023",
+  "title": "On the Adamant",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116414358",
+    "imdb": "tt26448811",
+    "tmdb": 1070449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 109
+}

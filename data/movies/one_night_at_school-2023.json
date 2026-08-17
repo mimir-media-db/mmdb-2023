@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_at_school_2023",
+  "title": "One Night At School",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112889242",
+    "imdb": "tt29244335",
+    "tmdb": 1177518
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-02"
+}

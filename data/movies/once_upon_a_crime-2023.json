@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_crime_2023",
+  "title": "Once Upon a Crime",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122529703",
+    "imdb": "tt15944018",
+    "tmdb": 1122634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 107
+}

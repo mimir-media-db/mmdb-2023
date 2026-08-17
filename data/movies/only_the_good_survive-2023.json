@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_the_good_survive_2023",
+  "title": "Only the Good Survive",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116952809",
+    "imdb": "tt21443104",
+    "tmdb": 1008413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_with_adela_2023",
+  "title": "One Night with Adela",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123563461",
+    "imdb": "tt17001588",
+    "tmdb": 1117676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-08",
+  "runtime_minutes": 105
+}
