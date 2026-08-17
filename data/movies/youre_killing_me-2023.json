@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youre_killing_me_2023",
+  "title": "You're Killing Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117317391",
+    "imdb": "tt20222202",
+    "tmdb": 975022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-07"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yung_libro_sa_napanood_ko_2023",
+  "title": "Yung Libro sa Napanood Ko",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117112915",
+    "imdb": "tt27443929",
+    "tmdb": 1092113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yachachiq_the_one_who_teaches_2023",
+  "title": "Yachachiq (The One Who Teaches)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140384414",
+    "tmdb": 1187810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 14
+}

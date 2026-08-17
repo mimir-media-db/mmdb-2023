@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yodha_2023",
+  "title": "Yodha",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109927811",
+    "imdb": "tt16139322",
+    "tmdb": 899718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07",
+  "runtime_minutes": 130
+}
