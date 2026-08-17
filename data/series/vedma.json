@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vedma",
+  "title": "Vědma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116998476",
+    "imdb": "tt26914524",
+    "tmdb": 227856
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}
