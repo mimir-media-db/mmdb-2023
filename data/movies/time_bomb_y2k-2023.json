@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_time_bomb_y2k_2023",
+  "title": "Time Bomb Y2K",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124061405",
+    "imdb": "tt26786629",
+    "tmdb": 1088233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-03",
+  "runtime_minutes": 84
+}

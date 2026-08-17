@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thalaikkavasamum_4_nanbargalum_2023",
+  "title": "Thalaikkavasamum 4 Nanbargalum",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120170499",
+    "imdb": "tt27196952",
+    "tmdb": 1237664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06"
+}

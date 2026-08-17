@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tufang_2023",
+  "title": "Tufang",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117845653",
+    "imdb": "tt27458904",
+    "tmdb": 1150185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

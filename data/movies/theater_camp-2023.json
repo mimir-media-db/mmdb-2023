@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_theater_camp_2023",
+  "title": "Theater Camp",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116287765",
+    "imdb": "tt21232992",
+    "tmdb": 986054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-21",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_catch_a_killer_2023",
+  "title": "To Catch a Killer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105123073",
+    "imdb": "tt10275534",
+    "tmdb": 605886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 119
+}

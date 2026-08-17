@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_take_my_breath_2023",
+  "title": "Take My Breath",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124695946",
+    "imdb": "tt14356054",
+    "tmdb": 958293
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

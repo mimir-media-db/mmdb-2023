@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_till_2023",
+  "title": "Till",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108532414",
+    "imdb": "tt4960748",
+    "tmdb": 854239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13",
+  "runtime_minutes": 130
+}

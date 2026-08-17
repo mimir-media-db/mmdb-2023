@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_that_they_may_face_the_rising_sun_2023",
+  "title": "That They May Face the Rising Sun",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124290158",
+    "imdb": "tt28143091",
+    "tmdb": 1172097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 107
+}

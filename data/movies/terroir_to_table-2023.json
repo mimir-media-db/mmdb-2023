@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terroir_to_table_2023",
+  "title": "Terroir to Table",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117843336",
+    "imdb": "tt22326224",
+    "tmdb": 950889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25",
+  "runtime_minutes": 81
+}

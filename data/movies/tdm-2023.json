@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tdm_2023",
+  "title": "TDM",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116206827",
+    "imdb": "tt27197633",
+    "tmdb": 1124570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

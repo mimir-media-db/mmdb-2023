@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thomas_friends_the_mystery_of_lookout_mountain_2023",
+  "title": "Thomas & Friends: The Mystery of Lookout Mountain",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120703215",
+    "imdb": "tt21171418",
+    "tmdb": 1053812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-03"
+}

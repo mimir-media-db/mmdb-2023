@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_too_beautiful_to_lie_2023",
+  "title": "Too Beautiful To Lie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136691750",
+    "imdb": "tt18254180",
+    "tmdb": 1079536
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-20"
+}

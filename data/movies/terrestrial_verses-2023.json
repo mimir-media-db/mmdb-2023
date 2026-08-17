@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_terrestrial_verses_2023",
+  "title": "Terrestrial Verses",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117743783",
+    "imdb": "tt27502360",
+    "tmdb": 1112545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-01",
+  "runtime_minutes": 77
+}

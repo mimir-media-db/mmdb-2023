@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trouble_with_kanye_2023",
+  "title": "The Trouble with Kanye",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120122717",
+    "imdb": "tt28254032",
+    "tmdb": 1145776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-28"
+}

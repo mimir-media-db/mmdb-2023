@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trial_period_2023",
+  "title": "Trial Period",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120630072",
+    "imdb": "tt28282716",
+    "tmdb": 1149268
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_transfariana_2023",
+  "title": "Transfariana",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116199731",
+    "imdb": "tt24577578",
+    "tmdb": 1061657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

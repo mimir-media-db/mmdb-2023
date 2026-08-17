@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_together_99_2023",
+  "title": "Together 99",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116458064",
+    "imdb": "tt20414550",
+    "tmdb": 977935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 115
+}

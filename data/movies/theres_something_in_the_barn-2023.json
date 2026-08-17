@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theres_something_in_the_barn_2023",
+  "title": "There’s Something in the Barn",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122623143",
+    "imdb": "tt23060796",
+    "tmdb": 956920
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_til_death_do_us_part_2023",
+  "title": "Til Death Do Us Part",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120686428",
+    "imdb": "tt27047448",
+    "tmdb": 1126577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-04",
+  "runtime_minutes": 109
+}

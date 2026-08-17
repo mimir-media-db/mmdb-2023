@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trail_der_traume_mein_weltrekordlauf_durch_peru_2023",
+  "title": "Trail der Träume - Mein Weltrekordlauf durch Peru",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123517408",
+    "imdb": "tt27432397"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_theres_something_wrong_with_the_children_2023",
+  "title": "There's Something Wrong with the Children",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115862134",
+    "imdb": "tt16127696",
+    "tmdb": 899579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-17"
+}

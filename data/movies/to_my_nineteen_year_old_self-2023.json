@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_my_nineteen_year_old_self_2023",
+  "title": "To My Nineteen Year Old Self",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115937457",
+    "imdb": "tt21867610",
+    "tmdb": 1005261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 136
+}

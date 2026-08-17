@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tanja_tagebuch_einer_guerillera_2023",
+  "title": "Tanja – Tagebuch einer Guerillera",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118601371",
+    "imdb": "tt27590198",
+    "tmdb": 1126185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-15",
+  "runtime_minutes": 84
+}

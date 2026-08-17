@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_todesmarsch_nach_chiasso_2023",
+  "title": "Todesmarsch nach Chiasso",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134718275",
+    "imdb": "tt29871211"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 71
+}

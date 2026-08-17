@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_3_2023",
+  "title": "Tiger 3",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100704907",
+    "imdb": "tt18411490",
+    "tmdb": 720557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-10",
+  "runtime_minutes": 155
+}

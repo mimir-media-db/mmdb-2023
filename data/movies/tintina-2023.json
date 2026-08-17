@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tintina_2023",
+  "title": "Tin&Tina",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110264098",
+    "imdb": "tt7354440",
+    "tmdb": 943930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 119
+}
