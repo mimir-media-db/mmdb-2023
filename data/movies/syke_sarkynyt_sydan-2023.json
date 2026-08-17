@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_syke_sarkynyt_sydan_2023",
+  "title": "Syke: Särkynyt sydän",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117477047",
+    "imdb": "tt27436192",
+    "tmdb": 1109521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-25"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shajiku_2023",
+  "title": "Shajiku",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122223999",
+    "imdb": "tt32959714",
+    "tmdb": 1135109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17"
+}

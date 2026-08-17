@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suddenly_2023",
+  "title": "Suddenly",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123407929",
+    "imdb": "tt14904622",
+    "tmdb": 843843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-27",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stand_up_minha_vida_e_uma_piada_2023",
+  "title": "Stand Up – Minha Vida É uma Piada",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123472256",
+    "imdb": "tt29762866",
+    "tmdb": 1199425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-23"
+}

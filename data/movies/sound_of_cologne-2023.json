@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_cologne_2023",
+  "title": "The Sound of Cologne",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123366964",
+    "imdb": "tt17278146",
+    "tmdb": 1038255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30",
+  "runtime_minutes": 98
+}

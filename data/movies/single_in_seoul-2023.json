@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_single_in_seoul_2023",
+  "title": "Single in Seoul",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102273941",
+    "imdb": "tt29466094",
+    "tmdb": 717088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-29",
+  "runtime_minutes": 102
+}
