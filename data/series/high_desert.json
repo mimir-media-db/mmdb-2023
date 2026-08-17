@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_high_desert",
+  "title": "High Desert",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109649182",
+    "imdb": "tt13142324",
+    "tmdb": 116793
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

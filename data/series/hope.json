@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hope",
+  "title": "The Hope",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136538515",
+    "imdb": "tt28152010",
+    "tmdb": 240880
+  },
+  "last_updated": "2026-08-17"
+}

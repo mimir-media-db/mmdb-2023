@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_house_of_stars",
+  "title": "House of Stars",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118637614",
+    "imdb": "tt28092405",
+    "tmdb": 224371
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

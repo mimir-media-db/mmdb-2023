@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hellbound_village",
+  "title": "Hellbound Village",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122762507",
+    "imdb": "tt30624158",
+    "tmdb": 237936
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

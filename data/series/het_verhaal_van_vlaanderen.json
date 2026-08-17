@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_het_verhaal_van_vlaanderen",
+  "title": "Het verhaal van Vlaanderen",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115941015",
+    "imdb": "tt25417370",
+    "tmdb": 208979
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

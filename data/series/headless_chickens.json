@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_headless_chickens",
+  "title": "Headless Chickens",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q117472580",
+    "imdb": "tt21867228",
+    "tmdb": 222322
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

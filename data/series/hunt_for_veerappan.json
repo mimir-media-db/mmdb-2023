@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hunt_for_veerappan",
+  "title": "The Hunt for Veerappan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121536527",
+    "imdb": "tt28306965",
+    "tmdb": 230716
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
