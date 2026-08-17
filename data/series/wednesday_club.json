@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_wednesday_club",
+  "title": "Wednesday Club",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123417069",
+    "imdb": "tt24330706",
+    "tmdb": 217834
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_whole_story_with_anderson_cooper",
+  "title": "The Whole Story with Anderson Cooper",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117303099",
+    "imdb": "tt27238424",
+    "tmdb": 223132
+  },
+  "last_updated": "2026-08-17"
+}

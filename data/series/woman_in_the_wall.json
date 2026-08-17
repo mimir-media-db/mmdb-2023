@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_in_the_wall",
+  "title": "The Woman in the Wall",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121502254",
+    "imdb": "tt21822590",
+    "tmdb": 209922
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

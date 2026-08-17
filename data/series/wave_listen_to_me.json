@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wave_listen_to_me",
+  "title": "Wave, Listen to Me!",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119778128",
+    "imdb": "tt26767478",
+    "tmdb": 221634
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

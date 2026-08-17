@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_isles",
+  "title": "Wild Isles",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117228018",
+    "imdb": "tt23844450",
+    "tmdb": 208230
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

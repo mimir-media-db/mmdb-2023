@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_weekends_with_jonathan_capehart",
+  "title": "Weekends with Jonathan Capehart",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125887647",
+    "imdb": "tt13727806",
+    "tmdb": 220459
+  },
+  "last_updated": "2026-08-17"
+}
