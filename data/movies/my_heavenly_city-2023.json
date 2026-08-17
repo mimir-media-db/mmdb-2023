@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_heavenly_city_2023",
+  "title": "My Heavenly City",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120673519",
+    "imdb": "tt21116954",
+    "tmdb": 1007976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-15",
+  "runtime_minutes": 120
+}

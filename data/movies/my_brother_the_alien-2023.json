@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_the_alien_2023",
+  "title": "My Brother The Alien",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118234791",
+    "imdb": "tt27712372",
+    "tmdb": 1098482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19"
+}

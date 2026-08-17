@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_massimo_troisi_somebody_down_there_likes_me_2023",
+  "title": "Massimo Troisi: Somebody Down There Likes Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116790375",
+    "imdb": "tt21265604",
+    "tmdb": 1006141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 128
+}

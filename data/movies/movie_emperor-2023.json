@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_movie_emperor_2023",
+  "title": "The Movie Emperor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122385359",
+    "imdb": "tt28488862",
+    "tmdb": 1022659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 125
+}

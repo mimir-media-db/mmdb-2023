@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melody_of_love_2023",
+  "title": "Melody of Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117819868",
+    "imdb": "tt27555446",
+    "tmdb": 1118169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 85
+}

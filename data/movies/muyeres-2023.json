@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muyeres_2023",
+  "title": "Muyeres",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123262877",
+    "imdb": "tt27881411",
+    "tmdb": 1142171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14"
+}

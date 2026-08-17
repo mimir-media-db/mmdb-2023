@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mark_rothko_la_peinture_vous_regarde_2023",
+  "title": "Mark Rothko, la peinture vous regarde",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137383887",
+    "imdb": "tt29965083",
+    "tmdb": 1201384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

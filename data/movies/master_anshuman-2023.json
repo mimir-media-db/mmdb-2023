@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_master_anshuman_2023",
+  "title": "Master Anshuman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118213932",
+    "imdb": "tt15502334",
+    "tmdb": 1118467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05"
+}

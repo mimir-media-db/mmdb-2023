@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_happy_ending_2023",
+  "title": "My Happy Ending",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116814534",
+    "imdb": "tt3197780",
+    "tmdb": 952875
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 89
+}

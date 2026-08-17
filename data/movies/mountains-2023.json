@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mountains_2023",
+  "title": "The Mountains",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117310857",
+    "imdb": "tt26908516",
+    "tmdb": 1091330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 88
+}

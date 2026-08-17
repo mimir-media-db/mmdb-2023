@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_milky_way_2023",
+  "title": "The Milky Way",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130240868",
+    "imdb": "tt27672725",
+    "tmdb": 1093607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-14",
+  "runtime_minutes": 98
+}

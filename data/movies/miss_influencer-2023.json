@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_influencer_2023",
+  "title": "Miss Influencer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123397634",
+    "imdb": "tt28282020",
+    "tmdb": 1150112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

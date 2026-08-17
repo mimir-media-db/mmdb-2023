@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_ex_2023",
+  "title": "Mr. EX",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118322798",
+    "imdb": "tt20244880",
+    "tmdb": 968448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-28",
+  "runtime_minutes": 101
+}

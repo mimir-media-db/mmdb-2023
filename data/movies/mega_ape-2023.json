@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mega_ape_2023",
+  "title": "Mega Ape",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125813045",
+    "imdb": "tt21215806",
+    "tmdb": 1124023
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-12"
+}

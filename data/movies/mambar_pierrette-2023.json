@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mambar_pierrette_2023",
+  "title": "Mambar Pierrette",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124316360",
+    "imdb": "tt27819782",
+    "tmdb": 1114896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-21",
+  "runtime_minutes": 93
+}

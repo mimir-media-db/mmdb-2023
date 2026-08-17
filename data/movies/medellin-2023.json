@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_medellin_2023",
+  "title": "Medellin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118945384",
+    "imdb": "tt27714278",
+    "tmdb": 961718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02"
+}

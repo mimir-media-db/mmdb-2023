@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_megalodon_the_frenzy_2023",
+  "title": "Megalodon: The Frenzy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123495283",
+    "imdb": "tt27572862",
+    "tmdb": 1165918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

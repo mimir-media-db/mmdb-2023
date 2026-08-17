@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_metallica_72_seasons_global_premiere_2023",
+  "title": "Metallica: 72 Seasons - Global Premiere",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118959074",
+    "imdb": "tt27349150",
+    "tmdb": 1088068
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-13"
+}

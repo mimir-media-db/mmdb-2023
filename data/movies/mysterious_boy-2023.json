@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mysterious_boy_2023",
+  "title": "The Mysterious Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123476487",
+    "imdb": "tt29803178"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17"
+}

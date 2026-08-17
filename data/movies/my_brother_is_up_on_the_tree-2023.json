@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brother_is_up_on_the_tree_2023",
+  "title": "My Brother is Up on the Tree",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115688454",
+    "imdb": "tt26007720",
+    "tmdb": 1069974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-18"
+}

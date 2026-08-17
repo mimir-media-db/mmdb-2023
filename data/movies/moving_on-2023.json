@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_moving_on_2023",
+  "title": "Moving On",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113714300",
+    "imdb": "tt15488088",
+    "tmdb": 953365
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17",
+  "runtime_minutes": 85
+}

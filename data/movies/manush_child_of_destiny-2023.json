@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manush_child_of_destiny_2023",
+  "title": "Manush: Child of Destiny",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123221688",
+    "imdb": "tt29231881",
+    "tmdb": 977266
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-24",
+  "runtime_minutes": 124
+}

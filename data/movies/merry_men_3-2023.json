@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_merry_men_3_2023",
+  "title": "Merry Men 3",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130532669",
+    "imdb": "tt29482955",
+    "tmdb": 1190800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

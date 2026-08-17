@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvels_2023",
+  "title": "The Marvels",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q89474225",
+    "imdb": "tt10676048",
+    "tmdb": 609681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-08",
+  "runtime_minutes": 105
+}

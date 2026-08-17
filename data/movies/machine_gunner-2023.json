@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_machine_gunner_2023",
+  "title": "Machine Gunner",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124329507",
+    "imdb": "tt28086675",
+    "tmdb": 1177641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 202
+}

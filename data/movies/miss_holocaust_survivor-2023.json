@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_holocaust_survivor_2023",
+  "title": "Miss Holocaust Survivor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122942646",
+    "imdb": "tt9564870",
+    "tmdb": 853256
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-09",
+  "runtime_minutes": 87
+}

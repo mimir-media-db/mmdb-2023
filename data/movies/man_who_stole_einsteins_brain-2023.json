@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_who_stole_einsteins_brain_2023",
+  "title": "The Man Who Stole Einstein's Brain",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126870050",
+    "imdb": "tt27436755",
+    "tmdb": 1105900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

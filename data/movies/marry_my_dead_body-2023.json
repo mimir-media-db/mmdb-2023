@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marry_my_dead_body_2023",
+  "title": "Marry My Dead Body",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111397183",
+    "imdb": "tt22742964",
+    "tmdb": 983883
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_dressup_the_magic_of_makebelieve_2023",
+  "title": "Mr. Dressup: The Magic of Make-Believe",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121161343",
+    "imdb": "tt12277540",
+    "tmdb": 1154686
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

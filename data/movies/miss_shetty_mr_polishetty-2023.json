@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_shetty_mr_polishetty_2023",
+  "title": "Miss. Shetty Mr. Polishetty",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122038718",
+    "imdb": "tt15891388",
+    "tmdb": 1045385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 147
+}

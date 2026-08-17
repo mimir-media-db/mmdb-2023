@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_muzzle_2023",
+  "title": "Muzzle",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116006542",
+    "imdb": "tt17663876",
+    "tmdb": 939335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29",
+  "runtime_minutes": 96
+}

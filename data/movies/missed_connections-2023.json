@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_missed_connections_2023",
+  "title": "Missed Connections",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119260699",
+    "imdb": "tt27703325",
+    "tmdb": 1123342
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02"
+}

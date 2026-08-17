@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_matria_2023",
+  "title": "Matria",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116864794",
+    "imdb": "tt13866630",
+    "tmdb": 936368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 99
+}

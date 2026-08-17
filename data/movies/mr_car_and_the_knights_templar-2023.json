@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_car_and_the_knights_templar_2023",
+  "title": "Mr. Car and the Knights Templar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121028403",
+    "imdb": "tt27876411",
+    "tmdb": 1059638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

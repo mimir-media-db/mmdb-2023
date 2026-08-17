@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_impossible_dead_reckoning_part_one_2023",
+  "title": "Mission: Impossible – Dead Reckoning Part One",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61876370",
+    "imdb": "tt9603212",
+    "tmdb": 575264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-12",
+  "runtime_minutes": 163
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_paper_dolls_2023",
+  "title": "My Paper Dolls",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120667948",
+    "imdb": "tt16280438",
+    "tmdb": 1103868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 101
+}
