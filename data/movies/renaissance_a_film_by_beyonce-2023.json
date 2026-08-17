@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_renaissance_a_film_by_beyonce_2023",
+  "title": "Renaissance: A Film by Beyoncé",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122912767",
+    "imdb": "tt29354040",
+    "tmdb": 1185743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-01",
+  "runtime_minutes": 169
+}

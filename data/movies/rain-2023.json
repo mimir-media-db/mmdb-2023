@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rain_2023",
+  "title": "Rain",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125471449",
+    "imdb": "tt10345346",
+    "tmdb": 676843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

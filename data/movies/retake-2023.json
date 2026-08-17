@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_retake_2023",
+  "title": "Retake",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130403946",
+    "imdb": "tt32856979",
+    "tmdb": 1138602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-28",
+  "runtime_minutes": 110
+}

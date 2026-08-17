@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_riley_2023",
+  "title": "Riley",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124248117",
+    "imdb": "tt19848676",
+    "tmdb": 1177865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-24",
+  "runtime_minutes": 93
+}

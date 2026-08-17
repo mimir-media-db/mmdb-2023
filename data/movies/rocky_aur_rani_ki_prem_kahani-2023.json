@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rocky_aur_rani_ki_prem_kahani_2023",
+  "title": "Rocky Aur Rani Ki Prem Kahani",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108392396",
+    "imdb": "tt14993250",
+    "tmdb": 848116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-28",
+  "runtime_minutes": 168
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romina_vtm_2023",
+  "title": "Romina, VTM",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116159809",
+    "imdb": "tt25965930",
+    "tmdb": 1072568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-02"
+}

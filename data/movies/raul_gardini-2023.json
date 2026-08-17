@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raul_gardini_2023",
+  "title": "Raul Gardini",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130241325",
+    "imdb": "tt29173903",
+    "tmdb": 1154216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

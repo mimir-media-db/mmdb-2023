@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rapunzels_fluch_2_2023",
+  "title": "Rapunzels Fluch 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126368254",
+    "imdb": "tt16253628",
+    "tmdb": 1176418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 77
+}

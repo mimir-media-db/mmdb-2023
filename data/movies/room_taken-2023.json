@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_taken_2023",
+  "title": "Room Taken",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131705938",
+    "imdb": "tt29258555",
+    "tmdb": 1204623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

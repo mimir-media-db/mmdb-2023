@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_roma_nuda_2023",
+  "title": "Roma nuda",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23899957",
+    "imdb": "tt30150855",
+    "tmdb": 1231710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

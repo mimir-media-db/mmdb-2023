@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_retour_en_alexandrie_2023",
+  "title": "Retour en Alexandrie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131746548",
+    "imdb": "tt3104110",
+    "tmdb": 1001402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-28"
+}

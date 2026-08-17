@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ride_on_2023",
+  "title": "Ride On",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117353743",
+    "imdb": "tt15430628",
+    "tmdb": 931102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_romantic_girls_2023",
+  "title": "Romantic Girls",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117072006",
+    "imdb": "tt15198954",
+    "tmdb": 889810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-23",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_richard_the_stork_and_the_mystery_of_the_great_jewel_2023",
+  "title": "Richard the Stork and the Mystery of the Great Jewel",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117622189",
+    "imdb": "tt14514964",
+    "tmdb": 1061855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-23",
+  "runtime_minutes": 82
+}

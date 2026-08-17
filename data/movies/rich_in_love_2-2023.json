@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rich_in_love_2_2023",
+  "title": "Rich in Love 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119111845",
+    "imdb": "tt23144234",
+    "tmdb": 1126852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02"
+}

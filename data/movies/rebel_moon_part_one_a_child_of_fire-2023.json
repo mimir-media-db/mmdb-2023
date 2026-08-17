@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_moon_part_one_a_child_of_fire_2023",
+  "title": "Rebel Moon — Part One: A Child of Fire",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111629600",
+    "imdb": "tt14998742",
+    "tmdb": 848326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-15",
+  "runtime_minutes": 135
+}

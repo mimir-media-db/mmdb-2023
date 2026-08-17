@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reeds_2023",
+  "title": "The Reeds",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124384877",
+    "imdb": "tt28632349",
+    "tmdb": 1163190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 125
+}

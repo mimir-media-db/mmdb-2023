@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rancher_101_2023",
+  "title": "Rancher 101",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123566510",
+    "imdb": "tt21342760",
+    "tmdb": 1034411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}
