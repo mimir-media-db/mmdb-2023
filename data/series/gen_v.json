@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gen_v",
+  "title": "Gen V",
+  "start_year": 2023,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q112623392",
+    "imdb": "tt13159924",
+    "tmdb": 205715
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

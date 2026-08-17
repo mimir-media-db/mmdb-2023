@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_gaslight",
+  "title": "Gaslight",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116457483",
+    "imdb": "tt22816472",
+    "tmdb": 236011
+  },
+  "last_updated": "2026-08-17"
+}

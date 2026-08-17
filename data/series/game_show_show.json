@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_game_show_show",
+  "title": "The Game Show Show",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117833668",
+    "imdb": "tt27566111",
+    "tmdb": 225023
+  },
+  "last_updated": "2026-08-17"
+}

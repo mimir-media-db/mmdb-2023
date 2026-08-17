@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_german_crime_story_deadlock",
+  "title": "German Crime Story: Deadlock",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116187095",
+    "imdb": "tt23473230",
+    "tmdb": 218069
+  },
+  "last_updated": "2026-08-17"
+}

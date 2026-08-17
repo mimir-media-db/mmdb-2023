@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_bad_mother",
+  "title": "The Good Bad Mother",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116230044",
+    "imdb": "tt27042206",
+    "tmdb": 214999
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}
