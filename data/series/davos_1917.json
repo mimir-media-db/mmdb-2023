@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_davos_1917",
+  "title": "Davos 1917",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123598630",
+    "imdb": "tt12934800",
+    "tmdb": 237108
+  },
+  "last_updated": "2026-08-17"
+}

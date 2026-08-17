@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_from_beledweyne",
+  "title": "The Detective from Beledweyne",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116276920",
+    "imdb": "tt19878236",
+    "tmdb": 222222
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

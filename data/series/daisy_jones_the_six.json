@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_daisy_jones_the_six",
+  "title": "Daisy Jones & The Six",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q56274719",
+    "imdb": "tt8749198",
+    "tmdb": 95555
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

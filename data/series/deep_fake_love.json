@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_deep_fake_love",
+  "title": "Deep Fake Love",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121255738",
+    "imdb": "tt28022865",
+    "tmdb": 228628
+  },
+  "last_updated": "2026-08-17"
+}

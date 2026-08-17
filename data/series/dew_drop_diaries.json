@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dew_drop_diaries",
+  "title": "Dew Drop Diaries",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123984516",
+    "imdb": "tt18079106",
+    "tmdb": 218577
+  },
+  "last_updated": "2026-08-17"
+}

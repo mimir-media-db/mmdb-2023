@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_hearts",
+  "title": "Dark Hearts",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116981507",
+    "imdb": "tt26605367",
+    "tmdb": 217583
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_daily_show_with_leslie_jones",
+  "title": "The Daily Show with Leslie Jones",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116915167"
+  },
+  "last_updated": "2026-08-17"
+}

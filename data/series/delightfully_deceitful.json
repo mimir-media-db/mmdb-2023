@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_delightfully_deceitful",
+  "title": "Delightfully Deceitful",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117085988",
+    "imdb": "tt27368102",
+    "tmdb": 210218
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
