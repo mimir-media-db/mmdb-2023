@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_criminal_code",
+  "title": "Criminal Code",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123260545",
+    "imdb": "tt22459586",
+    "tmdb": 235924
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cnn_news_central",
+  "title": "CNN News Central",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117127517",
+    "imdb": "tt27077170",
+    "tmdb": 223475
+  },
+  "last_updated": "2026-08-17"
+}

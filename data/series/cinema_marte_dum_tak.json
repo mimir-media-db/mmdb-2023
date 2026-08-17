@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_cinema_marte_dum_tak",
+  "title": "Cinema Marte Dum Tak",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118905153",
+    "imdb": "tt21908844",
+    "tmdb": 218659
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chhotolok",
+  "title": "Chhotolok",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123180760",
+    "imdb": "tt29458434",
+    "tmdb": 238748
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

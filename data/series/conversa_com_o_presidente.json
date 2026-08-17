@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_conversa_com_o_presidente",
+  "title": "Conversa com o Presidente",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120906845"
+  },
+  "last_updated": "2026-08-17"
+}

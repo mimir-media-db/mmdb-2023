@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_canadas_ultimate_challenge",
+  "title": "Canada's Ultimate Challenge",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125358535",
+    "imdb": "tt21057942",
+    "tmdb": 215442
+  },
+  "last_updated": "2026-08-17"
+}

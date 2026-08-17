@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comedy_island_philippines",
+  "title": "Comedy Island Philippines",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122160018",
+    "imdb": "tt28506548",
+    "tmdb": 231460
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
