@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tree_on_a_hill",
+  "title": "Tree on a Hill",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124331638",
+    "imdb": "tt29902630",
+    "tmdb": 247810
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}
