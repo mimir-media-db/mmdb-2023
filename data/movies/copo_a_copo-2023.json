@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_copo_a_copo_2023",
+  "title": "Copo A Copo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130334539",
+    "imdb": "tt29267898",
+    "tmdb": 1176549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17"
+}

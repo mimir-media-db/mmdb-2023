@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chouk_el_ward_2023",
+  "title": "Chouk El Ward",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120908005",
+    "imdb": "tt27472614",
+    "tmdb": 1112318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-29"
+}

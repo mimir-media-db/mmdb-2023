@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuba_voyage_dans_une_nation_lowtech_2023",
+  "title": "Cuba, voyage dans une nation low-tech",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134546782",
+    "imdb": "tt26245414",
+    "tmdb": 1097872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 52
+}

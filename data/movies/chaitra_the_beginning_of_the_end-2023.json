@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaitra_the_beginning_of_the_end_2023",
+  "title": "Chaitra - the Beginning of the End",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123521429",
+    "imdb": "tt27510705",
+    "tmdb": 1115728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17"
+}

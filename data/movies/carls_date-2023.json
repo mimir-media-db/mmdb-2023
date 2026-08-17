@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_carls_date_2023",
+  "title": "Carl's Date",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117599103",
+    "imdb": "tt26736061",
+    "tmdb": 1076364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-15"
+}

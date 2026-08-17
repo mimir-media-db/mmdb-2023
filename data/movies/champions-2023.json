@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_2023",
+  "title": "Champions",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116635541",
+    "imdb": "tt15339570",
+    "tmdb": 933419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10",
+  "runtime_minutes": 124
+}

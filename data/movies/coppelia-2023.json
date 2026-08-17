@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coppelia_2023",
+  "title": "Coppelia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111019397",
+    "imdb": "tt9204110",
+    "tmdb": 832088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17",
+  "runtime_minutes": 82
+}

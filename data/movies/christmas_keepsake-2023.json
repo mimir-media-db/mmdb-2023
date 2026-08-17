@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_keepsake_2023",
+  "title": "Christmas Keepsake",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135919326",
+    "imdb": "tt29896146",
+    "tmdb": 1180383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

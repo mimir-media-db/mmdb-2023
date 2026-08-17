@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_copy_2023",
+  "title": "Cold Copy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117815968",
+    "imdb": "tt22392694",
+    "tmdb": 1029654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-11",
+  "runtime_minutes": 91
+}

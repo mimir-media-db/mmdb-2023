@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cet_etela_2023",
+  "title": "Cet été-là",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116073076",
+    "imdb": "tt15783304",
+    "tmdb": 958635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06",
+  "runtime_minutes": 99
+}

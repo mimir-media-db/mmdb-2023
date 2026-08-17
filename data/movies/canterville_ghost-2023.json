@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_canterville_ghost_2023",
+  "title": "The Canterville Ghost",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15270669",
+    "imdb": "tt2403439",
+    "tmdb": 269509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-15",
+  "runtime_minutes": 89
+}

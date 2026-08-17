@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confinement_2023",
+  "title": "Confinement",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122354797",
+    "imdb": "tt24072500",
+    "tmdb": 1143310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19",
+  "runtime_minutes": 96
+}

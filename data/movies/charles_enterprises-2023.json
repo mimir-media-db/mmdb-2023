@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_charles_enterprises_2023",
+  "title": "Charles Enterprises",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118501207",
+    "imdb": "tt22015520",
+    "tmdb": 946297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19"
+}

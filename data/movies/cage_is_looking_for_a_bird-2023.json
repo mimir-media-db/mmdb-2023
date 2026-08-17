@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cage_is_looking_for_a_bird_2023",
+  "title": "The Cage is Looking for a Bird",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116402945",
+    "imdb": "tt26441515",
+    "tmdb": 1077678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 87
+}

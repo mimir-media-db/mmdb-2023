@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_bonita_2023",
+  "title": "Candy & Bonita",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121373503",
+    "imdb": "tt21189854",
+    "tmdb": 994887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06"
+}

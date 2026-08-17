@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cocoon_2023",
+  "title": "Cocoon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84844242",
+    "imdb": "tt10107222",
+    "tmdb": 656483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-05",
+  "runtime_minutes": 94
+}

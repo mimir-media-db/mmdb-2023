@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_curry_cyanide_the_jolly_joseph_case_2023",
+  "title": "Curry & Cyanide: The Jolly Joseph Case",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123973477",
+    "imdb": "tt30177031",
+    "tmdb": 1217392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-22"
+}

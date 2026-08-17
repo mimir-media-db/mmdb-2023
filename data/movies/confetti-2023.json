@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confetti_2023",
+  "title": "Confetti",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130404317",
+    "imdb": "tt38282055",
+    "tmdb": 1212497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-15",
+  "runtime_minutes": 80
+}

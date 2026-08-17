@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chubai_hovoryty_znovu_2023",
+  "title": "Chubai. Hovoryty znovu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573882",
+    "imdb": "tt26420168",
+    "tmdb": 1076912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 103
+}

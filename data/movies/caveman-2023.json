@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caveman_2023",
+  "title": "Caveman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100740657",
+    "imdb": "tt14211736",
+    "tmdb": 899946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crimson_snout_2023",
+  "title": "Crimson Snout",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123992513",
+    "imdb": "tt30611573",
+    "tmdb": 1222274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-29",
+  "runtime_minutes": 99
+}

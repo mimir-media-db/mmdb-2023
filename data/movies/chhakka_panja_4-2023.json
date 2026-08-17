@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chhakka_panja_4_2023",
+  "title": "Chhakka Panja 4",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117204154",
+    "imdb": "tt26934236",
+    "tmdb": 1096377
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-03",
+  "runtime_minutes": 152
+}

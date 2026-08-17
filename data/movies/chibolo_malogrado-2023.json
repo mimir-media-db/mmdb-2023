@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chibolo_malogrado_2023",
+  "title": "Chibolo malogrado",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134900",
+    "imdb": "tt33317770",
+    "tmdb": 1222224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

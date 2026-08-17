@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_choose_love_2023",
+  "title": "Choose Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121091491",
+    "imdb": "tt19267924",
+    "tmdb": 956502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 77
+}

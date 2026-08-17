@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_comedy_of_war_laughter_in_ukraine_2023",
+  "title": "Comedy of War: Laughter in Ukraine",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575596",
+    "imdb": "tt26591084",
+    "tmdb": 1122948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-13",
+  "runtime_minutes": 92
+}

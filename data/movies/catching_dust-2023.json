@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catching_dust_2023",
+  "title": "Catching Dust",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123511614",
+    "imdb": "tt20860736",
+    "tmdb": 992638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-11",
+  "runtime_minutes": 100
+}

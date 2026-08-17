@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_centurion_the_dancing_stallion_2023",
+  "title": "Centurion: The Dancing Stallion",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119791858",
+    "imdb": "tt10387818",
+    "tmdb": 613803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-25",
+  "runtime_minutes": 98
+}

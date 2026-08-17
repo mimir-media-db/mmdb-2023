@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corazon_de_padre_2023",
+  "title": "Corazón de Padre",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117083226",
+    "imdb": "tt15832390",
+    "tmdb": 858885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-19",
+  "runtime_minutes": 87
+}

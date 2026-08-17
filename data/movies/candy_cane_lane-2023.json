@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candy_cane_lane_2023",
+  "title": "Candy Cane Lane",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116846281",
+    "imdb": "tt21328106",
+    "tmdb": 1022964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-01",
+  "runtime_minutes": 120
+}
