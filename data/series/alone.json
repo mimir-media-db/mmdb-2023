@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alone",
+  "title": "Alone",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124080597",
+    "imdb": "tt27795373",
+    "tmdb": 231625
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_at_home_with_the_furys",
+  "title": "At Home with the Furys",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122640113",
+    "imdb": "tt21875120",
+    "tmdb": 230939
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_assistant_inspector_daimajin",
+  "title": "Assistant Inspector: Daimajin",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116768244",
+    "imdb": "tt27759517",
+    "tmdb": 228492
+  },
+  "last_updated": "2026-08-17"
+}

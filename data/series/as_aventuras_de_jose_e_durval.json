@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_as_aventuras_de_jose_e_durval",
+  "title": "As Aventuras de José e Durval",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116291646",
+    "imdb": "tt21392686",
+    "tmdb": 194613
+  },
+  "last_updated": "2026-08-17"
+}

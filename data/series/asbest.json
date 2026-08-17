@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_asbest",
+  "title": "Asbest",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125861371",
+    "imdb": "tt21148370",
+    "tmdb": 218729
+  },
+  "last_updated": "2026-08-17"
+}
