@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_evolving_vegan",
+  "title": "Evolving Vegan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125314901",
+    "imdb": "tt21614490",
+    "tmdb": 224079
+  },
+  "last_updated": "2026-08-17"
+}

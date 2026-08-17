@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_enigma",
+  "title": "Enigma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115516388",
+    "imdb": "tt23874798",
+    "tmdb": 229778
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

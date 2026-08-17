@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_eramos_seis",
+  "title": "Éramos Seis",
+  "start_year": 2023,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q62566838",
+    "imdb": "tt11065088",
+    "tmdb": 105733
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 154
+}

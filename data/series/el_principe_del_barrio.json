@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_el_principe_del_barrio",
+  "title": "El príncipe del barrio",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120644153",
+    "imdb": "tt28704644",
+    "tmdb": 229590
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 23
+}

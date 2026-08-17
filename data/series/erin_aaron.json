@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_erin_aaron",
+  "title": "Erin & Aaron",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117603441",
+    "imdb": "tt12225618",
+    "tmdb": 222024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

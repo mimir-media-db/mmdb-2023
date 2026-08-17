@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_imperio_de_los_chimpances",
+  "title": "El imperio de los chimpancés",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q118907482",
+    "imdb": "tt27205918",
+    "tmdb": 222792
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}
