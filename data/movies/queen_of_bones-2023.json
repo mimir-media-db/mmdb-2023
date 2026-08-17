@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_bones_2023",
+  "title": "Queen of Bones",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124556281",
+    "imdb": "tt15207270",
+    "tmdb": 1018852
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-02"
+}

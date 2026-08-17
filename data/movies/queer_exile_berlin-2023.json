@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queer_exile_berlin_2023",
+  "title": "Queer Exile Berlin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124848472",
+    "imdb": "tt28710673",
+    "tmdb": 1095294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 104
+}

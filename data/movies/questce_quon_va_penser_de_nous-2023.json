@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_questce_quon_va_penser_de_nous_2023",
+  "title": "Qu'est-ce qu'on va penser de nous ?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123624229",
+    "imdb": "tt30270675",
+    "tmdb": 1116705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14"
+}

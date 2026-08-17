@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_tut_2023",
+  "title": "Queen Tut",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124624113",
+    "imdb": "tt6903164",
+    "tmdb": 1020386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 91
+}
