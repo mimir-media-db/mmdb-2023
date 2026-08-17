@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kilimandscharo_diesmal_mit_krucken_2023",
+  "title": "Kilimandscharo – diesmal mit Krücken",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116209622",
+    "imdb": "tt26243256",
+    "tmdb": 1105566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-01",
+  "runtime_minutes": 109
+}

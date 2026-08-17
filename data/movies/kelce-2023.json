@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kelce_2023",
+  "title": "Kelce",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129260661",
+    "imdb": "tt28656365",
+    "tmdb": 1169207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-01",
+  "runtime_minutes": 103
+}

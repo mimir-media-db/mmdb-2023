@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_him_2023",
+  "title": "Kill Him",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131386721",
+    "imdb": "tt27480701",
+    "tmdb": 1020193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-22"
+}

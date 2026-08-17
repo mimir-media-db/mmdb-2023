@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_klem_de_film_2023",
+  "title": "KLEM: de film",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111971798",
+    "imdb": "tt20251994",
+    "tmdb": 1039107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

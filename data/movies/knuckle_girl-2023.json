@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knuckle_girl_2023",
+  "title": "Knuckle Girl",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123752790",
+    "imdb": "tt29253563",
+    "tmdb": 1178734
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-25",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kid_revenge_2023",
+  "title": "Kid Revenge",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123920206",
+    "imdb": "tt27504996",
+    "tmdb": 1093911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

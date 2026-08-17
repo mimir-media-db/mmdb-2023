@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killers_of_the_flower_moon_2023",
+  "title": "Killers of the Flower Moon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66316924",
+    "imdb": "tt5537002",
+    "tmdb": 466420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-20",
+  "runtime_minutes": 206
+}

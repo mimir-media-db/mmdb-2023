@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_me_again_2023",
+  "title": "Kill Me Again",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140421513"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ketika_berhenti_di_sini_2023",
+  "title": "Ketika Berhenti di Sini",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121029650",
+    "imdb": "tt24546804",
+    "tmdb": 1062000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-27",
+  "runtime_minutes": 102
+}

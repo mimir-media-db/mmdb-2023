@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kabayo_2023",
+  "title": "Kabayo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120503043",
+    "imdb": "tt27799221",
+    "tmdb": 1127209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-26"
+}

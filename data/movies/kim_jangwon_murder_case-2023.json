@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kim_jangwon_murder_case_2023",
+  "title": "Kim Jang-won Murder Case",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842344",
+    "tmdb": 1248488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-15"
+}

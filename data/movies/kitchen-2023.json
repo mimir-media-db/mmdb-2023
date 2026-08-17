@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kitchen_2023",
+  "title": "The Kitchen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121544678",
+    "imdb": "tt4460800",
+    "tmdb": 956262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 107
+}

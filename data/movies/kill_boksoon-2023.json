@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_boksoon_2023",
+  "title": "Kill Boksoon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114414622",
+    "imdb": "tt16900880",
+    "tmdb": 849869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-18",
+  "runtime_minutes": 137
+}

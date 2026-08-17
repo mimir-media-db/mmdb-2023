@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kurs_sudwest_das_abenteuer_meines_lebens_2023",
+  "title": "Kurs Südwest – Das Abenteuer meines Lebens",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120885635",
+    "imdb": "tt21261338",
+    "tmdb": 1178175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 102
+}

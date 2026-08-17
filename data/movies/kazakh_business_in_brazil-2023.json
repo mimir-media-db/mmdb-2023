@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kazakh_business_in_brazil_2023",
+  "title": "Kazakh Business in Brazil",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133843453",
+    "imdb": "tt36464615",
+    "tmdb": 1266064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

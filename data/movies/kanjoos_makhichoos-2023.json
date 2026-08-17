@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kanjoos_makhichoos_2023",
+  "title": "Kanjoos Makhichoos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117322876",
+    "imdb": "tt15717242",
+    "tmdb": 1099677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-24"
+}

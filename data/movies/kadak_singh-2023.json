@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kadak_singh_2023",
+  "title": "Kadak Singh",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123505874",
+    "imdb": "tt23865712",
+    "tmdb": 1072758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08"
+}

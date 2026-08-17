@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_of_a_journalist_2023",
+  "title": "The Killing of a Journalist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113362750",
+    "imdb": "tt21093696",
+    "tmdb": 956443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-27",
+  "runtime_minutes": 102
+}

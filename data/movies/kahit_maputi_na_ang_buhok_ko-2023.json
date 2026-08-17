@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kahit_maputi_na_ang_buhok_ko_2023",
+  "title": "Kahit Maputi Na Ang Buhok Ko",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117185384",
+    "imdb": "tt27441563",
+    "tmdb": 1092101
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-08"
+}
