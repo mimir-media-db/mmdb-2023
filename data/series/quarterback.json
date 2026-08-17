@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_quarterback",
+  "title": "Quarterback",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117032178",
+    "imdb": "tt26777035",
+    "tmdb": 220998
+  },
+  "last_updated": "2026-08-17"
+}
