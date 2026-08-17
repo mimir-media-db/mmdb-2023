@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_natural_history_of_destruction_2023",
+  "title": "The Natural History of Destruction",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116209547",
+    "imdb": "tt19725896",
+    "tmdb": 958000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-16",
+  "runtime_minutes": 112
+}

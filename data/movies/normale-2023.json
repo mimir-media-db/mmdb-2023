@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_normale_2023",
+  "title": "Normale",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117347833",
+    "imdb": "tt14646488",
+    "tmdb": 964917
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-05",
+  "runtime_minutes": 87
+}

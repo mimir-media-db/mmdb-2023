@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nanda_maaternk_chatasali_2023",
+  "title": "Nanda maater'nk chatasali",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129750778",
+    "imdb": "tt32414572",
+    "tmdb": 1310470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-07",
+  "runtime_minutes": 90
+}

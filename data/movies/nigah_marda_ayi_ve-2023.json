@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nigah_marda_ayi_ve_2023",
+  "title": "Nigah Marda Ayi Ve",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117219393",
+    "imdb": "tt15422336",
+    "tmdb": 1100668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

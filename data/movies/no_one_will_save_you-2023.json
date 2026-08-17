@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_one_will_save_you_2023",
+  "title": "No One Will Save You",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122231675",
+    "imdb": "tt14509110",
+    "tmdb": 820609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-22",
+  "runtime_minutes": 93
+}

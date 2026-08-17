@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_no_boundaries_2023",
+  "title": "No Boundaries",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598143",
+    "tmdb": 1218553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nandor_fodor_and_the_talking_mongoose_2023",
+  "title": "Nandor Fodor and the Talking Mongoose",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118640058",
+    "imdb": "tt19838620",
+    "tmdb": 979287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

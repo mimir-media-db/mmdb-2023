@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_notes_for_a_film_2023",
+  "title": "Notes For a Film",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115314091",
+    "imdb": "tt23769836",
+    "tmdb": 938376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

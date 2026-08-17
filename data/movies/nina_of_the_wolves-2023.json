@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nina_of_the_wolves_2023",
+  "title": "Nina of the Wolves",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121896899",
+    "imdb": "tt21142038",
+    "tmdb": 1150687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-30",
+  "runtime_minutes": 104
+}

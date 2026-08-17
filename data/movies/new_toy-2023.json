@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_toy_2023",
+  "title": "The New Toy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113124603",
+    "imdb": "tt13361648",
+    "tmdb": 865498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neymar_2023",
+  "title": "Neymar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118399065",
+    "imdb": "tt18250130",
+    "tmdb": 937053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-12"
+}

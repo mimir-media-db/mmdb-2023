@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_boy_2023",
+  "title": "The New Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117745345",
+    "imdb": "tt18180926",
+    "tmdb": 937161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 116
+}

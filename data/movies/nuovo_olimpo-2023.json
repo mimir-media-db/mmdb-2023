@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nuovo_olimpo_2023",
+  "title": "Nuovo Olimpo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116770614",
+    "imdb": "tt18394610",
+    "tmdb": 1044648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-22",
+  "runtime_minutes": 111
+}
