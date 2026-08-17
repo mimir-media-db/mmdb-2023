@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elevator_game_2023",
+  "title": "Elevator Game",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122830666",
+    "imdb": "tt14013772",
+    "tmdb": 1015303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-07",
+  "runtime_minutes": 94
+}

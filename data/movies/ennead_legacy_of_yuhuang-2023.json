@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ennead_legacy_of_yuhuang_2023",
+  "title": "The Ennead Legacy of Yuhuang",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136485863",
+    "imdb": "tt33767849",
+    "tmdb": 1212794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-04",
+  "runtime_minutes": 90
+}

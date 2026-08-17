@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hombre_mas_fuerte_del_mundo_2023",
+  "title": "El hombre más fuerte del mundo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474458",
+    "imdb": "tt33592924"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 75
+}

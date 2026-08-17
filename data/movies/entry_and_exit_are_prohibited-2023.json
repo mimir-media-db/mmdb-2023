@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_entry_and_exit_are_prohibited_2023",
+  "title": "The Entry and Exit Are Prohibited",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109550121",
+    "imdb": "tt29133958",
+    "tmdb": 1265828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-06"
+}

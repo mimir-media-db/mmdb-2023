@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_et_tu_2023",
+  "title": "Et Tu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135484808",
+    "imdb": "tt17422606",
+    "tmdb": 1158149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-05"
+}

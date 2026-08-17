@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_we_start_from_2023",
+  "title": "The End We Start From",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114344999",
+    "imdb": "tt21810682",
+    "tmdb": 973778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 96
+}

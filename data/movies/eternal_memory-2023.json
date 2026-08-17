@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_memory_2023",
+  "title": "The Eternal Memory",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116555909",
+    "imdb": "tt24082488",
+    "tmdb": 1032760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-21",
+  "runtime_minutes": 85
+}

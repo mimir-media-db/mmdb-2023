@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_asistente_2023",
+  "title": "El asistente",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124361535",
+    "imdb": "tt23873674",
+    "tmdb": 1080566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

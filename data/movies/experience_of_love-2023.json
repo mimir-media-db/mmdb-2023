@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_experience_of_love_2023",
+  "title": "The (Ex)perience of Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119477689",
+    "imdb": "tt27812279",
+    "tmdb": 989232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-20",
+  "runtime_minutes": 89
+}

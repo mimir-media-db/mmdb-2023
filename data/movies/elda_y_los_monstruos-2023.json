@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_elda_y_los_monstruos_2023",
+  "title": "Elda y los monstruos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128629866",
+    "imdb": "tt29961408",
+    "tmdb": 1123533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

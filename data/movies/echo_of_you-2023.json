@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_echo_of_you_2023",
+  "title": "Echo of You",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127504628",
+    "imdb": "tt29418455",
+    "tmdb": 1206405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

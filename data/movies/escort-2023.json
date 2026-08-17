@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_escort_2023",
+  "title": "Escort",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120764608",
+    "imdb": "tt28150540",
+    "tmdb": 1030542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 120
+}

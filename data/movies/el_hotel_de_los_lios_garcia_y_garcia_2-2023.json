@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_hotel_de_los_lios_garcia_y_garcia_2_2023",
+  "title": "El hotel de los líos. García y García 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118113637",
+    "imdb": "tt21957640",
+    "tmdb": 1040861
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

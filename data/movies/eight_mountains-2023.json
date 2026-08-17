@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eight_mountains_2023",
+  "title": "The Eight Mountains",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111751446",
+    "imdb": "tt14641542",
+    "tmdb": 803700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-05",
+  "runtime_minutes": 147
+}

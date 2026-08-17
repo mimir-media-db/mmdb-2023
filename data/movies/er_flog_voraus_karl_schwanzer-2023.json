@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_er_flog_voraus_karl_schwanzer_2023",
+  "title": "Er flog voraus - Karl Schwanzer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116620000",
+    "imdb": "tt22855716",
+    "tmdb": 1064324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16",
+  "runtime_minutes": 73
+}

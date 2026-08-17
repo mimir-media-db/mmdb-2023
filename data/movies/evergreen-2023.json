@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evergreen_2023",
+  "title": "Evergreen$",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131729268",
+    "imdb": "tt30088296",
+    "tmdb": 988371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-18",
+  "runtime_minutes": 111
+}
