@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_385_quai_des_orfevres_2023",
+  "title": "38°5 quai des Orfèvres",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118532278",
+    "imdb": "tt17977602",
+    "tmdb": 958603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-21",
+  "runtime_minutes": 84
+}
