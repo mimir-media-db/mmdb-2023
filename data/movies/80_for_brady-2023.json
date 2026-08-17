@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_80_for_brady_2023",
+  "title": "80 for Brady",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111941323",
+    "imdb": "tt18079362",
+    "tmdb": 942922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03"
+}
