@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fulbari_2023",
+  "title": "Fulbari",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116148000",
+    "imdb": "tt25828590",
+    "tmdb": 1072296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 131
+}

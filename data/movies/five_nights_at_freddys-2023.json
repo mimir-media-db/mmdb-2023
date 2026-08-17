@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_five_nights_at_freddys_2023",
+  "title": "Five Nights at Freddy's",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21512706",
+    "imdb": "tt4589218",
+    "tmdb": 507089
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-25",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_better_and_for_worst_2023",
+  "title": "For Better and for Worst",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116510820",
+    "imdb": "tt23740404",
+    "tmdb": 875818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-15",
+  "runtime_minutes": 98
+}

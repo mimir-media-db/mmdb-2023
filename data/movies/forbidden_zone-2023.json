@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_zone_2023",
+  "title": "Forbidden Zone",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136733901",
+    "imdb": "tt28495752",
+    "tmdb": 1154609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21",
+  "runtime_minutes": 87
+}

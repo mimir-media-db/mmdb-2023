@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_falling_into_place_2023",
+  "title": "Falling into Place",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123509868",
+    "imdb": "tt10334160",
+    "tmdb": 854062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

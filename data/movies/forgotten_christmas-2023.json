@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgotten_christmas_2023",
+  "title": "Forgotten Christmas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100255627",
+    "imdb": "tt9316574",
+    "tmdb": 579299
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-15",
+  "runtime_minutes": 70
+}

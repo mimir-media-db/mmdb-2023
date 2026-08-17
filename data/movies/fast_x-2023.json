@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fast_x_2023",
+  "title": "Fast X",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31271369",
+    "imdb": "tt5433140",
+    "tmdb": 385687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-17",
+  "runtime_minutes": 141
+}

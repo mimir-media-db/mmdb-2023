@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fur_immer_2023",
+  "title": "Für immer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122982223",
+    "imdb": "tt27605958",
+    "tmdb": 1127728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-04",
+  "runtime_minutes": 87
+}

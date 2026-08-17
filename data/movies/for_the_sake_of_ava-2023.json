@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_for_the_sake_of_ava_2023",
+  "title": "For the sake of Ava",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122873769",
+    "imdb": "tt27739334",
+    "tmdb": 1206148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

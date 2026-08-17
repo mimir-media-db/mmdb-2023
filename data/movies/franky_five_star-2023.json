@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_franky_five_star_2023",
+  "title": "Franky Five Star",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131421428",
+    "imdb": "tt14717832",
+    "tmdb": 716936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 114
+}

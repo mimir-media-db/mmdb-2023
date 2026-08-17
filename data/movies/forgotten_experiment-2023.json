@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forgotten_experiment_2023",
+  "title": "Forgotten Experiment",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119240996",
+    "imdb": "tt7106686",
+    "tmdb": 586373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-15",
+  "runtime_minutes": 105
+}

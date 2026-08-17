@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fatafati_2023",
+  "title": "Fatafati",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118150589",
+    "imdb": "tt27443234",
+    "tmdb": 949024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-12"
+}

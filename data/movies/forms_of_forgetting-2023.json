@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_forms_of_forgetting_2023",
+  "title": "Forms of Forgetting",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116821182",
+    "imdb": "tt26256598",
+    "tmdb": 1074763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_final_race_2023",
+  "title": "The Final Race",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112045668",
+    "imdb": "tt20355484",
+    "tmdb": 1135894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-25"
+}

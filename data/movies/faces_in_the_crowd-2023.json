@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faces_in_the_crowd_2023",
+  "title": "Faces in the Crowd",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354289",
+    "imdb": "tt28378144",
+    "tmdb": 846519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14"
+}

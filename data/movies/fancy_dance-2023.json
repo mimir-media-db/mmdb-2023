@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fancy_dance_2023",
+  "title": "Fancy Dance",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116730348",
+    "imdb": "tt21813994",
+    "tmdb": 1058617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 90
+}

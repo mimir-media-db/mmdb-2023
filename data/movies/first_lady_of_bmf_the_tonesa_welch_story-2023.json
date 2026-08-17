@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_first_lady_of_bmf_the_tonesa_welch_story_2023",
+  "title": "First Lady of BMF: The Tonesa Welch Story",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124285715",
+    "imdb": "tt26770557",
+    "tmdb": 1184185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-05",
+  "runtime_minutes": 120
+}

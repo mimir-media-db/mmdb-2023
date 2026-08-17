@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frybread_face_and_me_2023",
+  "title": "Frybread Face and Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116186864",
+    "imdb": "tt13365482",
+    "tmdb": 844026
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

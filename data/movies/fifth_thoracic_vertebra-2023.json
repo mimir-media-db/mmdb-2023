@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fifth_thoracic_vertebra_2023",
+  "title": "The Fifth Thoracic Vertebra",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598086",
+    "imdb": "tt23640302",
+    "tmdb": 987577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-02"
+}

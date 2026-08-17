@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_frank_capra_mr_america_2023",
+  "title": "Frank Capra: Mr. America",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126189108",
+    "imdb": "tt23185166",
+    "tmdb": 1156335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feminism_wtf_2023",
+  "title": "Feminism WTF",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117014905",
+    "imdb": "tt25009534",
+    "tmdb": 1064563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 90
+}

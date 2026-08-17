@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_plan_2023",
+  "title": "The Family Plan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116675252",
+    "imdb": "tt16431870",
+    "tmdb": 1029575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-15",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fools_of_fame_2023",
+  "title": "Fools of Fame",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119486416",
+    "imdb": "tt20452618",
+    "tmdb": 961012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 85
+}

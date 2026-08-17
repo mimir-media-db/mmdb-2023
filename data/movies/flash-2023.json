@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flash_2023",
+  "title": "The Flash",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23562553",
+    "imdb": "tt0439572",
+    "tmdb": 298618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14",
+  "runtime_minutes": 144
+}

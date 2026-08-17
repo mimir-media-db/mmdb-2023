@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freedom_2023",
+  "title": "Freedom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119260334",
+    "imdb": "tt25504794",
+    "tmdb": 1140259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 108
+}
