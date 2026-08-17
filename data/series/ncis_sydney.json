@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ncis_sydney",
+  "title": "NCIS: Sydney",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111133839",
+    "imdb": "tt18258908",
+    "tmdb": 157950
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 38
+}

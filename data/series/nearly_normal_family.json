@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nearly_normal_family",
+  "title": "A Nearly Normal Family",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116297443",
+    "imdb": "tt22780536",
+    "tmdb": 235571
+  },
+  "last_updated": "2026-08-17"
+}

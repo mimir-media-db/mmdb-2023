@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_night_agent",
+  "title": "The Night Agent",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116909156",
+    "imdb": "tt13918776",
+    "tmdb": 129552
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

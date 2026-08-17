@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_nurse",
+  "title": "The Nurse",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117196495",
+    "imdb": "tt24948454",
+    "tmdb": 221802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}
