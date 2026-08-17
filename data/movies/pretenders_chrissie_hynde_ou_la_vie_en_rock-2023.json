@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pretenders_chrissie_hynde_ou_la_vie_en_rock_2023",
+  "title": "The Pretenders: Chrissie Hynde ou la vie en rock",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117128829",
+    "imdb": "tt26696057",
+    "tmdb": 1047599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 52
+}

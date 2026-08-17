@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_purpose_of_tutoring_2023",
+  "title": "Purpose of Tutoring",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842347",
+    "tmdb": 1231818
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-07"
+}

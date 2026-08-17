@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_please_dont_destroy_the_treasure_of_foggy_mountain_2023",
+  "title": "Please Don't Destroy: The Treasure of Foggy Mountain",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123116668",
+    "imdb": "tt21335356",
+    "tmdb": 1002315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17",
+  "runtime_minutes": 92
+}

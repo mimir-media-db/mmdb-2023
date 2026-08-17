@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_piccolo_2023",
+  "title": "Piccolo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12438197",
+    "imdb": "tt21881450"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26"
+}

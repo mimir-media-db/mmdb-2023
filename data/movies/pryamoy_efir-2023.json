@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pryamoy_efir_2023",
+  "title": "Pryamoy efir",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115925296",
+    "imdb": "tt27079605"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 75
+}

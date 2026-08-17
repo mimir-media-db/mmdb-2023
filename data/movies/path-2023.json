@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_path_2023",
+  "title": "The Path",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110441925",
+    "imdb": "tt13453138",
+    "tmdb": 925341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-30",
+  "runtime_minutes": 100
+}

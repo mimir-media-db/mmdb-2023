@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_paap_prothom_chaal_2023",
+  "title": "Paap (Prothom Chaal)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139314501",
+    "tmdb": 1102828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-22"
+}

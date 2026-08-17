@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poetas_2023",
+  "title": "Poetas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134756",
+    "imdb": "tt23827080",
+    "tmdb": 1049313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16",
+  "runtime_minutes": 112
+}

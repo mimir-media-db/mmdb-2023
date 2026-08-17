@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_princess_2023",
+  "title": "Princess",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114944161",
+    "imdb": "tt14362502",
+    "tmdb": 936373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03",
+  "runtime_minutes": 110
+}

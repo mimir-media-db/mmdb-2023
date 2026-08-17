@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_popes_exorcist_2023",
+  "title": "The Pope's Exorcist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116733128",
+    "imdb": "tt13375076",
+    "tmdb": 758323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 103
+}

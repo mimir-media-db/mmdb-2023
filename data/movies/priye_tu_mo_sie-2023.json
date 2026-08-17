@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_priye_tu_mo_sie_2023",
+  "title": "Priye Tu Mo Sie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121668040",
+    "imdb": "tt27443461",
+    "tmdb": 1101174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-29"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paysans_du_ciel_a_la_terre_2023",
+  "title": "Paysans du Ciel à la Terre",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117382937",
+    "imdb": "tt27641091",
+    "tmdb": 1084751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-11",
+  "runtime_minutes": 84
+}

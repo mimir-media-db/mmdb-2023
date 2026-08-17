@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_escape_2023",
+  "title": "The Perfect Escape",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116738031",
+    "imdb": "tt14188716",
+    "tmdb": 1088885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-14",
+  "runtime_minutes": 97
+}

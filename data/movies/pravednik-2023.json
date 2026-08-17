@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pravednik_2023",
+  "title": "Pravednik",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115475669",
+    "imdb": "tt20259704",
+    "tmdb": 864120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 163
+}

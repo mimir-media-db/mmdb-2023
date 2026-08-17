@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_palan_2023",
+  "title": "Palan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122406611",
+    "imdb": "tt28212936",
+    "tmdb": 945612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-22"
+}

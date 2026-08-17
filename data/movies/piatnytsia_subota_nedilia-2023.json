@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piatnytsia_subota_nedilia_2023",
+  "title": "Piatnytsia, subota, nedilia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573984",
+    "imdb": "tt27899883",
+    "tmdb": 1133903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-03",
+  "runtime_minutes": 77
+}

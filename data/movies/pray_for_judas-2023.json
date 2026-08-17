@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pray_for_judas_2023",
+  "title": "A Pray for Judas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123110362",
+    "imdb": "tt15137930",
+    "tmdb": 1205275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-25"
+}

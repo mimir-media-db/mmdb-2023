@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plan_c_2023",
+  "title": "Plan C",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116783948",
+    "imdb": "tt24137440",
+    "tmdb": 1058691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-23"
+}

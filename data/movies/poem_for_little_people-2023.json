@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poem_for_little_people_2023",
+  "title": "A Poem for Little People",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575485",
+    "imdb": "tt29429585",
+    "tmdb": 1130855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-22",
+  "runtime_minutes": 85
+}

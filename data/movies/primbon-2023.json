@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_primbon_2023",
+  "title": "Primbon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355196",
+    "imdb": "tt28080971",
+    "tmdb": 1138474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-10",
+  "runtime_minutes": 88
+}

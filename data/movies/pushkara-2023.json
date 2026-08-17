@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pushkara_2023",
+  "title": "Pushkara",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122203754",
+    "imdb": "tt28862282",
+    "tmdb": 1086444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-19"
+}

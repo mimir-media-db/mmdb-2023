@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peace_bastard_2023",
+  "title": "Peace Bastard",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140406149",
+    "imdb": "tt6729112",
+    "tmdb": 1724985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 12
+}

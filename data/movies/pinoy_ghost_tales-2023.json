@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pinoy_ghost_tales_2023",
+  "title": "Pinoy Ghost Tales",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124831476",
+    "imdb": "tt28941703",
+    "tmdb": 1194974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-22",
+  "runtime_minutes": 85
+}

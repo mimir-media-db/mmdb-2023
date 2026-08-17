@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_picknick_in_moria_blue_red_deport_2023",
+  "title": "Picknick in Moria – Blue Red Deport",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117776778",
+    "imdb": "tt20248346",
+    "tmdb": 947943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25",
+  "runtime_minutes": 85
+}

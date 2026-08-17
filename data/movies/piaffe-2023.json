@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piaffe_2023",
+  "title": "Piaffe",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124290951",
+    "imdb": "tt21226876",
+    "tmdb": 996933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-04",
+  "runtime_minutes": 86
+}

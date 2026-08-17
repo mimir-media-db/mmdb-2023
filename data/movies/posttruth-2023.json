@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_posttruth_2023",
+  "title": "Post-Truth",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117467761",
+    "imdb": "tt18690030",
+    "tmdb": 945703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10"
+}

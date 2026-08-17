@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_portable_door_2023",
+  "title": "The Portable Door",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116786106",
+    "imdb": "tt11820950",
+    "tmdb": 830896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 116
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petualangan_sherina_2_2023",
+  "title": "Petualangan Sherina 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108685011",
+    "imdb": "tt13370162",
+    "tmdb": 739303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-28",
+  "runtime_minutes": 126
+}

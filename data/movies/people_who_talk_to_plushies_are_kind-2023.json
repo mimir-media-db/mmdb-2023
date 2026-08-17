@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_people_who_talk_to_plushies_are_kind_2023",
+  "title": "People Who Talk to Plushies Are Kind",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122891368",
+    "imdb": "tt27881506",
+    "tmdb": 1071481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 109
+}

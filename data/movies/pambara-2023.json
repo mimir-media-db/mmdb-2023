@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pambara_2023",
+  "title": "Pambara",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122699533",
+    "imdb": "tt28515875",
+    "tmdb": 1148300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-12",
+  "runtime_minutes": 106
+}

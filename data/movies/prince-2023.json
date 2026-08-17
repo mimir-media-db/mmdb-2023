@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_2023",
+  "title": "A Prince",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118462752",
+    "imdb": "tt27706804",
+    "tmdb": 1110135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pathaan_2023",
+  "title": "Pathaan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114620212",
+    "imdb": "tt12844910",
+    "tmdb": 864692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-25",
+  "runtime_minutes": 146
+}
