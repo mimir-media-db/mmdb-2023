@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_have_a_ghost_2023",
+  "title": "We Have a Ghost",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110982644",
+    "imdb": "tt7798604",
+    "tmdb": 852096
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24",
+  "runtime_minutes": 127
+}

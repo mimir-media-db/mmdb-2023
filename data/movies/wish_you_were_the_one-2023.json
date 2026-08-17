@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wish_you_were_the_one_2023",
+  "title": "Wish You Were the One",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134569084",
+    "imdb": "tt28607649",
+    "tmdb": 1158039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-23"
+}

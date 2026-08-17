@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_roomer_2023",
+  "title": "A Wild Roomer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598149",
+    "imdb": "tt22171858",
+    "tmdb": 1019809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-08"
+}

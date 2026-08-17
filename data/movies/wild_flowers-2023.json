@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_flowers_2023",
+  "title": "Wild Flowers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113504851",
+    "imdb": "tt13774830",
+    "tmdb": 766804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-02",
+  "runtime_minutes": 107
+}

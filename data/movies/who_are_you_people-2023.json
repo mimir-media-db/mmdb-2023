@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_who_are_you_people_2023",
+  "title": "Who Are You People",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117374183",
+    "imdb": "tt11952084",
+    "tmdb": 680366
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24",
+  "runtime_minutes": 103
+}

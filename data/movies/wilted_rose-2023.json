@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wilted_rose_2023",
+  "title": "The Wilted Rose",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122802904",
+    "imdb": "tt16396360",
+    "tmdb": 1746464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-28"
+}

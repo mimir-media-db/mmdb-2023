@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_websters_movie_2023",
+  "title": "The Websters Movie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113027694",
+    "imdb": "tt23033318",
+    "tmdb": 997837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06",
+  "runtime_minutes": 65
+}

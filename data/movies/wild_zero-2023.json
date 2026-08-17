@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_zero_2023",
+  "title": "Wild Zero",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q524484",
+    "imdb": "tt0267116",
+    "tmdb": 16231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-05",
+  "runtime_minutes": 98
+}

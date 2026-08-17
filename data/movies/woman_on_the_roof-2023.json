@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_on_the_roof_2023",
+  "title": "Woman on the Roof",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118215318",
+    "imdb": "tt15257818",
+    "tmdb": 965037
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-12",
+  "runtime_minutes": 95
+}

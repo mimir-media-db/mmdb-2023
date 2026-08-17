@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_love_got_to_do_with_it_2023",
+  "title": "What's Love Got to Do With It?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105334186",
+    "imdb": "tt13430858",
+    "tmdb": 800301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 109
+}

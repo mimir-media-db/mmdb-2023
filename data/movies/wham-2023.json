@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wham_2023",
+  "title": "Wham!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119997722",
+    "imdb": "tt27726927",
+    "tmdb": 1134865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-05",
+  "runtime_minutes": 92
+}

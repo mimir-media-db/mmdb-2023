@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woongnami_2023",
+  "title": "Woongnami",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130597967",
+    "imdb": "tt26599543",
+    "tmdb": 995063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-22"
+}

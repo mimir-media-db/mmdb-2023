@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wie_dich_selbst_2023",
+  "title": "... wie Dich selbst?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116329364",
+    "imdb": "tt15321952",
+    "tmdb": 1090584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-09",
+  "runtime_minutes": 90
+}

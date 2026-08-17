@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wingwomen_2023",
+  "title": "Wingwomen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120577065",
+    "imdb": "tt21638298",
+    "tmdb": 1010928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-01",
+  "runtime_minutes": 114
+}

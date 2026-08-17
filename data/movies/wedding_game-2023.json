@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wedding_game_2023",
+  "title": "Wedding Game",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123575794",
+    "imdb": "tt27719673",
+    "tmdb": 818508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-24"
+}

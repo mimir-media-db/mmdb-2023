@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_waltair_veerayya_2023",
+  "title": "Waltair Veerayya",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113364967",
+    "imdb": "tt15281402",
+    "tmdb": 989017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13",
+  "runtime_minutes": 160
+}

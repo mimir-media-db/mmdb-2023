@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weird_the_al_yankovic_story_2023",
+  "title": "Weird: The Al Yankovic Story",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111018582",
+    "imdb": "tt17076046",
+    "tmdb": 928344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-26",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_in_the_storm_2023",
+  "title": "The Woman in the Storm",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123290967",
+    "imdb": "tt27477631",
+    "tmdb": 1057186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-17",
+  "runtime_minutes": 101
+}

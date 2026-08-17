@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wonder_weeks_2023",
+  "title": "The Wonder Weeks",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120640259",
+    "imdb": "tt22506746",
+    "tmdb": 1126844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 91
+}

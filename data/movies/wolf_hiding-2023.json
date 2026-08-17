@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolf_hiding_2023",
+  "title": "Wolf Hiding",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124326647",
+    "imdb": "tt18766596",
+    "tmdb": 950019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-16"
+}
