@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stolen_princess_ruslan_and_ludmila_2023",
+  "title": "The Stolen Princess: Ruslan and Ludmila",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16714960",
+    "imdb": "tt5378092",
+    "tmdb": 463116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-30",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shadowless_tower_2023",
+  "title": "The Shadowless Tower",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116444371",
+    "imdb": "tt26441793",
+    "tmdb": 1075840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 144
+}

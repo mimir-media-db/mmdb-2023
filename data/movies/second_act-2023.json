@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_act_2023",
+  "title": "Second Act",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111322502",
+    "imdb": "tt15216170",
+    "tmdb": 1075754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24"
+}

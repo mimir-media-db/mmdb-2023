@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_about_the_demon_2023",
+  "title": "Sorry About the Demon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120733523",
+    "imdb": "tt15262634",
+    "tmdb": 862970
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 105
+}

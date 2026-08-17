@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suga_road_to_dday_2023",
+  "title": "SUGA: Road to D-DAY",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123777390",
+    "imdb": "tt27410896",
+    "tmdb": 1106732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-17",
+  "runtime_minutes": 80
+}

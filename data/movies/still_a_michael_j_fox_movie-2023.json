@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_still_a_michael_j_fox_movie_2023",
+  "title": "Still: A Michael J. Fox Movie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116272399",
+    "imdb": "tt19853258",
+    "tmdb": 1058699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 95
+}

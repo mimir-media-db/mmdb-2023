@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_say_god_bye_2023",
+  "title": "Say God Bye",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131136908",
+    "imdb": "tt9739728"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 124
+}

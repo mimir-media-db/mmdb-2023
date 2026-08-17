@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_singapore_saloon_2023",
+  "title": "Singapore Saloon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120970330",
+    "imdb": "tt23558124",
+    "tmdb": 1046924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

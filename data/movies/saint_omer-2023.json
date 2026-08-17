@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_omer_2023",
+  "title": "Saint Omer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113443388",
+    "imdb": "tt15376894",
+    "tmdb": 925943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13",
+  "runtime_minutes": 122
+}

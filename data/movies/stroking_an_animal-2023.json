@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stroking_an_animal_2023",
+  "title": "Stroking an Animal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128647641",
+    "imdb": "tt25503082",
+    "tmdb": 1069507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 70
+}

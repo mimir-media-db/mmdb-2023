@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_siblings_2023",
+  "title": "Siblings",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122818406",
+    "imdb": "tt10916568",
+    "tmdb": 674599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-27"
+}

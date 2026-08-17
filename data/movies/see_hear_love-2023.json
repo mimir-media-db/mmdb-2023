@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_see_hear_love_2023",
+  "title": "SEE HEAR LOVE",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482834",
+    "imdb": "tt27881314",
+    "tmdb": 1124341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06"
+}

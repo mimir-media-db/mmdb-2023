@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suka_bhaira_sholay_2023",
+  "title": "Suka Bhaira Sholay",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119889706",
+    "imdb": "tt27957223",
+    "tmdb": 1098830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-10",
+  "runtime_minutes": 96
+}

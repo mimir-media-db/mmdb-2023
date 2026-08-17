@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_schattenkind_2023",
+  "title": "Schattenkind",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115792839"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 88
+}

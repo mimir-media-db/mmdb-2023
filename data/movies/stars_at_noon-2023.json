@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stars_at_noon_2023",
+  "title": "Stars at Noon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110982493",
+    "imdb": "tt10354106",
+    "tmdb": 603204
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14",
+  "runtime_minutes": 137
+}

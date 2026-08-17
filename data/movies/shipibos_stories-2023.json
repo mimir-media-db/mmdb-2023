@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shipibos_stories_2023",
+  "title": "Shipibos Stories",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121358122",
+    "imdb": "tt28545038",
+    "tmdb": 1156305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 117
+}

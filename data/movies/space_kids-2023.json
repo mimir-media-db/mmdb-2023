@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_kids_2023",
+  "title": "Space Kids",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130279378",
+    "imdb": "tt27912854",
+    "tmdb": 1220169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 79
+}

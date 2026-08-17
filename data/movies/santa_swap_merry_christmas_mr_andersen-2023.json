@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_swap_merry_christmas_mr_andersen_2023",
+  "title": "Santa Swap: Merry Christmas Mr. Andersen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q34336703",
+    "imdb": "tt5531536",
+    "tmdb": 422791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-05",
+  "runtime_minutes": 73
+}

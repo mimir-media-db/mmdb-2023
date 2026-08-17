@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slava_ukraini_2023",
+  "title": "Slava Ukraini",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116820865",
+    "imdb": "tt26676672",
+    "tmdb": 1083310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-22"
+}

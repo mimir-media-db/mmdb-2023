@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shohorer_ushnotomo_din_e_2023",
+  "title": "Shohorer Ushnotomo Din E",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120096967",
+    "imdb": "tt28153323",
+    "tmdb": 980762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-30"
+}

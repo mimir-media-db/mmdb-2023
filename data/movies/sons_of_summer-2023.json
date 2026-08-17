@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_summer_2023",
+  "title": "Sons of Summer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135920066",
+    "imdb": "tt16986596",
+    "tmdb": 1152238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sons_of_ramses_2023",
+  "title": "Sons of Ramses",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113019104",
+    "imdb": "tt14644048",
+    "tmdb": 928200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 98
+}

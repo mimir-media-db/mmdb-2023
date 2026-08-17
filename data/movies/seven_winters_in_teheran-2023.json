@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_winters_in_teheran_2023",
+  "title": "Seven Winters in Teheran",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116458519",
+    "imdb": "tt26188684",
+    "tmdb": 1073462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 97
+}

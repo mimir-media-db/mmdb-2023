@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_say_cheese_2023",
+  "title": "Say Cheese",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111796247",
+    "imdb": "tt17049104",
+    "tmdb": 893730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16",
+  "runtime_minutes": 95
+}

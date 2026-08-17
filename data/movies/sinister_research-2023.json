@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sinister_research_2023",
+  "title": "A Sinister Research",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119931376",
+    "imdb": "tt27895161",
+    "tmdb": 995521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 76
+}

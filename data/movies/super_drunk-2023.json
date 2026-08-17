@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_super_drunk_2023",
+  "title": "Super Drunk",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122196710",
+    "imdb": "tt25154176",
+    "tmdb": 1027322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-01",
+  "runtime_minutes": 79
+}

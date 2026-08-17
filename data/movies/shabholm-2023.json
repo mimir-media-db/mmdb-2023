@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shabholm_2023",
+  "title": "Shabholm",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141871",
+    "imdb": "tt28521341",
+    "tmdb": 1141080
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 81
+}

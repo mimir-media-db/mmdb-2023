@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_syndrome_2023",
+  "title": "Star Syndrome",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111802932",
+    "imdb": "tt18556496",
+    "tmdb": 970209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-08"
+}

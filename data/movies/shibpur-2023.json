@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shibpur_2023",
+  "title": "Shibpur",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120171968",
+    "imdb": "tt27880538",
+    "tmdb": 994290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-30",
+  "runtime_minutes": 124
+}

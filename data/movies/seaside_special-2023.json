@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seaside_special_2023",
+  "title": "Seaside Special",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115706219",
+    "imdb": "tt15262604",
+    "tmdb": 1038695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 93
+}

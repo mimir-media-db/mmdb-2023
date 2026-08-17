@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sync_2023",
+  "title": "Sync",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120805181",
+    "imdb": "tt28305831",
+    "tmdb": 1154485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_mates_2023",
+  "title": "Soul Mates",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116313121",
+    "imdb": "tt14663154",
+    "tmdb": 892509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-12",
+  "runtime_minutes": 100
+}

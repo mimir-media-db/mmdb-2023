@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silver_and_the_book_of_dreams_2023",
+  "title": "Silver and the Book of Dreams",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123023943",
+    "imdb": "tt22037984",
+    "tmdb": 1023845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-06",
+  "runtime_minutes": 92
+}

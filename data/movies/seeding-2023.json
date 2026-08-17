@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seeding_2023",
+  "title": "The Seeding",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119506587",
+    "imdb": "tt22778346",
+    "tmdb": 1118033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

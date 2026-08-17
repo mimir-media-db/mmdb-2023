@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scandal_makers_2023",
+  "title": "Scandal Makers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121148952",
+    "imdb": "tt25150038",
+    "tmdb": 1068090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19"
+}

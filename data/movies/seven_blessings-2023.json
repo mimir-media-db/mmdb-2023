@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_seven_blessings_2023",
+  "title": "Seven Blessings",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121410238",
+    "imdb": "tt28239482",
+    "tmdb": 1168261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 111
+}

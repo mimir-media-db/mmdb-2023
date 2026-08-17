@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_smiling_georgia_2023",
+  "title": "Smiling Georgia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118904222",
+    "imdb": "tt9897230",
+    "tmdb": 1141136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 62
+}

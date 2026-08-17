@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_she_chef_2023",
+  "title": "She Chef",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117600995",
+    "imdb": "tt22493904",
+    "tmdb": 1037482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 105
+}

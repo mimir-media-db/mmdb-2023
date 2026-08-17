@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_skunk_2023",
+  "title": "Skunk",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124400284",
+    "imdb": "tt11767724",
+    "tmdb": 885246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-06"
+}

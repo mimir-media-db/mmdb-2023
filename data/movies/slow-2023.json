@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slow_2023",
+  "title": "Slow",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116203455",
+    "imdb": "tt15289510",
+    "tmdb": 1058642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 104
+}

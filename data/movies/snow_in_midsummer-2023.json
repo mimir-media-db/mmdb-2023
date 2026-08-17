@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_in_midsummer_2023",
+  "title": "Snow in Midsummer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121076415",
+    "imdb": "tt28449053",
+    "tmdb": 973587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17"
+}

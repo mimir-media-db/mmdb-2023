@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorcery_2023",
+  "title": "Sorcery",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115683852",
+    "imdb": "tt20395798",
+    "tmdb": 977246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_somewhere_by_the_sea_2023",
+  "title": "Somewhere by the Sea",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121302743"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 88
+}

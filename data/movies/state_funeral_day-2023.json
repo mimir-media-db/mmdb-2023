@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_state_funeral_day_2023",
+  "title": "State Funeral Day",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482847",
+    "tmdb": 1183499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-16"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sprinter_2023",
+  "title": "Sprinter",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598052",
+    "imdb": "tt26625961",
+    "tmdb": 890948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-24"
+}

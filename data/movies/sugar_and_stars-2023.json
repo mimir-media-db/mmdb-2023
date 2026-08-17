@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sugar_and_stars_2023",
+  "title": "Sugar and Stars",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116793526",
+    "imdb": "tt19815386",
+    "tmdb": 975762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-16",
+  "runtime_minutes": 110
+}

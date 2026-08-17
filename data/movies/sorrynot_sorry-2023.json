@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sorrynot_sorry_2023",
+  "title": "Sorry/Not Sorry",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121718606",
+    "imdb": "tt28642260",
+    "tmdb": 1156641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-10",
+  "runtime_minutes": 90
+}

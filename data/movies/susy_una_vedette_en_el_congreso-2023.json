@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_susy_una_vedette_en_el_congreso_2023",
+  "title": "Susy: Una vedette en el Congreso",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134961",
+    "imdb": "tt30135067",
+    "tmdb": 1131560
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

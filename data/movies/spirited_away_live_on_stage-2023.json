@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirited_away_live_on_stage_2023",
+  "title": "Spirited Away: Live On Stage",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598250",
+    "imdb": "tt26678995",
+    "tmdb": 1001196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-23"
+}

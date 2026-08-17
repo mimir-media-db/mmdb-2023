@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_side_by_side_2023",
+  "title": "Side by Side",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333112",
+    "imdb": "tt26689671",
+    "tmdb": 1076535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-19",
+  "runtime_minutes": 130
+}

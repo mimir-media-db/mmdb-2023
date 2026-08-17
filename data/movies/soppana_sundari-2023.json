@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soppana_sundari_2023",
+  "title": "Soppana Sundari",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842571",
+    "imdb": "tt24485376",
+    "tmdb": 1021760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14",
+  "runtime_minutes": 115
+}

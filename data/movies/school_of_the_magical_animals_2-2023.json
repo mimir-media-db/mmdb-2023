@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_school_of_the_magical_animals_2_2023",
+  "title": "The School of the Magical Animals 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115130246",
+    "imdb": "tt13818742",
+    "tmdb": 926946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-09",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sibling_rule_2023",
+  "title": "The Sibling Rule",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128830145",
+    "imdb": "tt21111814",
+    "tmdb": 1054743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

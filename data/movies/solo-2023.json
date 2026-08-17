@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solo_2023",
+  "title": "Solo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118903208",
+    "imdb": "tt27715185",
+    "tmdb": 952200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-09",
+  "runtime_minutes": 102
+}

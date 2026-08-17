@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_satan_wants_you_2023",
+  "title": "Satan Wants You",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121462670",
+    "imdb": "tt26280511",
+    "tmdb": 1083188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-11",
+  "runtime_minutes": 80
+}

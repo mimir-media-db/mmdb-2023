@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_showing_up_2023",
+  "title": "Showing Up",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107610545",
+    "imdb": "tt13923216",
+    "tmdb": 790416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-07",
+  "runtime_minutes": 108
+}

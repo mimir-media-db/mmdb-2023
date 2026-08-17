@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_boy_2023",
+  "title": "Space Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108529455",
+    "imdb": "tt10689606",
+    "tmdb": 783731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-20",
+  "runtime_minutes": 100
+}
