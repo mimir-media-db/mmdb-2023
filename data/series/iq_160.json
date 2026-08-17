@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_iq_160",
+  "title": "IQ 160",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117306375",
+    "imdb": "tt27303338"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

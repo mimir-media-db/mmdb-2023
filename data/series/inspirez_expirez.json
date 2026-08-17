@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_inspirez_expirez",
+  "title": "Inspirez expirez",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124808672",
+    "imdb": "tt29007168",
+    "tmdb": 238008
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

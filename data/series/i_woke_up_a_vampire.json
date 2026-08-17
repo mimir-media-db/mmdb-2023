@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_woke_up_a_vampire",
+  "title": "I Woke Up a Vampire",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123039384",
+    "imdb": "tt27591984",
+    "tmdb": 235228
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}
