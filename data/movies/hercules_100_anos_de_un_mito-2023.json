@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hercules_100_anos_de_un_mito_2023",
+  "title": "Hércules, 100 años de un mito",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127257820",
+    "imdb": "tt27487021",
+    "tmdb": 1314234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_of_stone_2023",
+  "title": "Heart of Stone",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111149342",
+    "imdb": "tt13603966",
+    "tmdb": 724209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-11",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hilos_2023",
+  "title": "Hilos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136611842",
+    "tmdb": 1048195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

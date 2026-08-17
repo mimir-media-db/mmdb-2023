@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homeward_2023",
+  "title": "Homeward",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187353",
+    "imdb": "tt11766318",
+    "tmdb": 674942
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-06",
+  "runtime_minutes": 81
+}

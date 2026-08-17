@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homes_apart_korea_2023",
+  "title": "Homes Apart: Korea",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123008243",
+    "imdb": "tt19892778",
+    "tmdb": 284369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05",
+  "runtime_minutes": 56
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hailey_rose_2023",
+  "title": "Hailey Rose",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125398825",
+    "imdb": "tt27142792",
+    "tmdb": 1174527
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 93
+}

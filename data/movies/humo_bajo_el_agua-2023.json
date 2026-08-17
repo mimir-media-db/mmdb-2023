@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_humo_bajo_el_agua_2023",
+  "title": "Humo bajo el agua",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122927304",
+    "imdb": "tt27614751",
+    "tmdb": 754045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-20",
+  "runtime_minutes": 124
+}

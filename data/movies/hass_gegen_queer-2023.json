@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hass_gegen_queer_2023",
+  "title": "Hass gegen Queer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139613629",
+    "imdb": "tt27502607",
+    "tmdb": 1109631
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-11",
+  "runtime_minutes": 81
+}

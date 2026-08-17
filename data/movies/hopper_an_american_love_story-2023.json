@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hopper_an_american_love_story_2023",
+  "title": "Hopper - An American Love Story",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114566642",
+    "imdb": "tt22803450",
+    "tmdb": 1031038
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 94
+}

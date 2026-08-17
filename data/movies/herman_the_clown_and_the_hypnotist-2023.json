@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_herman_the_clown_and_the_hypnotist_2023",
+  "title": "Herman the Clown and the Hypnotist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113396355",
+    "imdb": "tt20765824",
+    "tmdb": 982301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-22"
+}

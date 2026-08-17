@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heroic_2023",
+  "title": "Heroic",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115683962",
+    "imdb": "tt24079846",
+    "tmdb": 958182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 88
+}

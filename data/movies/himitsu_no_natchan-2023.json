@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_himitsu_no_natchan_2023",
+  "title": "Himitsu No Natchan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112958591",
+    "imdb": "tt24070578",
+    "tmdb": 1066938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 97
+}

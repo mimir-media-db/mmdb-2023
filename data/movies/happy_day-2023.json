@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_day_2023",
+  "title": "A Happy Day",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364500",
+    "imdb": "tt13471862",
+    "tmdb": 1163182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-11",
+  "runtime_minutes": 113
+}

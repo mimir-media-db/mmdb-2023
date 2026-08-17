@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hidden_blade_2023",
+  "title": "Hidden Blade",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116042266",
+    "imdb": "tt16565742",
+    "tmdb": 855483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 128
+}

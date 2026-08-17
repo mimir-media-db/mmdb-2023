@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hijacking_of_flight_375_2023",
+  "title": "The Hijacking of Flight 375",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122311644",
+    "imdb": "tt13073252",
+    "tmdb": 1032795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

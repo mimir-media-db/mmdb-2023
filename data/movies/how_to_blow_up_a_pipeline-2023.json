@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_blow_up_a_pipeline_2023",
+  "title": "How to Blow Up a Pipeline",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113757659",
+    "imdb": "tt21440780",
+    "tmdb": 1008048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-07",
+  "runtime_minutes": 103
+}

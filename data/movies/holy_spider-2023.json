@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_spider_2023",
+  "title": "Holy Spider",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111600223",
+    "imdb": "tt18550140",
+    "tmdb": 889699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-12",
+  "runtime_minutes": 117
+}

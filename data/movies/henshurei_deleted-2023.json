@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_henshurei_deleted_2023",
+  "title": "Henshurei: Deleted",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333267",
+    "imdb": "tt27204558",
+    "tmdb": 1221896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13"
+}
