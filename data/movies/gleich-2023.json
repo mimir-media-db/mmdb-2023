@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gleich_2023",
+  "title": "Gleich",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123584401",
+    "imdb": "tt15174194",
+    "tmdb": 1148718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 73
+}

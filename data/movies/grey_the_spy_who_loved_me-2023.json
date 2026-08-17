@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_the_spy_who_loved_me_2023",
+  "title": "Grey: The Spy Who Loved Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118760596",
+    "imdb": "tt16219768",
+    "tmdb": 1187840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-26",
+  "runtime_minutes": 121
+}

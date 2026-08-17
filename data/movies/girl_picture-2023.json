@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_picture_2023",
+  "title": "Girl Picture",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110323750",
+    "imdb": "tt13328800",
+    "tmdb": 683363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-23",
+  "runtime_minutes": 100
+}

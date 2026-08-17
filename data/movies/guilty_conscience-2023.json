@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guilty_conscience_2023",
+  "title": "A Guilty Conscience",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112889240",
+    "imdb": "tt25377462",
+    "tmdb": 990326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20"
+}

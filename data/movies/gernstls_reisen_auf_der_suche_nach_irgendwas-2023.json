@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gernstls_reisen_auf_der_suche_nach_irgendwas_2023",
+  "title": "Gernstls Reisen - Auf der Suche nach irgendwas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122699468",
+    "imdb": "tt29173596",
+    "tmdb": 1180378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-29",
+  "runtime_minutes": 93
+}

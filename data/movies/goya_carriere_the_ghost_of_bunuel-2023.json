@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goya_carriere_the_ghost_of_bunuel_2023",
+  "title": "Goya, Carrière & the Ghost of Buñuel",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113907251",
+    "imdb": "tt14018794",
+    "tmdb": 970398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-16",
+  "runtime_minutes": 90
+}

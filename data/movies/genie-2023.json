@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genie_2023",
+  "title": "Genie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123271679",
+    "imdb": "tt24429218",
+    "tmdb": 1189198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-22",
+  "runtime_minutes": 93
+}

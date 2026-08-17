@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_years_2023",
+  "title": "Golden Years",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115128429",
+    "imdb": "tt17965620",
+    "tmdb": 998684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_great_absence_2023",
+  "title": "Great Absence",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122902872",
+    "imdb": "tt28568332",
+    "tmdb": 1159470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-09",
+  "runtime_minutes": 152
+}

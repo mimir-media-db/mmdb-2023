@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guide_to_prepare_for_separation_2023",
+  "title": "Guide to Prepare for Separation",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355193",
+    "imdb": "tt24517860",
+    "tmdb": 1051921
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24",
+  "runtime_minutes": 66
+}

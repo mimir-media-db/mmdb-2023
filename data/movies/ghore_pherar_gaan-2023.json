@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ghore_pherar_gaan_2023",
+  "title": "Ghore Pherar Gaan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122054162",
+    "imdb": "tt15547258",
+    "tmdb": 991243
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

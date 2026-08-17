@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_giant_adventure_2023",
+  "title": "A Giant Adventure",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123986455",
+    "imdb": "tt27134838",
+    "tmdb": 1070830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

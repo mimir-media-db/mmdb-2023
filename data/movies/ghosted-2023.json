@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ghosted_2023",
+  "title": "Ghosted",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111170185",
+    "imdb": "tt15326988",
+    "tmdb": 868759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-21",
+  "runtime_minutes": 116
+}

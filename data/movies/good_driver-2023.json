@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_driver_2023",
+  "title": "The Good Driver",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116636514",
+    "imdb": "tt23032878",
+    "tmdb": 726149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 97
+}

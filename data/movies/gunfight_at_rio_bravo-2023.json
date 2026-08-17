@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunfight_at_rio_bravo_2023",
+  "title": "Gunfight at Rio Bravo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107558781",
+    "imdb": "tt14388612",
+    "tmdb": 835767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

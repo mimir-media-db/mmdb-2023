@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_guddu_gangster_2023",
+  "title": "Guddu Gangster",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119889708",
+    "imdb": "tt27110554",
+    "tmdb": 1096992
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-13"
+}

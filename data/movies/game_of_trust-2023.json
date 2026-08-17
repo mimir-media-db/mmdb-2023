@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_game_of_trust_2023",
+  "title": "The Game of Trust",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139321863",
+    "imdb": "tt15400094",
+    "tmdb": 947497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 90
+}

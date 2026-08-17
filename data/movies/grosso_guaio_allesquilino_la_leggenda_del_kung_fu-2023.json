@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grosso_guaio_allesquilino_la_leggenda_del_kung_fu_2023",
+  "title": "Grosso guaio all'Esquilino: La leggenda del kung fu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117463931",
+    "imdb": "tt27005395",
+    "tmdb": 1018941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glory_to_the_heroes_film_2023",
+  "title": "Glory to the Heroes (film)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123584904",
+    "imdb": "tt30090195",
+    "tmdb": 1204896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-14"
+}

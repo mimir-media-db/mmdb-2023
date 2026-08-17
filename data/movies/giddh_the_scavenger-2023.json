@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giddh_the_scavenger_2023",
+  "title": "Giddh: The Scavenger",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123681483",
+    "imdb": "tt28153892",
+    "tmdb": 1141821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-01",
+  "runtime_minutes": 24
+}

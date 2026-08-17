@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gemeinsam_nuchtern_2023",
+  "title": "Gemeinsam nüchtern",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122909568",
+    "imdb": "tt11575562",
+    "tmdb": 1131186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-12",
+  "runtime_minutes": 117
+}

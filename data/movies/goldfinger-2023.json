@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goldfinger_2023",
+  "title": "The Goldfinger",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105685552",
+    "imdb": "tt14099796",
+    "tmdb": 823598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-30",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gol_gappe_2023",
+  "title": "Gol Gappe",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116986705",
+    "imdb": "tt11912042",
+    "tmdb": 1100590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17"
+}

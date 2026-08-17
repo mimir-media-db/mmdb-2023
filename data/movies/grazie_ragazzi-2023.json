@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grazie_ragazzi_2023",
+  "title": "Grazie ragazzi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116147316",
+    "imdb": "tt15761584",
+    "tmdb": 919950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_life_2023",
+  "title": "A Golden Life",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116821082",
+    "imdb": "tt26347460",
+    "tmdb": 1074761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}
