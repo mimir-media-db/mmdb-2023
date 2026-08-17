@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dearest_fiona_2023",
+  "title": "Dearest Fiona",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116007845",
+    "imdb": "tt26219766",
+    "tmdb": 1063594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

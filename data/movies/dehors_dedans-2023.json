@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dehors_dedans_2023",
+  "title": "Dehors dedans",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122842136",
+    "imdb": "tt14029160",
+    "tmdb": 892547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-04",
+  "runtime_minutes": 82
+}

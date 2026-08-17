@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_off_2023",
+  "title": "Day Off",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117286272",
+    "imdb": "tt26686277",
+    "tmdb": 956288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-03",
+  "runtime_minutes": 105
+}

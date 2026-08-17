@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_driving_madeleine_2023",
+  "title": "Driving Madeleine",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113330175",
+    "imdb": "tt14586118",
+    "tmdb": 893372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-13",
+  "runtime_minutes": 91
+}

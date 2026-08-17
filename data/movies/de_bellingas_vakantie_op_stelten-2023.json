@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_bellingas_vakantie_op_stelten_2023",
+  "title": "De Bellinga's: Vakantie op stelten",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121029081",
+    "imdb": "tt27599040",
+    "tmdb": 1133009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_girl_2023",
+  "title": "The Dark Girl",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117351552",
+    "imdb": "tt16142156",
+    "tmdb": 1096594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-25",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dust_to_dust_2023",
+  "title": "Dust to Dust",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354297",
+    "imdb": "tt11000406",
+    "tmdb": 1133013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-16",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daniel_richter_2023",
+  "title": "Daniel Richter",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116326120",
+    "imdb": "tt26009272",
+    "tmdb": 1043343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dojo_2023",
+  "title": "Dojo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130309857",
+    "imdb": "tt21195478"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-01",
+  "runtime_minutes": 15
+}

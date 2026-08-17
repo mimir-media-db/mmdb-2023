@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deep_sea_2023",
+  "title": "Deep Sea",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116547876",
+    "imdb": "tt25434854",
+    "tmdb": 667717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-22",
+  "runtime_minutes": 112
+}

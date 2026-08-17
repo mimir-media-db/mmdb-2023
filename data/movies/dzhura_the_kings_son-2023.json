@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dzhura_the_kings_son_2023",
+  "title": "Dzhura the King's Son",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575951",
+    "imdb": "tt27040823",
+    "tmdb": 1134781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-30",
+  "runtime_minutes": 100
+}

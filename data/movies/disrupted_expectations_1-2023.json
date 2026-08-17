@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_disrupted_expectations_1_2023",
+  "title": "Disrupted Expectations 1",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134933",
+    "imdb": "tt29545519"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

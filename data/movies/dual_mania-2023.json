@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dual_mania_2023",
+  "title": "Dual Mania",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116168657",
+    "imdb": "tt5596336",
+    "tmdb": 440528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-20",
+  "runtime_minutes": 77
+}

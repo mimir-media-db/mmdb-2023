@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_rhein_fliet_ins_mittelmeer_2023",
+  "title": "Der Rhein fließt ins Mittelmeer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117600277",
+    "imdb": "tt15658324",
+    "tmdb": 881969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-04",
+  "runtime_minutes": 95
+}

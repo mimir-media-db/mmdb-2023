@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_fleeting_affair_2023",
+  "title": "Diary of a Fleeting Affair",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111599822",
+    "imdb": "tt14831708",
+    "tmdb": 794842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-16",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_door_is_there_2023",
+  "title": "The Door Is There",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129642046",
+    "imdb": "tt26731096",
+    "tmdb": 1137718
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-12",
+  "runtime_minutes": 79
+}

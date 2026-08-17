@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_divertimento_2023",
+  "title": "Divertimento",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114828128",
+    "imdb": "tt23741324",
+    "tmdb": 958179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-25",
+  "runtime_minutes": 110
+}

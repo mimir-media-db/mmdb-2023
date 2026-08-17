@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diogenes_2023",
+  "title": "Diógenes",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121358153",
+    "imdb": "tt26812530",
+    "tmdb": 1018988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

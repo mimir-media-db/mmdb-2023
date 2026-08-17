@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_paulina_p_2023",
+  "title": "The Diary of Paulina P.",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118113614",
+    "imdb": "tt27190968",
+    "tmdb": 1104601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17",
+  "runtime_minutes": 95
+}

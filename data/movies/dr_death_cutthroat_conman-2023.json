@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_death_cutthroat_conman_2023",
+  "title": "Dr. Death: Cutthroat Conman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124684906",
+    "imdb": "tt30425955",
+    "tmdb": 1217348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-21"
+}

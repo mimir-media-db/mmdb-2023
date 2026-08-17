@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_call_it_mystery_the_movie_2023",
+  "title": "Don't Call it Mystery: The Movie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122899272",
+    "imdb": "tt27554389",
+    "tmdb": 1064669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-15",
+  "runtime_minutes": 128
+}

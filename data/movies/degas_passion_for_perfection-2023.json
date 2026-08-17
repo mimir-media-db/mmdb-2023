@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_degas_passion_for_perfection_2023",
+  "title": "Degas: Passion for Perfection",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60644711",
+    "imdb": "tt9298548",
+    "tmdb": 527078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25",
+  "runtime_minutes": 85
+}

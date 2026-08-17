@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dhai_chaal_2023",
+  "title": "Dhai Chaal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96376310",
+    "imdb": "tt14670378"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08"
+}

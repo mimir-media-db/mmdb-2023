@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_daal_baati_churma_chochhori_2023",
+  "title": "Daal Baati Churma Chochhori",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122113882",
+    "imdb": "tt31596492"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17"
+}

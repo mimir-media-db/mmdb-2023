@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dolphins_dancing_hula_2023",
+  "title": "Dolphins Dancing Hula",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333131",
+    "tmdb": 1209123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-25"
+}

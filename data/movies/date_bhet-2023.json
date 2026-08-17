@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_date_bhet_2023",
+  "title": "Date Bhet",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121133838",
+    "imdb": "tt28306158",
+    "tmdb": 1152759
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-14"
+}

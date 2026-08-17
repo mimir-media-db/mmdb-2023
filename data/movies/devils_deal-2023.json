@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_devils_deal_2023",
+  "title": "The Devil's Deal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107639040",
+    "imdb": "tt15089904",
+    "tmdb": 640327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 116
+}

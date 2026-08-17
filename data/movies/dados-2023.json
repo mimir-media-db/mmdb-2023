@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dados_2023",
+  "title": "Dados",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123246458",
+    "imdb": "tt26734116",
+    "tmdb": 1083721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-08"
+}

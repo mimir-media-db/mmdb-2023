@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_double_foyer_2023",
+  "title": "Double Foyer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124510024",
+    "imdb": "tt26445617",
+    "tmdb": 1001145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-02"
+}

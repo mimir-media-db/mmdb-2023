@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_drei_erbe_des_drachen_2023",
+  "title": "Die drei ??? – Erbe des Drachen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116488505",
+    "imdb": "tt15512578",
+    "tmdb": 941488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_decision_to_leave_2023",
+  "title": "Decision to Leave",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100889636",
+    "imdb": "tt12477480",
+    "tmdb": 705996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 138
+}

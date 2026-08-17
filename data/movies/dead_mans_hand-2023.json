@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_mans_hand_2023",
+  "title": "Dead Man's Hand",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119727068",
+    "imdb": "tt23469212",
+    "tmdb": 1145358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07"
+}

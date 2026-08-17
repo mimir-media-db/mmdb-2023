@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dr_cheon_and_lost_talisman_2023",
+  "title": "Dr. Cheon and Lost Talisman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114363980",
+    "imdb": "tt29005755",
+    "tmdb": 950253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-27",
+  "runtime_minutes": 98
+}

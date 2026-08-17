@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doppelganger_2023",
+  "title": "Doppelgänger",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122764308",
+    "imdb": "tt18347222",
+    "tmdb": 1437193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-23",
+  "runtime_minutes": 120
+}

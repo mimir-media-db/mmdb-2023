@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_zeuge_2023",
+  "title": "Der Zeuge",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117038073",
+    "imdb": "tt26595548",
+    "tmdb": 567922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

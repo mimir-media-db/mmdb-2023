@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dungeons_dragons_honor_among_thieves_2023",
+  "title": "Dungeons & Dragons: Honor Among Thieves",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105554572",
+    "imdb": "tt2906216",
+    "tmdb": 493529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10",
+  "runtime_minutes": 108
+}
