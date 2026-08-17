@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_pact_of_silence",
+  "title": "Pact of Silence",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122830190",
+    "imdb": "tt29195231",
+    "tmdb": 234729
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 18
+}

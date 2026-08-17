@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_peak_time",
+  "title": "Peak Time",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115688844",
+    "imdb": "tt29218712",
+    "tmdb": 220498
+  },
+  "last_updated": "2026-08-17"
+}

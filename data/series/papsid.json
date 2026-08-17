@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_papsid",
+  "title": "Papsid",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131753402",
+    "imdb": "tt30134774",
+    "tmdb": 248933
+  },
+  "last_updated": "2026-08-17"
+}

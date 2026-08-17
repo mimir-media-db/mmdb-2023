@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pokemon_concierge",
+  "title": "Pokémon Concierge",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123465873",
+    "imdb": "tt26916286",
+    "tmdb": 221301
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 8
+}
