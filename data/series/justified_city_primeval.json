@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_justified_city_primeval",
+  "title": "Justified: City Primeval",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114243582",
+    "imdb": "tt14263564",
+    "tmdb": 201304
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

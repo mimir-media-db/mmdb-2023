@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jindo",
+  "title": "Jindo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123481741",
+    "imdb": "tt27935737",
+    "tmdb": 229930
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_juego_de_ilusiones",
+  "title": "Juego de ilusiones",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115799979",
+    "imdb": "tt25502742",
+    "tmdb": 218776
+  },
+  "last_updated": "2026-08-17"
+}
