@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_in_the_woods_2023",
+  "title": "The Boy in the Woods",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121811123",
+    "imdb": "tt15304502",
+    "tmdb": 1083612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 99
+}

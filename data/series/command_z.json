@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_command_z",
+  "title": "Command Z",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120667207",
+    "imdb": "tt26470023",
+    "tmdb": 231031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_exorcisms_2023",
+  "title": "13 Exorcisms",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115815784",
+    "imdb": "tt21199996",
+    "tmdb": 1026563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-23",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_romance_campus_2023",
+  "title": "Romance Campus",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598023",
+    "tmdb": 1079197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-23"
+}

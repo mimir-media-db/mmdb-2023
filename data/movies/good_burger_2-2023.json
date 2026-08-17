@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_burger_2_2023",
+  "title": "Good Burger 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118525504",
+    "imdb": "tt25289836",
+    "tmdb": 1101582
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

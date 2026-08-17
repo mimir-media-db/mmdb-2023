@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_knokke_off",
+  "title": "Knokke Off",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117309306",
+    "imdb": "tt21093806",
+    "tmdb": 203616
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

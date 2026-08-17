@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_me_contro_te_il_film_missione_giungla_2023",
+  "title": "Me contro Te - il Film: Missione Giungla",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115444658",
+    "imdb": "tt21934046",
+    "tmdb": 955659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 73
+}

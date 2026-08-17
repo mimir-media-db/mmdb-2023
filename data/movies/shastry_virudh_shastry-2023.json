@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shastry_virudh_shastry_2023",
+  "title": "Shastry Virudh Shastry",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123338264",
+    "imdb": "tt27621015",
+    "tmdb": 936229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-03"
+}

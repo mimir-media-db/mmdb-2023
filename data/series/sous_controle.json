@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sous_controle",
+  "title": "Sous contrôle",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121437490",
+    "imdb": "tt27012297",
+    "tmdb": 220044
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angel_baby_2023",
+  "title": "Angel Baby",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140450860",
+    "imdb": "tt14791896",
+    "tmdb": 1214795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-15",
+  "runtime_minutes": 105
+}

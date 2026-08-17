@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ararat_2023",
+  "title": "Ararat",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116150881",
+    "imdb": "tt25846662",
+    "tmdb": 1072205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

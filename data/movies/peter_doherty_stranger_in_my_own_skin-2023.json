@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_doherty_stranger_in_my_own_skin_2023",
+  "title": "Peter Doherty: Stranger In My Own Skin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122984013",
+    "imdb": "tt16311390",
+    "tmdb": 958163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-16",
+  "runtime_minutes": 90
+}

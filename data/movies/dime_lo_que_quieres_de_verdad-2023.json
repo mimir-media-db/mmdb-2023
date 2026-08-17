@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dime_lo_que_quieres_de_verdad_2023",
+  "title": "Dime lo que quieres (de verdad)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134932",
+    "imdb": "tt23777188",
+    "tmdb": 1157008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dangerous_romance",
+  "title": "Dangerous Romance",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121601673",
+    "imdb": "tt24188150",
+    "tmdb": 217861
+  },
+  "last_updated": "2026-08-17"
+}

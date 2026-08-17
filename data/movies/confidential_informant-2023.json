@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confidential_informant_2023",
+  "title": "Confidential Informant",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120135479",
+    "imdb": "tt21391242",
+    "tmdb": 1070802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-27",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_que_viva_mexico_2023",
+  "title": "¡Que viva México!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117266867",
+    "imdb": "tt22185848",
+    "tmdb": 868985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 191
+}

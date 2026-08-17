@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_royalteen_princess_margrethe_2023",
+  "title": "Royalteen: Princess Margrethe",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118316025",
+    "imdb": "tt22488414",
+    "tmdb": 1079078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sistemann_ut",
+  "title": "Sistemann ut",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116693996",
+    "imdb": "tt27584368",
+    "tmdb": 219899
+  },
+  "last_updated": "2026-08-17"
+}

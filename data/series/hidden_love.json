@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hidden_love",
+  "title": "Hidden Love",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120206657",
+    "imdb": "tt28076458",
+    "tmdb": 210733
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

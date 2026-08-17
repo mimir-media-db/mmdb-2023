@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sonido_amazonico_2023",
+  "title": "Sonido amazónico",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134960",
+    "imdb": "tt28523737",
+    "tmdb": 1156355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

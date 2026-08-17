@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lake_baikal_2023",
+  "title": "Lake Baikal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123738053",
+    "imdb": "tt28670320",
+    "tmdb": 1173523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 9
+}

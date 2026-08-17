@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_village_2023",
+  "title": "The Village",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119633353",
+    "imdb": "tt27506951",
+    "tmdb": 1038515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-21"
+}

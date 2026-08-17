@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_masked_singer_vietnam",
+  "title": "The Masked Singer Vietnam",
+  "start_year": 2023,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q113416916"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

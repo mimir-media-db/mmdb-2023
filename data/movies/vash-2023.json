@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vash_2023",
+  "title": "Vash",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116257433",
+    "imdb": "tt26331750",
+    "tmdb": 1085547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10"
+}

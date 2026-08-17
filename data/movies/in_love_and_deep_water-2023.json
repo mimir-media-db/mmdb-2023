@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_love_and_deep_water_2023",
+  "title": "In Love and Deep Water",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123308639",
+    "imdb": "tt21211474",
+    "tmdb": 1180199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-16",
+  "runtime_minutes": 127
+}

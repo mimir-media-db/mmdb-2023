@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_heidi_2023",
+  "title": "Mad Heidi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58094592",
+    "imdb": "tt2943178",
+    "tmdb": 566805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-21",
+  "runtime_minutes": 92
+}

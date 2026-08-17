@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mothers_day_2023",
+  "title": "Mother's Day",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118640834",
+    "imdb": "tt19724192",
+    "tmdb": 1107872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-24",
+  "runtime_minutes": 94
+}

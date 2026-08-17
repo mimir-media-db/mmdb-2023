@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_copenhagen_does_not_exist_2023",
+  "title": "Copenhagen Does Not Exist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111309449",
+    "imdb": "tt18072684",
+    "tmdb": 932355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 99
+}

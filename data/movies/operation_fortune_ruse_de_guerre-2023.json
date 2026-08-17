@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_fortune_ruse_de_guerre_2023",
+  "title": "Operation Fortune: Ruse de Guerre",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104822312",
+    "imdb": "tt7985704",
+    "tmdb": 739405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-05",
+  "runtime_minutes": 114
+}

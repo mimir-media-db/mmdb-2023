@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhagavanth_kesari_2023",
+  "title": "Bhagavanth Kesari",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119625131",
+    "imdb": "tt21810110",
+    "tmdb": 979669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19",
+  "runtime_minutes": 164
+}

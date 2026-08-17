@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lovely_liar",
+  "title": "My Lovely Liar",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115531995",
+    "imdb": "tt27203727",
+    "tmdb": 210781
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

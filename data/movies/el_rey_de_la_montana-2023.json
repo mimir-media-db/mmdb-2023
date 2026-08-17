@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_el_rey_de_la_montana_2023",
+  "title": "El rey de la montaña",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122684238",
+    "imdb": "tt28757129",
+    "tmdb": 1181417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

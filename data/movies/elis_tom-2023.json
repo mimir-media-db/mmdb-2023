@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elis_tom_2023",
+  "title": "Elis & Tom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116778952",
+    "imdb": "tt26255088",
+    "tmdb": 1030653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-30",
+  "runtime_minutes": 100
+}

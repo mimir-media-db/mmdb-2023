@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jones_plantation_2023",
+  "title": "Jones Plantation",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125161651",
+    "imdb": "tt26964727",
+    "tmdb": 1126273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-05",
+  "runtime_minutes": 110
+}

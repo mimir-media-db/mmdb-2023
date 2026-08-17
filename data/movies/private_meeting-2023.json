@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_private_meeting_2023",
+  "title": "Private Meeting",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110749435",
+    "imdb": "tt18073134",
+    "tmdb": 933233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-04"
+}

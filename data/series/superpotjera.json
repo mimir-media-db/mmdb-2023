@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_superpotjera",
+  "title": "Superpotjera",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130296837",
+    "imdb": "tt27171039",
+    "tmdb": 329075
+  },
+  "last_updated": "2026-08-17"
+}

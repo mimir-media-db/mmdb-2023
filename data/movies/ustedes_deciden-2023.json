@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ustedes_deciden_2023",
+  "title": "Ustedes deciden",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121629419",
+    "imdb": "tt23845538",
+    "tmdb": 1064841
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-25",
+  "runtime_minutes": 92
+}

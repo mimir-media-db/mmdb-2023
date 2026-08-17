@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pradhan_2023",
+  "title": "Pradhan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123478458",
+    "imdb": "tt29923681",
+    "tmdb": 1068501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-22"
+}

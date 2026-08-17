@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ademokas_education_2023",
+  "title": "Ademoka's Education",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119704496",
+    "imdb": "tt8309900",
+    "tmdb": 886429
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-12",
+  "runtime_minutes": 89
+}

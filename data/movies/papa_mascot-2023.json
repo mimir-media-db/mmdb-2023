@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_papa_mascot_2023",
+  "title": "Papa Mascot",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125935879",
+    "imdb": "tt27613700",
+    "tmdb": 1101042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-26",
+  "runtime_minutes": 94
+}

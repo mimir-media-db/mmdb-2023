@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_un_pont_audessus_de_locean_2023",
+  "title": "Un pont au-dessus de l'océan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124062175",
+    "imdb": "tt28606925"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-25"
+}

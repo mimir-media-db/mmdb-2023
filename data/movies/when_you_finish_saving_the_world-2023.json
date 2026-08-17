@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_you_finish_saving_the_world_2023",
+  "title": "When You Finish Saving the World",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105438429",
+    "imdb": "tt12121582",
+    "tmdb": 691422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 88
+}

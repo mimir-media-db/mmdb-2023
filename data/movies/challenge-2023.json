@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_challenge_2023",
+  "title": "The Challenge",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108528962",
+    "imdb": "tt14812496",
+    "tmdb": 745987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-12",
+  "runtime_minutes": 165
+}

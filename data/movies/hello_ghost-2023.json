@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hello_ghost_2023",
+  "title": "Hello Ghost",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131557044",
+    "imdb": "tt14399128",
+    "tmdb": 811704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-11",
+  "runtime_minutes": 114
+}

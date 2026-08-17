@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarokar_mrityu_2023",
+  "title": "Tarokar Mrityu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122346679",
+    "imdb": "tt29033594",
+    "tmdb": 942385
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29"
+}

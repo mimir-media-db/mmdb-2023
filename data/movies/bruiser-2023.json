@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bruiser_2023",
+  "title": "Bruiser",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804626",
+    "imdb": "tt21833464",
+    "tmdb": 1014566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24"
+}

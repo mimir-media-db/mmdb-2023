@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_joseon_lawyer",
+  "title": "Joseon Lawyer",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115941173",
+    "imdb": "tt26599669",
+    "tmdb": 206715
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

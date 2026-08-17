@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murderess_2023",
+  "title": "The Murderess",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119771942",
+    "imdb": "tt29644530",
+    "tmdb": 1196489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_la_femme_parfaite_2023",
+  "title": "Barbie, la femme parfaite ?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121793008",
+    "imdb": "tt28594900",
+    "tmdb": 1150753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21",
+  "runtime_minutes": 52
+}

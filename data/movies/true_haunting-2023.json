@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_true_haunting_2023",
+  "title": "True Haunting",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114754068",
+    "imdb": "tt9783444",
+    "tmdb": 740611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06"
+}

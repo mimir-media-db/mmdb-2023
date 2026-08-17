@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hao_are_you_2023",
+  "title": "Hao Are You",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124309870",
+    "imdb": "tt28834490",
+    "tmdb": 1094810
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 94
+}

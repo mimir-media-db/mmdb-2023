@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sparta_2023",
+  "title": "Sparta",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113382725",
+    "imdb": "tt18162296",
+    "tmdb": 937633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 101
+}

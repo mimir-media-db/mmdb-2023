@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_milele",
+  "title": "Welcome to Milele",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124316686",
+    "imdb": "tt27951213",
+    "tmdb": 239490
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 35
+}

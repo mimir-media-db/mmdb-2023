@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_laura_coates_live",
+  "title": "Laura Coates Live",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123008238",
+    "imdb": "tt30317596",
+    "tmdb": 254568
+  },
+  "last_updated": "2026-08-17"
+}

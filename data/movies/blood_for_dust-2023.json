@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_for_dust_2023",
+  "title": "Blood for Dust",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117842585",
+    "imdb": "tt10669888",
+    "tmdb": 1025596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

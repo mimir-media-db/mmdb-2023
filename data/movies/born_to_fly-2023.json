@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_fly_2023",
+  "title": "Born to Fly",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116371087",
+    "imdb": "tt22058628",
+    "tmdb": 1012837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-28",
+  "runtime_minutes": 128
+}

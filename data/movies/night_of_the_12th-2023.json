@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_12th_2023",
+  "title": "The Night of the 12th",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112584985",
+    "imdb": "tt16953666",
+    "tmdb": 925102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-12",
+  "runtime_minutes": 114
+}

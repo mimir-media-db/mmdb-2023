@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bastardi_reparat_2023",
+  "title": "Bastardi: Reparát",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104898818",
+    "imdb": "tt17543824",
+    "tmdb": 743889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

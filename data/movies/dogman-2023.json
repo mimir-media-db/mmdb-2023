@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dogman_2023",
+  "title": "DogMan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113005247",
+    "imdb": "tt17009348",
+    "tmdb": 944401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-27",
+  "runtime_minutes": 113
+}

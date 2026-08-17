@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fox_news_saturday_night",
+  "title": "Fox News Saturday Night",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118986019",
+    "imdb": "tt28029478",
+    "tmdb": 234972
+  },
+  "last_updated": "2026-08-17"
+}

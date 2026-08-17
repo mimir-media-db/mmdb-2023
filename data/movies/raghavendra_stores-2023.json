@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raghavendra_stores_2023",
+  "title": "Raghavendra Stores",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118522793",
+    "imdb": "tt15477040",
+    "tmdb": 1119099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-28",
+  "runtime_minutes": 104
+}

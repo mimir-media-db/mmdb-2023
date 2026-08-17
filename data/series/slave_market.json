@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_slave_market",
+  "title": "Slave Market",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124333941",
+    "imdb": "tt26224444",
+    "tmdb": 218229
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 19
+}

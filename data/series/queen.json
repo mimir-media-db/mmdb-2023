@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_queen",
+  "title": "The Queen",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119140603",
+    "imdb": "tt26083408",
+    "tmdb": 222799
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

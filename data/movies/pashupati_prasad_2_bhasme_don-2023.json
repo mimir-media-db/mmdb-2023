@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pashupati_prasad_2_bhasme_don_2023",
+  "title": "Pashupati Prasad 2: Bhasme Don",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119856906",
+    "imdb": "tt29005176",
+    "tmdb": 1193795
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-21"
+}

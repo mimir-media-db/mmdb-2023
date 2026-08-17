@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_slant_2023",
+  "title": "Slant",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124351038",
+    "imdb": "tt13773640",
+    "tmdb": 1053873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-12"
+}

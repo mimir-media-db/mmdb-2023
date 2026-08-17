@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sailor_moon_cosmos_2023",
+  "title": "Sailor Moon Cosmos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114278741",
+    "imdb": "tt19861160",
+    "tmdb": 968868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 160
+}

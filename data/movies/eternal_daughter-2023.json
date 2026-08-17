@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eternal_daughter_2023",
+  "title": "The Eternal Daughter",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105227223",
+    "imdb": "tt13874422",
+    "tmdb": 790867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-22",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rental_family_2023",
+  "title": "Rental Family",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482831",
+    "imdb": "tt33292899",
+    "tmdb": 1032681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-10"
+}

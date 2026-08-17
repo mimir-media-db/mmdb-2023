@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_us_and_the_animal_a_slaughterhouse_melodrama_2023",
+  "title": "Us and the Animal - A Slaughterhouse Melodrama",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122929552",
+    "imdb": "tt27606209",
+    "tmdb": 1126413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-06",
+  "runtime_minutes": 81
+}

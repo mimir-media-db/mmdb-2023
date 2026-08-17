@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_des_mains_en_or_2023",
+  "title": "Des mains en or",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117824903",
+    "imdb": "tt21071746",
+    "tmdb": 989229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-07"
+}

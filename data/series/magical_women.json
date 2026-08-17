@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_magical_women",
+  "title": "The Magical Women",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122053192",
+    "imdb": "tt27477580",
+    "tmdb": 139183
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

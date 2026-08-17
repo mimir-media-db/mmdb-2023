@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bienveillance_paysanne_2023",
+  "title": "Bienveillance paysanne",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117082507",
+    "imdb": "tt27128855",
+    "tmdb": 1086147
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_an_age_2023",
+  "title": "Of an Age",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113462425",
+    "imdb": "tt14967472",
+    "tmdb": 958340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 100
+}

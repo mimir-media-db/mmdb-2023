@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_juhee_from_5_to_7_2023",
+  "title": "Juhee from 5 to 7",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598148",
+    "tmdb": 1021691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-08"
+}

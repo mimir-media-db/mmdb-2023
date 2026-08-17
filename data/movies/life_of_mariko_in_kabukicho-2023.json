@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_life_of_mariko_in_kabukicho_2023",
+  "title": "Life of Mariko in Kabukicho",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333096",
+    "imdb": "tt22062330",
+    "tmdb": 1017441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-30"
+}

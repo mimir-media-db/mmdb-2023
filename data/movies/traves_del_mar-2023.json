@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_traves_del_mar_2023",
+  "title": "A través del mar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114201306",
+    "imdb": "tt21245882",
+    "tmdb": 988078
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 109
+}

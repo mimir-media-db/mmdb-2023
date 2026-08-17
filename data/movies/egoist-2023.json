@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_egoist_2023",
+  "title": "Egoist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116734784",
+    "imdb": "tt22006138",
+    "tmdb": 1027273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 120
+}

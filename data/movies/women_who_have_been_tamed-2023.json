@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_women_who_have_been_tamed_2023",
+  "title": "Women Who Have Been Tamed",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842415",
+    "tmdb": 1180379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

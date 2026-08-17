@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_path_of_excellence_2023",
+  "title": "The Path of Excellence",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120885785",
+    "imdb": "tt27372066",
+    "tmdb": 989593
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-03",
+  "runtime_minutes": 107
+}

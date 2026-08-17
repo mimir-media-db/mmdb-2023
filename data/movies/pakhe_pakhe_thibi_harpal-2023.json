@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pakhe_pakhe_thibi_harpal_2023",
+  "title": "Pakhe Pakhe Thibi Harpal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119889709",
+    "imdb": "tt29454428",
+    "tmdb": 1143234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14"
+}

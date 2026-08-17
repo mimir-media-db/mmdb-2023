@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fly_2023",
+  "title": "F.L.Y.",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126735086",
+    "imdb": "tt14071370",
+    "tmdb": 1159255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

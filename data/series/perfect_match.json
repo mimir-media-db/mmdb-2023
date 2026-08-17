@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_match",
+  "title": "Perfect Match",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117032884",
+    "imdb": "tt23731242",
+    "tmdb": 218521
+  },
+  "last_updated": "2026-08-17"
+}

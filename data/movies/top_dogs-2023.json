@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_top_dogs_2023",
+  "title": "Top Dogs",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116122393",
+    "imdb": "tt15377036",
+    "tmdb": 860469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-11",
+  "runtime_minutes": 85
+}

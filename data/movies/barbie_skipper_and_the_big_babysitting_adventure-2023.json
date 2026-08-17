@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_skipper_and_the_big_babysitting_adventure_2023",
+  "title": "Barbie: Skipper and the Big Babysitting Adventure",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119444972",
+    "imdb": "tt26931203",
+    "tmdb": 1093349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 60
+}

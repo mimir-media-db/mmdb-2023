@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zara_hatke_zara_bachke_2023",
+  "title": "Zara Hatke Zara Bachke",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118485928",
+    "imdb": "tt15576460",
+    "tmdb": 920679
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 132
+}

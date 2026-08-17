@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liebe_angst_2023",
+  "title": "Liebe Angst",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116790581",
+    "imdb": "tt21104132",
+    "tmdb": 979889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-23",
+  "runtime_minutes": 81
+}

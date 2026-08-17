@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cello_2023",
+  "title": "The Cello",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120767778",
+    "imdb": "tt15824990",
+    "tmdb": 896250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14"
+}

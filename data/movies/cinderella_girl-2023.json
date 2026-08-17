@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_cinderella_girl_2023",
+  "title": "Cinderella Girl",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482841",
+    "tmdb": 1173836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-18"
+}

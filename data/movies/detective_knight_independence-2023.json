@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detective_knight_independence_2023",
+  "title": "Detective Knight: Independence",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114850036",
+    "imdb": "tt22394702",
+    "tmdb": 1035806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_heart",
+  "title": "The Heart",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123553278",
+    "imdb": "tt28116207",
+    "tmdb": 233076
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 38
+}

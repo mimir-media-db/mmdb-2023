@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_tutto_di_te_2023",
+  "title": "So tutto di te",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136660026",
+    "imdb": "tt27705518",
+    "tmdb": 1148714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-25",
+  "runtime_minutes": 91
+}

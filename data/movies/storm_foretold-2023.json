@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_storm_foretold_2023",
+  "title": "A Storm Foretold",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117310839",
+    "imdb": "tt22306998",
+    "tmdb": 1030196
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 101
+}

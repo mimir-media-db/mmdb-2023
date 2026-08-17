@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_squad_home_run_2023",
+  "title": "The Squad: Home Run",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116197045",
+    "imdb": "tt28199975",
+    "tmdb": 1020394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

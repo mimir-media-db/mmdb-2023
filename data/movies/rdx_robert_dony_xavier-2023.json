@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rdx_robert_dony_xavier_2023",
+  "title": "RDX: Robert Dony Xavier",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120356717",
+    "imdb": "tt24517458",
+    "tmdb": 997391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-25",
+  "runtime_minutes": 151
+}

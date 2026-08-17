@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_patagonia_2023",
+  "title": "Patagonia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121362799",
+    "imdb": "tt22191712",
+    "tmdb": 1010170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bitter_harvest_2023",
+  "title": "Bitter Harvest",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17004445",
+    "imdb": "tt3182620",
+    "tmdb": 403390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 103
+}

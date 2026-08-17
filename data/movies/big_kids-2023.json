@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_kids_2023",
+  "title": "Big Kids",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117787387",
+    "imdb": "tt20766628",
+    "tmdb": 960464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-26",
+  "runtime_minutes": 99
+}

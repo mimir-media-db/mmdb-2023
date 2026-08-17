@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pig_the_snake_and_the_pigeon_2023",
+  "title": "The Pig, The Snake and The Pigeon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354170",
+    "imdb": "tt29319990",
+    "tmdb": 1046090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06",
+  "runtime_minutes": 134
+}

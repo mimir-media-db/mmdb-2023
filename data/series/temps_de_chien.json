@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_temps_de_chien",
+  "title": "Temps de chien",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131293154",
+    "imdb": "tt30308502",
+    "tmdb": 239666
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 36
+}

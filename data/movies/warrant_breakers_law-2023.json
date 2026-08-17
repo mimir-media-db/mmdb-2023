@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_warrant_breakers_law_2023",
+  "title": "The Warrant: Breaker's Law",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118382997",
+    "imdb": "tt18560250",
+    "tmdb": 1032134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-18",
+  "runtime_minutes": 88
+}

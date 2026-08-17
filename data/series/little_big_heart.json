@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_little_big_heart",
+  "title": "Little Big Heart",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117459183",
+    "imdb": "tt22727856",
+    "tmdb": 218052
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

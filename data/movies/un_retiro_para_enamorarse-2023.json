@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_retiro_para_enamorarse_2023",
+  "title": "Un retiro para enamorarse",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134968",
+    "imdb": "tt28150044",
+    "tmdb": 1091468
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

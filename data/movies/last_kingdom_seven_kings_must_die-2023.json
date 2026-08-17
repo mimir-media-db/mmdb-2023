@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_kingdom_seven_kings_must_die_2023",
+  "title": "The Last Kingdom: Seven Kings Must Die",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111201046",
+    "imdb": "tt15767808",
+    "tmdb": 948713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14",
+  "runtime_minutes": 111
+}

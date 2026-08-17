@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_dreams_2023",
+  "title": "Sweet Dreams",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122364283",
+    "imdb": "tt13110998",
+    "tmdb": 1086888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 102
+}

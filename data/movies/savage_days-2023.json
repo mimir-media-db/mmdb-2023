@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_savage_days_2023",
+  "title": "Savage Days",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187361",
+    "imdb": "tt12833358",
+    "tmdb": 785202
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

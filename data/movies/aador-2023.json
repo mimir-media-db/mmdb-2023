@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_aador_2023",
+  "title": "Aador",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121536380",
+    "imdb": "tt28291193"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-26"
+}

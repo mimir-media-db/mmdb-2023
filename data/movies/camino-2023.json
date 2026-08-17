@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camino_2023",
+  "title": "Camino",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121268646",
+    "imdb": "tt24177444",
+    "tmdb": 1082462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 106
+}

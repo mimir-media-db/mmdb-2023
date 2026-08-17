@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_mountains_2023",
+  "title": "Behind the Mountains",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125258809",
+    "imdb": "tt26771225",
+    "tmdb": 1090097
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-04",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_delete_tv_series",
+  "title": "Delete (TV series)",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119631774",
+    "imdb": "tt22696582",
+    "tmdb": 218994
+  },
+  "last_updated": "2026-08-17"
+}

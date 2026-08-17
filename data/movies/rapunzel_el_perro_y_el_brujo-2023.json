@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rapunzel_el_perro_y_el_brujo_2023",
+  "title": "Rapunzel, El Perro y El Brujo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123241723",
+    "imdb": "tt28313357",
+    "tmdb": 1195374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

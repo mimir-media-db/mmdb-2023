@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zirka_2023",
+  "title": "Zirka",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576049",
+    "imdb": "tt9042128",
+    "tmdb": 1269070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-17",
+  "runtime_minutes": 79
+}

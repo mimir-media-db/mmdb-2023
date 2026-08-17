@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_coree_du_nord_un_plan_pour_survivre_2023",
+  "title": "Corée du Nord, un plan pour survivre",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136140238",
+    "tmdb": 1169045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

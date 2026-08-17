@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magic_7_2023",
+  "title": "Magic 7",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120759243",
+    "imdb": "tt28229138",
+    "tmdb": 802426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-17"
+}

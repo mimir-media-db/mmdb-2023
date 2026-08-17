@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wild_2023",
+  "title": "The Wild",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598217",
+    "imdb": "tt14916052",
+    "tmdb": 799710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-15"
+}

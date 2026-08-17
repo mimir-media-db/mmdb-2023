@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kokdu_season_of_deity",
+  "title": "Kokdu: Season of Deity",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114235447",
+    "imdb": "tt25699926",
+    "tmdb": 210998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

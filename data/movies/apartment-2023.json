@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apartment_2023",
+  "title": "The Apartment",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122636785",
+    "imdb": "tt28300201",
+    "tmdb": 1155285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 87
+}

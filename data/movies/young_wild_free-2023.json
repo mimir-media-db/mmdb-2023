@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_wild_free_2023",
+  "title": "Young. Wild. Free.",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115643989",
+    "imdb": "tt9204126",
+    "tmdb": 864075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-22",
+  "runtime_minutes": 105
+}

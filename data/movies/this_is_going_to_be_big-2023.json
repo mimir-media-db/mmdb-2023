@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_going_to_be_big_2023",
+  "title": "This Is Going to Be Big",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121826613",
+    "imdb": "tt28457912",
+    "tmdb": 1137617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

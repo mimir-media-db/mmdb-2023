@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_like_movies_2023",
+  "title": "I Like Movies",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113560959",
+    "imdb": "tt14913282",
+    "tmdb": 980996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10",
+  "runtime_minutes": 99
+}

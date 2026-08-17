@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_you_2023",
+  "title": "I Love You",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121461303",
+    "imdb": "tt27930156",
+    "tmdb": 1136169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-16"
+}

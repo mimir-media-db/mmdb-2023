@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lepreuve_du_goumin_2023",
+  "title": "A l’épreuve du Goumin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135987633",
+    "imdb": "tt28642614",
+    "tmdb": 1382466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 96
+}

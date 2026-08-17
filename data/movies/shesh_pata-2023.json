@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shesh_pata_2023",
+  "title": "Shesh Pata",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118120928",
+    "imdb": "tt15386768",
+    "tmdb": 873226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14"
+}

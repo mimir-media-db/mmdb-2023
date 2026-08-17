@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_games_the_ballad_of_songbirds_and_snakes_2023",
+  "title": "The Hunger Games: The Ballad of Songbirds and Snakes",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96377121",
+    "imdb": "tt10545296",
+    "tmdb": 695721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-15",
+  "runtime_minutes": 158
+}

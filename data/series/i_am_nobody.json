@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_am_nobody",
+  "title": "I Am Nobody",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121811198",
+    "imdb": "tt26031462",
+    "tmdb": 225941
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 40
+}

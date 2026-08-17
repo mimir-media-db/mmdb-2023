@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maam_chief_shakedown_in_seoul_2023",
+  "title": "Ma'am Chief: Shakedown in Seoul",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123059243",
+    "imdb": "tt29513611",
+    "tmdb": 1191743
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-15"
+}

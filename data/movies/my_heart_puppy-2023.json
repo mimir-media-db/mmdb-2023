@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_heart_puppy_2023",
+  "title": "My Heart Puppy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111817993",
+    "imdb": "tt24218390",
+    "tmdb": 610249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01"
+}

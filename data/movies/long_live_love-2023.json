@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_long_live_love_2023",
+  "title": "Long Live Love!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123188984",
+    "imdb": "tt28298504",
+    "tmdb": 1026961
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-29"
+}

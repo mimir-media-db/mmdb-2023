@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_government_servant_2023_film_2023",
+  "title": "The Government Servant (2023 film)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118118548",
+    "imdb": "tt27442590"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-24"
+}

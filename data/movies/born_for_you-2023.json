@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_for_you_2023",
+  "title": "Born for you",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122387390",
+    "imdb": "tt23708786",
+    "tmdb": 1030531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-28"
+}

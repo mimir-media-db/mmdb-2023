@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_miracle_brothers",
+  "title": "Miracle Brothers",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118680642",
+    "imdb": "tt27906926",
+    "tmdb": 208834
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

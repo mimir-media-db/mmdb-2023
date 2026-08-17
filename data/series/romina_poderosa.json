@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_romina_poderosa",
+  "title": "Romina poderosa",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118367418",
+    "imdb": "tt28544336",
+    "tmdb": 228051
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 65
+}

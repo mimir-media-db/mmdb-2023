@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scamsgiving_2023",
+  "title": "Scamsgiving",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116458589",
+    "imdb": "tt24330660",
+    "tmdb": 1022862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20"
+}

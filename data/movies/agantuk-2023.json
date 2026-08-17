@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_agantuk_2023",
+  "title": "Agantuk",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124734198",
+    "imdb": "tt23840646",
+    "tmdb": 1171629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

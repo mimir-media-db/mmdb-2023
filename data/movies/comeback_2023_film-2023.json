@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_2023_film_2023",
+  "title": "The Comeback (2023 film)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354299",
+    "imdb": "tt28482763",
+    "tmdb": 1152306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

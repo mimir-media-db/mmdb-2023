@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vivant",
+  "title": "VIVANT",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116919744",
+    "imdb": "tt28314144",
+    "tmdb": 218038
+  },
+  "last_updated": "2026-08-17"
+}

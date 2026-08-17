@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_cinema_blues_2023",
+  "title": "Twilight Cinema Blues",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333117",
+    "imdb": "tt31407003",
+    "tmdb": 1064872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 99
+}

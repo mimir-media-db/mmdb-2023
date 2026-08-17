@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wildflower_2023",
+  "title": "Wildflower",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111817285",
+    "imdb": "tt12024308",
+    "tmdb": 915523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

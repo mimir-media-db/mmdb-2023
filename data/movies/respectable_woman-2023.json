@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_respectable_woman_2023",
+  "title": "A Respectable Woman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119625112",
+    "imdb": "tt19488216",
+    "tmdb": 1072823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-28",
+  "runtime_minutes": 103
+}

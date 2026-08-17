@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_book_of_wonders_2023",
+  "title": "The Book of Wonders",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116981014",
+    "imdb": "tt14342018",
+    "tmdb": 890203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orisa_2023",
+  "title": "Orisa",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130753795",
+    "imdb": "tt28499644",
+    "tmdb": 1153104
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

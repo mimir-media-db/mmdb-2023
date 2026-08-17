@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_detour_to_father_2023",
+  "title": "Detour to Father",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117456761",
+    "imdb": "tt15141690",
+    "tmdb": 1078123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-31",
+  "runtime_minutes": 89
+}

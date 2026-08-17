@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extraordinary",
+  "title": "Extraordinary",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115858997",
+    "imdb": "tt14531842",
+    "tmdb": 47907
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

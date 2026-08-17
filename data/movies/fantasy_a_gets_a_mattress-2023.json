@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fantasy_a_gets_a_mattress_2023",
+  "title": "Fantasy A Gets a Mattress",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123126685",
+    "imdb": "tt28437326",
+    "tmdb": 1093427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 79
+}

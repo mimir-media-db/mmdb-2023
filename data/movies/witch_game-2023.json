@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witch_game_2023",
+  "title": "The Witch Game",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123478478",
+    "imdb": "tt23902966",
+    "tmdb": 1067833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-18",
+  "runtime_minutes": 86
+}

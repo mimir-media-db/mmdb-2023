@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_umg",
+  "title": "UMG",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110038480",
+    "imdb": "tt16410492",
+    "tmdb": 218870
+  },
+  "last_updated": "2026-08-17"
+}

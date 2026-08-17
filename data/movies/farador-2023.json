@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farador_2023",
+  "title": "Farador",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123484840",
+    "imdb": "tt14681010",
+    "tmdb": 881459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-04",
+  "runtime_minutes": 108
+}

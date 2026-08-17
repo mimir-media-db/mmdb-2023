@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flo_2023",
+  "title": "Flo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118870472",
+    "imdb": "tt21967274",
+    "tmdb": 966086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19",
+  "runtime_minutes": 125
+}

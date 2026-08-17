@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_langs_de_nieuwe_zijderoute",
+  "title": "Langs de nieuwe zijderoute",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q131694131",
+    "imdb": "tt26903621",
+    "tmdb": 222651
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

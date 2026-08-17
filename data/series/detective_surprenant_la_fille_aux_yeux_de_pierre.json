@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_detective_surprenant_la_fille_aux_yeux_de_pierre",
+  "title": "Détective Surprenant : La fille aux yeux de pierre",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124964085",
+    "imdb": "tt28285815",
+    "tmdb": 241092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

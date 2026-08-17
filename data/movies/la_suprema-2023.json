@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_suprema_2023",
+  "title": "La Suprema",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130717289",
+    "imdb": "tt20158934",
+    "tmdb": 1105382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

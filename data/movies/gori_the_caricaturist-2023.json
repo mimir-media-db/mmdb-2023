@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gori_the_caricaturist_2023",
+  "title": "Gori The Caricaturist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130316064",
+    "imdb": "tt26679735",
+    "tmdb": 1074207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 76
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pancho_villa_the_centaur_of_the_north",
+  "title": "Pancho Villa: The Centaur of the North",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120753850",
+    "imdb": "tt15657464",
+    "tmdb": 128329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_era_olvidada_2023",
+  "title": "La era olvidada",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134942",
+    "imdb": "tt29685826",
+    "tmdb": 1104859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

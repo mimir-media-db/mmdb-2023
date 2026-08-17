@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_something_like_an_autobiography_2023",
+  "title": "Something Like an Autobiography",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122355645",
+    "imdb": "tt28803690",
+    "tmdb": 1171567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empire_of_light_2023",
+  "title": "Empire of Light",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110876878",
+    "imdb": "tt14402146",
+    "tmdb": 814757
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-09",
+  "runtime_minutes": 119
+}

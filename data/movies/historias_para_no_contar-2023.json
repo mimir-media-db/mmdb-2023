@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_historias_para_no_contar_2023",
+  "title": "Historias para no contar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110550826",
+    "imdb": "tt14149544",
+    "tmdb": 801860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-05",
+  "runtime_minutes": 100
+}

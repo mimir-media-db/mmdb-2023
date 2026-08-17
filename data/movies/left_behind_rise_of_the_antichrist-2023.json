@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_left_behind_rise_of_the_antichrist_2023",
+  "title": "Left Behind: Rise of the Antichrist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112221364",
+    "imdb": "tt16174868",
+    "tmdb": 1008903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disco_boy_2023",
+  "title": "Disco Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116313768",
+    "imdb": "tt22180518",
+    "tmdb": 922830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-09",
+  "runtime_minutes": 91
+}

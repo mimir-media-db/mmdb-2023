@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shining_for_one_thing_2023",
+  "title": "Shining for One Thing",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135244312",
+    "imdb": "tt28713555",
+    "tmdb": 1178811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-30",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mustache_2023",
+  "title": "Mustache",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117289883",
+    "imdb": "tt12785062",
+    "tmdb": 1055077
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 83
+}

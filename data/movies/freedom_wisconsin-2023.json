@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_freedom_wisconsin_2023",
+  "title": "Freedom, Wisconsin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130355859",
+    "imdb": "tt16420072",
+    "tmdb": 1107753
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-27"
+}

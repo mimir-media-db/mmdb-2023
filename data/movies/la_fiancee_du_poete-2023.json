@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_fiancee_du_poete_2023",
+  "title": "La Fiancée du poète",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114665645",
+    "imdb": "tt21372098",
+    "tmdb": 966355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-11",
+  "runtime_minutes": 103
+}

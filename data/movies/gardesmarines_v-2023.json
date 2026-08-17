@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gardesmarines_v_2023",
+  "title": "GardesMarines V",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105585451",
+    "imdb": "tt28115227",
+    "tmdb": 610373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

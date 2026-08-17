@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_beyond_destiny",
+  "title": "Beyond Destiny",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125029222",
+    "imdb": "tt25152156",
+    "tmdb": 233011
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

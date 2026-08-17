@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sueno_de_emma_2023",
+  "title": "El sueño de Emma",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136088785",
+    "imdb": "tt26660677",
+    "tmdb": 1212880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 88
+}

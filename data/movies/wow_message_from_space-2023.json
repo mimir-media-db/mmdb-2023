@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wow_message_from_space_2023",
+  "title": "Wow! Message from Space",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115497220",
+    "imdb": "tt21622000",
+    "tmdb": 1076311
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29"
+}

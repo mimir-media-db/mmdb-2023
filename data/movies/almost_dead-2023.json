@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_dead_2023",
+  "title": "Almost dead",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120490724",
+    "imdb": "tt10749816",
+    "tmdb": 791295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06",
+  "runtime_minutes": 105
+}

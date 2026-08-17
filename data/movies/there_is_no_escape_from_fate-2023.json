@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_there_is_no_escape_from_fate_2023",
+  "title": "There is No Escape From Fate",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124361541",
+    "imdb": "tt30644284",
+    "tmdb": 1026380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-14"
+}

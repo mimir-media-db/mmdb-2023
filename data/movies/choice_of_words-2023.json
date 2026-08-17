@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_choice_of_words_2023",
+  "title": "The choice of words",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136745921",
+    "imdb": "tt34378344",
+    "tmdb": 1208088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tora_mora_kati_2023",
+  "title": "Tora Mora Kati",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116136310",
+    "imdb": "tt25151232",
+    "tmdb": 1071659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06"
+}

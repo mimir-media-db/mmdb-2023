@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_madrasa",
+  "title": "Madrasa",
+  "start_year": 2022,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115984679",
+    "imdb": "tt25437310",
+    "tmdb": 230954
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

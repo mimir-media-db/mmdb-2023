@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wait_for_me_2023",
+  "title": "Wait for Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121339611",
+    "imdb": "tt12047620",
+    "tmdb": 1099014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-12",
+  "runtime_minutes": 90
+}

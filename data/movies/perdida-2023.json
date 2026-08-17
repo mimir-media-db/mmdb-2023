@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perdida_2023",
+  "title": "Perdida",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120336798",
+    "imdb": "tt20420806",
+    "tmdb": 977592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-13"
+}

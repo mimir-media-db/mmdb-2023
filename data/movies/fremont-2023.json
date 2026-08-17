@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fremont_2023",
+  "title": "Fremont",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116688562",
+    "imdb": "tt8591526",
+    "tmdb": 1048522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 91
+}

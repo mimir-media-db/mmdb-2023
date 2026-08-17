@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_wife_2023",
+  "title": "The Young Wife",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116797354",
+    "imdb": "tt18375360",
+    "tmdb": 945393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 97
+}

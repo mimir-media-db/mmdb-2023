@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_polvo_2023",
+  "title": "El Polvo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130461866",
+    "imdb": "tt13217600",
+    "tmdb": 1196275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 73
+}

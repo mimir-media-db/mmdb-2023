@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_moughamarat_koko_2023",
+  "title": "Moughamarat Koko",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117795523",
+    "imdb": "tt21073246",
+    "tmdb": 1069983
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-21"
+}

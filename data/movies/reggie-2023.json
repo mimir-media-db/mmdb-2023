@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_reggie_2023",
+  "title": "Reggie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117443257",
+    "imdb": "tt20418306",
+    "tmdb": 1032274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

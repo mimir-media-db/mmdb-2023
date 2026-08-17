@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_composer_2023",
+  "title": "The Composer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121084614",
+    "imdb": "tt7014404",
+    "tmdb": 597275
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-05",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_projekt_ballhausplatz_2023",
+  "title": "Projekt Ballhausplatz",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121428347",
+    "imdb": "tt29054933",
+    "tmdb": 1150618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21",
+  "runtime_minutes": 101
+}

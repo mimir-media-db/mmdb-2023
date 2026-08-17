@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_between_the_white_key_and_the_black_key_2023",
+  "title": "Between the White Key and the Black Key",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122974390",
+    "imdb": "tt31151405",
+    "tmdb": 1160242
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06"
+}

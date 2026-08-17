@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onyx_the_fortuitous_and_the_talisman_of_souls_2023",
+  "title": "Onyx the Fortuitous and the Talisman of Souls",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136486559",
+    "imdb": "tt14402316",
+    "tmdb": 929230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

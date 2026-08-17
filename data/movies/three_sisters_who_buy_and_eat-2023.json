@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_three_sisters_who_buy_and_eat_2023",
+  "title": "Three Sisters Who Buy and Eat",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842369",
+    "tmdb": 1212163
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07"
+}

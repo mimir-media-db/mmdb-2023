@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_white_storm_3_2023",
+  "title": "The White Storm 3",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107610601",
+    "imdb": "tt26929966",
+    "tmdb": 1093485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06"
+}

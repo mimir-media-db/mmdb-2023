@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_esme_my_love_2023",
+  "title": "Esme, My Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123577522",
+    "imdb": "tt8224010",
+    "tmdb": 923994
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 104
+}

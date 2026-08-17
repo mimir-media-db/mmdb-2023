@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annesophie_mutter_vivace_2023",
+  "title": "Anne-Sophie Mutter : VIVACE",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116849322",
+    "imdb": "tt33007954",
+    "tmdb": 1104840
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-28",
+  "runtime_minutes": 91
+}

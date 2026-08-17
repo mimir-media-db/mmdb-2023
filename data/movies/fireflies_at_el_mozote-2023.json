@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fireflies_at_el_mozote_2023",
+  "title": "Fireflies at El Mozote",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113552087",
+    "imdb": "tt2090499",
+    "tmdb": 1015154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

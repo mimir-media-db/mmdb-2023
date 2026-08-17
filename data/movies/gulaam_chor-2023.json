@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulaam_chor_2023",
+  "title": "Gulaam Chor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119469096",
+    "imdb": "tt27996301",
+    "tmdb": 1138889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-11",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_snoopy_presents_oneofakind_marcie_2023",
+  "title": "Snoopy Presents: One-of-a-Kind Marcie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124827237",
+    "imdb": "tt27865284",
+    "tmdb": 1128604
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

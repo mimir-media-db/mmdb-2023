@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_francoeur_on_acheve_bien_les_rockers_2023",
+  "title": "Francoeur : on achève bien les rockers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123496910",
+    "imdb": "tt29265010",
+    "tmdb": 1181664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08",
+  "runtime_minutes": 94
+}

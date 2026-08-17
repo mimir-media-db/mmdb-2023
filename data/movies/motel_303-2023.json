@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_motel_303_2023",
+  "title": "Motel 303",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482866",
+    "imdb": "tt35109775",
+    "tmdb": 1594448
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-29"
+}

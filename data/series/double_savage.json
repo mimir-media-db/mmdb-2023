@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_double_savage",
+  "title": "Double Savage",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117769486",
+    "imdb": "tt24250880",
+    "tmdb": 223817
+  },
+  "last_updated": "2026-08-17"
+}

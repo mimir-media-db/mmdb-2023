@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_el_huatrila_2023",
+  "title": "El Huatrila",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134936",
+    "tmdb": 1169309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

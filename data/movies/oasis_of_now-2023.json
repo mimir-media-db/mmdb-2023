@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_oasis_of_now_2023",
+  "title": "Oasis of Now",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123187432",
+    "imdb": "tt13872498",
+    "tmdb": 1078559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06"
+}

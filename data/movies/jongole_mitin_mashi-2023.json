@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jongole_mitin_mashi_2023",
+  "title": "Jongole Mitin Mashi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121907036",
+    "imdb": "tt28783466",
+    "tmdb": 1020091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-18"
+}

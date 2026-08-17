@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackening_2023",
+  "title": "The Blackening",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114087590",
+    "imdb": "tt11703244",
+    "tmdb": 1008392
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-16",
+  "runtime_minutes": 97
+}

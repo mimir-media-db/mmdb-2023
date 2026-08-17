@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_kohrra",
+  "title": "Kohrra",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120689025",
+    "imdb": "tt27853283",
+    "tmdb": 230034
+  },
+  "last_updated": "2026-08-17"
+}

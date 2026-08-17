@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floresta_dos_sussurros_2023",
+  "title": "A Floresta dos Sussurros",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126956533",
+    "imdb": "tt31051123",
+    "tmdb": 1232750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

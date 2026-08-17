@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manta_manta_legacy_2023",
+  "title": "Manta, Manta: Legacy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116689981",
+    "imdb": "tt20414228",
+    "tmdb": 1058100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-30",
+  "runtime_minutes": 127
+}

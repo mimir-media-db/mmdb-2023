@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_another_body_2023",
+  "title": "Another Body",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118645525",
+    "imdb": "tt22464734",
+    "tmdb": 1031143
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-11",
+  "runtime_minutes": 80
+}

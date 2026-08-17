@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foremost_by_night_2023",
+  "title": "Foremost by Night",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121071213",
+    "imdb": "tt21882016",
+    "tmdb": 1108329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 108
+}

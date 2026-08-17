@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_impossible_to_stay_2023",
+  "title": "(Im)possible to Stay",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573986",
+    "imdb": "tt29191802",
+    "tmdb": 1182828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-18",
+  "runtime_minutes": 104
+}

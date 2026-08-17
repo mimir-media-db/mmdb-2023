@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_dreams_stories_from_the_myanmar_coup_2023",
+  "title": "Broken Dreams: Stories from the Myanmar Coup",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124323620",
+    "imdb": "tt30492687",
+    "tmdb": 1246250
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 128
+}

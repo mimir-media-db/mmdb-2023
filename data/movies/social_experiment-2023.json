@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_social_experiment_2023",
+  "title": "The Social Experiment",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114015947",
+    "imdb": "tt14631276",
+    "tmdb": 1024210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19"
+}

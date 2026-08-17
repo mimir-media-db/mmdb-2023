@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_slightly_open_doors_2023",
+  "title": "Slightly Open Doors",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573863",
+    "imdb": "tt27663408",
+    "tmdb": 1138693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 89
+}

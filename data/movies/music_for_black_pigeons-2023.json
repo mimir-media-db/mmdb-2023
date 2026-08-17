@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_music_for_black_pigeons_2023",
+  "title": "Music for Black Pigeons",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311056",
+    "imdb": "tt21376876",
+    "tmdb": 1004678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21",
+  "runtime_minutes": 92
+}

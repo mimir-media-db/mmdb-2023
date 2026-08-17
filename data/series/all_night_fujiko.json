@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_all_night_fujiko",
+  "title": "All Night Fujiko",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119343999",
+    "tmdb": 228864
+  },
+  "last_updated": "2026-08-17"
+}

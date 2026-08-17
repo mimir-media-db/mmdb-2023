@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hassisen_kone_40_vuotta_myohemmin_2023",
+  "title": "Hassisen Kone 40 vuotta myöhemmin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117379301",
+    "imdb": "tt27117751",
+    "tmdb": 1080937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gandhi_godse_ek_yudh_2023",
+  "title": "Gandhi Godse – Ek Yudh",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116675748",
+    "imdb": "tt13801462",
+    "tmdb": 1067209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26"
+}

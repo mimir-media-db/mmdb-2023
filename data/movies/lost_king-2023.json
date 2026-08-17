@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_king_2023",
+  "title": "The Lost King",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111942047",
+    "imdb": "tt13421498",
+    "tmdb": 914216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-29",
+  "runtime_minutes": 109
+}

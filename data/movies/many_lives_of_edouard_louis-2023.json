@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_many_lives_of_edouard_louis_2023",
+  "title": "The Many Lives of Edouard Louis",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123015317",
+    "imdb": "tt23027202",
+    "tmdb": 943375
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-26",
+  "runtime_minutes": 72
+}

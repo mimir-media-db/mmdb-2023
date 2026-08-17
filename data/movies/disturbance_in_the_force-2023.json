@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_disturbance_in_the_force_2023",
+  "title": "A Disturbance in the Force",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118146748",
+    "imdb": "tt13021790",
+    "tmdb": 765673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-11",
+  "runtime_minutes": 86
+}

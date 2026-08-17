@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_george_foreman_2023",
+  "title": "Big George Foreman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116600060",
+    "imdb": "tt12226632",
+    "tmdb": 878361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-28",
+  "runtime_minutes": 129
+}

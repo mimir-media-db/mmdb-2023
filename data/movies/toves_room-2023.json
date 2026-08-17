@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_toves_room_2023",
+  "title": "Tove's Room",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116141904",
+    "imdb": "tt19623314",
+    "tmdb": 1108450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-22",
+  "runtime_minutes": 70
+}

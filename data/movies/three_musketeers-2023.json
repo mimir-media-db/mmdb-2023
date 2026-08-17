@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_three_musketeers_2023",
+  "title": "The Three Musketeers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116807560",
+    "imdb": "tt15049210",
+    "tmdb": 1073140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

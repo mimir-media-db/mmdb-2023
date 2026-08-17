@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_so_damn_easy_going_2023",
+  "title": "So Damn Easy Going",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110726302",
+    "imdb": "tt13817770",
+    "tmdb": 860709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-12"
+}

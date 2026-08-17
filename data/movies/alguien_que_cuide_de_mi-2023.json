@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alguien_que_cuide_de_mi_2023",
+  "title": "Alguien que cuide de mí",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117085807",
+    "imdb": "tt19382276",
+    "tmdb": 1096512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10",
+  "runtime_minutes": 97
+}

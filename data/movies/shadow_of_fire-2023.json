@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shadow_of_fire_2023",
+  "title": "Shadow of Fire",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124610897",
+    "imdb": "tt28497692",
+    "tmdb": 1077877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-25"
+}

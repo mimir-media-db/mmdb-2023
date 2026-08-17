@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_chosen_one",
+  "title": "The Chosen One",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117661727",
+    "imdb": "tt1405354",
+    "tmdb": 223400
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

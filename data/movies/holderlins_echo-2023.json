@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holderlins_echo_2023",
+  "title": "Hölderlins Echo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122811243",
+    "tmdb": 1189884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dora_flucht_in_die_musik_2023",
+  "title": "Dora – Flucht in die Musik",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113301572",
+    "imdb": "tt21316998",
+    "tmdb": 1043643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 121
+}

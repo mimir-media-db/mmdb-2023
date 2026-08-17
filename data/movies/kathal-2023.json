@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kathal_2023",
+  "title": "Kathal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115810667",
+    "imdb": "tt18413766",
+    "tmdb": 946025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19"
+}

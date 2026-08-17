@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_year_of_darkness_2023",
+  "title": "The Last Year of Darkness",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126871289",
+    "imdb": "tt27179894",
+    "tmdb": 1092331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

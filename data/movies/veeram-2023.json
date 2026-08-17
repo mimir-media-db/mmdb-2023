@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veeram_2023",
+  "title": "Veeram",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121057501",
+    "imdb": "tt11603780",
+    "tmdb": 1142313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-07"
+}

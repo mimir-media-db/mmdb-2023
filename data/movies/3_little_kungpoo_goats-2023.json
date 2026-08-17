@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_little_kungpoo_goats_2023",
+  "title": "3 Little Kungpoo Goats",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q41351490",
+    "imdb": "tt7344298",
+    "tmdb": 507156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-13",
+  "runtime_minutes": 90
+}

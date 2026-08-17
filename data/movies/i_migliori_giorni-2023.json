@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_migliori_giorni_2023",
+  "title": "I migliori giorni",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115697861",
+    "imdb": "tt18554676",
+    "tmdb": 1054693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 101
+}

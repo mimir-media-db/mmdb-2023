@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_sekunder_skotten_pa_sveavagen_2023",
+  "title": "30 sekunder: Skotten på Sveavägen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116953178",
+    "imdb": "tt26903627",
+    "tmdb": 1096475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-26",
+  "runtime_minutes": 56
+}

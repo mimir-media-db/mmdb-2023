@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sari_2023",
+  "title": "Sari",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122830671",
+    "imdb": "tt27191834",
+    "tmdb": 1151655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05",
+  "runtime_minutes": 128
+}

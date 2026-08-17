@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jigiri_dosthu_2023",
+  "title": "Jigiri Dosthu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124024657",
+    "imdb": "tt30102179",
+    "tmdb": 1214378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-22"
+}

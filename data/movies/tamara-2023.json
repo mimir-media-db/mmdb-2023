@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tamara_2023",
+  "title": "Tamara",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123680784",
+    "imdb": "tt28142827",
+    "tmdb": 979210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-25",
+  "runtime_minutes": 93
+}

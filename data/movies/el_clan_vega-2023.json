@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_clan_vega_2023",
+  "title": "El clan Vega",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474424",
+    "imdb": "tt27506955",
+    "tmdb": 1106872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

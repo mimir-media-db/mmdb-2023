@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_everything_2023",
+  "title": "After Everything",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115867383",
+    "imdb": "tt15334488",
+    "tmdb": 820525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-13",
+  "runtime_minutes": 93
+}

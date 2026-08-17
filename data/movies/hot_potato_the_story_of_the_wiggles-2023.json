@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hot_potato_the_story_of_the_wiggles_2023",
+  "title": "Hot Potato: The Story of The Wiggles",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113032290",
+    "imdb": "tt22694238",
+    "tmdb": 1034265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-24",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_70_2023",
+  "title": "Paris 70",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124720187",
+    "imdb": "tt26769174",
+    "tmdb": 1177139
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 15
+}

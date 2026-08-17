@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_purpose_of_the_mz_sisters_2023",
+  "title": "Purpose of the MZ Sisters",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842373",
+    "tmdb": 1231924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-15"
+}

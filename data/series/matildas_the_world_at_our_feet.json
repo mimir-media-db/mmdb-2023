@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_matildas_the_world_at_our_feet",
+  "title": "Matildas: The World at Our Feet",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121365544",
+    "imdb": "tt20425278",
+    "tmdb": 202212
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

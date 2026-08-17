@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_innocent_vengeance_2023",
+  "title": "Innocent Vengeance",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116897194",
+    "imdb": "tt26505553",
+    "tmdb": 1076526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16"
+}

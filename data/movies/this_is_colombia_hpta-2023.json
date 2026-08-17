@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_colombia_hpta_2023",
+  "title": "This is colombia HPTA!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122418017",
+    "imdb": "tt29077454"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

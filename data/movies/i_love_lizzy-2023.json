@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_love_lizzy_2023",
+  "title": "I Love Lizzy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123928070",
+    "imdb": "tt26294089",
+    "tmdb": 1058838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-18",
+  "runtime_minutes": 102
+}

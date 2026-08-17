@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_petites_2023",
+  "title": "Petites",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116795140",
+    "imdb": "tt21230040",
+    "tmdb": 978024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-22",
+  "runtime_minutes": 90
+}

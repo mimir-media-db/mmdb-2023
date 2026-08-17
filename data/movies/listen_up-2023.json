@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_listen_up_2023",
+  "title": "Listen Up!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123678805",
+    "imdb": "tt28538693",
+    "tmdb": 994410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

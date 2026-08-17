@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hard_shell_soft_shell_2023",
+  "title": "Hard Shell, Soft Shell",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107737495",
+    "imdb": "tt14066140",
+    "tmdb": 853791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-28",
+  "runtime_minutes": 100
+}

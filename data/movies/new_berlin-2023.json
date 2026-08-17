@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_new_berlin_2023",
+  "title": "New Berlin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123415605",
+    "imdb": "tt30005746",
+    "tmdb": 1187222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-08",
+  "runtime_minutes": 126
+}

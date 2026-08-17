@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aatmapamphlet_autobiopamphlet_2023",
+  "title": "Aatmapamphlet (Autobio-Pamphlet)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116848559",
+    "imdb": "tt26541225",
+    "tmdb": 1076141
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

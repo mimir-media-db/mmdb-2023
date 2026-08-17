@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_souls_of_syria_2023",
+  "title": "The Lost Souls of Syria",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116318571",
+    "imdb": "tt24514040",
+    "tmdb": 958151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-15",
+  "runtime_minutes": 99
+}

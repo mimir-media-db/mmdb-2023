@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hoarder_on_the_border_2023",
+  "title": "Hoarder on the Border",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333086",
+    "imdb": "tt28444512",
+    "tmdb": 1129646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-30",
+  "runtime_minutes": 101
+}

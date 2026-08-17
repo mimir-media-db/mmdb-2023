@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_adm_farah",
+  "title": "Adım Farah",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116919686",
+    "imdb": "tt21874046",
+    "tmdb": 219826
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 27
+}

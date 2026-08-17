@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_fire_bracelet",
+  "title": "The Fire Bracelet",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113828481",
+    "imdb": "tt23805368"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

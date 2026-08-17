@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wie_kommen_wir_da_wieder_raus_2023",
+  "title": "Wie kommen wir da wieder raus?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117269123",
+    "imdb": "tt29593166",
+    "tmdb": 1194782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30",
+  "runtime_minutes": 90
+}

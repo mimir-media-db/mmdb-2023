@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_museum",
+  "title": "Midnight Museum",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116847966",
+    "imdb": "tt23950808",
+    "tmdb": 220971
+  },
+  "last_updated": "2026-08-17"
+}

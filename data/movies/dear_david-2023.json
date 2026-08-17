@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_david_2023",
+  "title": "Dear David",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110442448",
+    "imdb": "tt9288740",
+    "tmdb": 609768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jackson_bazaar_youth_2023",
+  "title": "Jackson Bazaar Youth",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118641034",
+    "imdb": "tt17345904",
+    "tmdb": 929837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19",
+  "runtime_minutes": 111
+}

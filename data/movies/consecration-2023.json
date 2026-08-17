@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_consecration_2023",
+  "title": "Consecration",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116736421",
+    "imdb": "tt14993352",
+    "tmdb": 884184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 90
+}

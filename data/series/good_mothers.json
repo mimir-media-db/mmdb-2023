@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_good_mothers",
+  "title": "The Good Mothers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116875228",
+    "imdb": "tt14206696",
+    "tmdb": 119064
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

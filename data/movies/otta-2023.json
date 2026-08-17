@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_otta_2023",
+  "title": "Otta",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123226863",
+    "imdb": "tt20851184",
+    "tmdb": 961237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-27",
+  "runtime_minutes": 148
+}

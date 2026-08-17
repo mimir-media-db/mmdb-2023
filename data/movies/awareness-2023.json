@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_awareness_2023",
+  "title": "Awareness",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121471122",
+    "imdb": "tt18556326",
+    "tmdb": 1067820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-11"
+}

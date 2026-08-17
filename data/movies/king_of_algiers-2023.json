@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_king_of_algiers_2023",
+  "title": "The King of Algiers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187454",
+    "imdb": "tt27502506",
+    "tmdb": 995767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-20",
+  "runtime_minutes": 92
+}

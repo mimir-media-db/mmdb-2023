@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_gare_de_lest_la_2023",
+  "title": "Gare de l'Est (La)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126500670"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

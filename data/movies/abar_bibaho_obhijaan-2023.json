@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abar_bibaho_obhijaan_2023",
+  "title": "Abar Bibaho Obhijaan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118151504",
+    "imdb": "tt26680886",
+    "tmdb": 1036828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25"
+}

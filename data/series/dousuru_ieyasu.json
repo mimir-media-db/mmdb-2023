@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dousuru_ieyasu",
+  "title": "Dousuru Ieyasu",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109359210",
+    "imdb": "tt16274666",
+    "tmdb": 136778
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 48
+}

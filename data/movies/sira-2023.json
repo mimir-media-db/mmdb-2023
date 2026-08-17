@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sira_2023",
+  "title": "Sira",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116859424",
+    "imdb": "tt26440747",
+    "tmdb": 1075822
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-21",
+  "runtime_minutes": 122
+}

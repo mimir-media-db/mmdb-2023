@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boney_piles_2023",
+  "title": "Boney Piles",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110567972",
+    "imdb": "tt17050716",
+    "tmdb": 927046
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19",
+  "runtime_minutes": 80
+}

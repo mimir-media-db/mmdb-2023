@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mama_weds_papa_2023",
+  "title": "Mama Weds Papa",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116809818",
+    "imdb": "tt15825410",
+    "tmdb": 1087973
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17"
+}

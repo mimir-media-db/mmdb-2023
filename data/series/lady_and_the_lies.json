@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_and_the_lies",
+  "title": "The Lady and the Lies",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120369945",
+    "tmdb": 229079
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

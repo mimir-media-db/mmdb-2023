@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bhagwan_bharose_2023",
+  "title": "Bhagwan Bharose",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118903506",
+    "imdb": "tt15360286",
+    "tmdb": 1106108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-13"
+}

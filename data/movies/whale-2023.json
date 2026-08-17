@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_whale_2023",
+  "title": "The Whale",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105883400",
+    "imdb": "tt13833688",
+    "tmdb": 785084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16",
+  "runtime_minutes": 117
+}

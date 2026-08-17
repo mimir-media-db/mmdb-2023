@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cities_and_their_heroes_2023",
+  "title": "Cities and Their Heroes",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139574041",
+    "imdb": "tt28696876",
+    "tmdb": 1167186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-05",
+  "runtime_minutes": 102
+}

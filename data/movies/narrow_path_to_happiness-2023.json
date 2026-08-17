@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_narrow_path_to_happiness_2023",
+  "title": "Narrow Path to Happiness",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122394898",
+    "imdb": "tt23622364",
+    "tmdb": 1084296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-06",
+  "runtime_minutes": 82
+}

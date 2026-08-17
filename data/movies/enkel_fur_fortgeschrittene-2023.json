@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enkel_fur_fortgeschrittene_2023",
+  "title": "Enkel für Fortgeschrittene",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122956397",
+    "imdb": "tt26349569",
+    "tmdb": 1122431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

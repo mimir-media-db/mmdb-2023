@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mother_teresa_me_2023",
+  "title": "Mother Teresa & Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131310289",
+    "imdb": "tt11228826",
+    "tmdb": 885583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 145
+}

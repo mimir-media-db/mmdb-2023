@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_legend_of_anle",
+  "title": "Legend of Anle",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108084441",
+    "imdb": "tt17070646",
+    "tmdb": 134679
+  },
+  "last_updated": "2026-08-17"
+}

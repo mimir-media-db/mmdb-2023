@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lynchoz_2023",
+  "title": "Lynch/Oz",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117306012",
+    "imdb": "tt15399286",
+    "tmdb": 965400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 108
+}

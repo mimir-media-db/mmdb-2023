@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_take_care_of_maya_2023",
+  "title": "Take Care of Maya",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122850633",
+    "imdb": "tt27542448",
+    "tmdb": 1114901
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-19",
+  "runtime_minutes": 103
+}

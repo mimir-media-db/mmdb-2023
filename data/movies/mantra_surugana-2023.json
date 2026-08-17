@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mantra_surugana_2023",
+  "title": "Mantra Surugana",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131355177",
+    "imdb": "tt28325746",
+    "tmdb": 1090981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-27",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_crowded_room",
+  "title": "The Crowded Room",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111670669",
+    "imdb": "tt14417718",
+    "tmdb": 123192
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

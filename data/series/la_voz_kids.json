@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_la_voz_kids",
+  "title": "La Voz Kids",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116449434"
+  },
+  "last_updated": "2026-08-17"
+}

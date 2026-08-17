@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trace_of_your_lips_2023",
+  "title": "The Trace of Your Lips",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124655230",
+    "imdb": "tt26763353",
+    "tmdb": 1089791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 81
+}

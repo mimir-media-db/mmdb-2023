@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_aew_all_access",
+  "title": "AEW All Access",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117661471",
+    "imdb": "tt26823096",
+    "tmdb": 221010
+  },
+  "last_updated": "2026-08-17"
+}

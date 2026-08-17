@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_halla_samman",
+  "title": "Hålla samman",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116290364",
+    "imdb": "tt23461948",
+    "tmdb": 238426
+  },
+  "last_updated": "2026-08-17"
+}

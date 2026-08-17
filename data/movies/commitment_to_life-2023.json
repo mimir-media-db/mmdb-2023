@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_commitment_to_life_2023",
+  "title": "Commitment to Life",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116480001",
+    "imdb": "tt10474162",
+    "tmdb": 965251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

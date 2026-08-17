@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saltburn_2023",
+  "title": "Saltburn",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113135527",
+    "imdb": "tt17351924",
+    "tmdb": 930564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17",
+  "runtime_minutes": 131
+}

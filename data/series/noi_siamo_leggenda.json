@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_noi_siamo_leggenda",
+  "title": "Noi siamo leggenda",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123524739",
+    "imdb": "tt30014245",
+    "tmdb": 234556
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_everything_2023",
+  "title": "Edge of Everything",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124356529",
+    "imdb": "tt15676864",
+    "tmdb": 1145053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 81
+}

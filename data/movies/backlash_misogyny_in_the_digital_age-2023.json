@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_backlash_misogyny_in_the_digital_age_2023",
+  "title": "Backlash: Misogyny in the Digital Age",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112129194",
+    "imdb": "tt19817288",
+    "tmdb": 1008062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-04",
+  "runtime_minutes": 80
+}

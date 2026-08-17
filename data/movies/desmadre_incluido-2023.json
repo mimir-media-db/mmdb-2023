@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_desmadre_incluido_2023",
+  "title": "Desmadre incluido",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127513938",
+    "imdb": "tt28248308",
+    "tmdb": 1131929
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 120
+}

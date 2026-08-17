@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annie_lennox_de_eurythmics_a_lengagement_itineraire_dune_icone_pop_2023",
+  "title": "Annie Lennox - De Eurythmics à l'engagement, itinéraire d'une icône pop",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131412940",
+    "imdb": "tt26455565",
+    "tmdb": 1073555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 52
+}

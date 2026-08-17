@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dollars_dollars_2023",
+  "title": "Dollars Dollars",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122946818",
+    "imdb": "tt29729467",
+    "tmdb": 1185264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-20"
+}

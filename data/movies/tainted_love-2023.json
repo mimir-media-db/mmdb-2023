@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tainted_love_2023",
+  "title": "Tainted Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354298",
+    "imdb": "tt20854854",
+    "tmdb": 1083792
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-15"
+}

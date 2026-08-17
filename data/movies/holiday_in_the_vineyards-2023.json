@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_in_the_vineyards_2023",
+  "title": "Holiday in the Vineyards",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364811",
+    "imdb": "tt27195023",
+    "tmdb": 1189733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-13",
+  "runtime_minutes": 107
+}

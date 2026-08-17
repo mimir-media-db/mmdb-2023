@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_fight_2023",
+  "title": "Day of the Fight",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120970490",
+    "imdb": "tt21987878",
+    "tmdb": 1095435
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

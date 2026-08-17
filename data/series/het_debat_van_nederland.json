@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_het_debat_van_nederland",
+  "title": "Het Debat van Nederland",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137830795"
+  },
+  "last_updated": "2026-08-17"
+}

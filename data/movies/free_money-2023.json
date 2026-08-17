@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_money_2023",
+  "title": "Free Money",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125351351",
+    "imdb": "tt21295124",
+    "tmdb": 1011008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 114
+}

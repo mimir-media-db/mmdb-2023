@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_friday_2023",
+  "title": "Friday",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116925741",
+    "imdb": "tt27051436",
+    "tmdb": 1084749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01"
+}

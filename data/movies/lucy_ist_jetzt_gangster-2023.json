@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lucy_ist_jetzt_gangster_2023",
+  "title": "Lucy ist jetzt Gangster",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116908759",
+    "imdb": "tt11307462",
+    "tmdb": 978998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-02",
+  "runtime_minutes": 91
+}

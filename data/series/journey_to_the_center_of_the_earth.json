@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_journey_to_the_center_of_the_earth",
+  "title": "Journey to the Center of the Earth",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117190125",
+    "imdb": "tt15090858",
+    "tmdb": 125462
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

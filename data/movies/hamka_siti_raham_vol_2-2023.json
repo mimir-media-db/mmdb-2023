@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hamka_siti_raham_vol_2_2023",
+  "title": "Hamka & Siti Raham Vol. 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123861079",
+    "imdb": "tt27246087",
+    "tmdb": 617212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-21",
+  "runtime_minutes": 103
+}

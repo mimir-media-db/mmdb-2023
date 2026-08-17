@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_platonic",
+  "title": "Platonic",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111982471",
+    "imdb": "tt13366604",
+    "tmdb": 112211
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

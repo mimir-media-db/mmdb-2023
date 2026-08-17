@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_king_2023",
+  "title": "The Woman King",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109905743",
+    "imdb": "tt8093700",
+    "tmdb": 724495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 135
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memento_mori_2023",
+  "title": "Memento mori",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118220738",
+    "imdb": "tt16159290",
+    "tmdb": 1105374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

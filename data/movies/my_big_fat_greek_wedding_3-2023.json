@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_big_fat_greek_wedding_3_2023",
+  "title": "My Big Fat Greek Wedding 3",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117444564",
+    "imdb": "tt21103300",
+    "tmdb": 1001811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 92
+}

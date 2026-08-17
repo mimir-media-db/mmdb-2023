@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marrying_the_mafia_2023",
+  "title": "Marrying the Mafia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598104",
+    "imdb": "tt29313435",
+    "tmdb": 1148321
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21"
+}

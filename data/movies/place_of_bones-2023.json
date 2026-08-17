@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_place_of_bones_2023",
+  "title": "Place of Bones",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117039230",
+    "imdb": "tt14226748",
+    "tmdb": 1080249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polish_prayers_2023",
+  "title": "Polish Prayers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122949736",
+    "imdb": "tt23133114",
+    "tmdb": 1047567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-05",
+  "runtime_minutes": 83
+}

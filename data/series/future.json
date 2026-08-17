@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_future",
+  "title": "Future",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119352378"
+  },
+  "last_updated": "2026-08-17"
+}

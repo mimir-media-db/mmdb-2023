@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lucky_hank",
+  "title": "Lucky Hank",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116167436",
+    "imdb": "tt19785210",
+    "tmdb": 210239
+  },
+  "last_updated": "2026-08-17"
+}

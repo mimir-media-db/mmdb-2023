@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_cry_mom_2023",
+  "title": "Don't Cry, Mom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598110",
+    "tmdb": 1106054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

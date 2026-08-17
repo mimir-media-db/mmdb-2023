@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ennalum_ente_aliya_2023",
+  "title": "Ennalum Ente Aliya",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117475419",
+    "imdb": "tt15509688",
+    "tmdb": 921135
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06"
+}

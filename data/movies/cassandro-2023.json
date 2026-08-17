@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cassandro_2023",
+  "title": "Cassandro",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115631881",
+    "imdb": "tt14954534",
+    "tmdb": 729120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20"
+}

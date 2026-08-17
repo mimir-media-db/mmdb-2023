@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_fix_the_world_2023",
+  "title": "How to Fix the World",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116868332",
+    "imdb": "tt26244546",
+    "tmdb": 1081866
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 76
+}

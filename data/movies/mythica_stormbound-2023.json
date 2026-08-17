@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mythica_stormbound_2023",
+  "title": "Mythica: Stormbound",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123502973",
+    "imdb": "tt24222232",
+    "tmdb": 1183999
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-18"
+}

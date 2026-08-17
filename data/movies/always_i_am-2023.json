@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_always_i_am_2023",
+  "title": "Always I am",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598037",
+    "imdb": "tt28079508",
+    "tmdb": 1100419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-19"
+}

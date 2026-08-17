@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_satarcha_salman_2023",
+  "title": "Satarcha Salman",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116965213",
+    "imdb": "tt10392914",
+    "tmdb": 1095424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-03"
+}

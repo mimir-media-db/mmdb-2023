@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spy_kids_armageddon_2023",
+  "title": "Spy Kids: Armageddon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115228382",
+    "imdb": "tt13978520",
+    "tmdb": 790493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-22",
+  "runtime_minutes": 97
+}

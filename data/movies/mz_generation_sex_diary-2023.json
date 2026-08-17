@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mz_generation_sex_diary_2023",
+  "title": "MZ Generation Sex Diary",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842432",
+    "tmdb": 1075731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-02"
+}

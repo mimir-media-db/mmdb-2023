@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hunger_2023",
+  "title": "Hunger",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116920930",
+    "imdb": "tt22695402",
+    "tmdb": 1071806
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 146
+}

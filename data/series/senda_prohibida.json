@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_senda_prohibida",
+  "title": "Senda prohibida",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119033375",
+    "imdb": "tt21613416",
+    "tmdb": 229373
+  },
+  "last_updated": "2026-08-17"
+}

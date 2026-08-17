@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doctor_jekyll_2023",
+  "title": "Doctor Jekyll",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120310310",
+    "imdb": "tt12637946",
+    "tmdb": 936002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

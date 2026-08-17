@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_koromousso_2023",
+  "title": "Koromousso",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133263976",
+    "imdb": "tt27556017",
+    "tmdb": 1134543
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

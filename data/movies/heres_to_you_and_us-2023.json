@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heres_to_you_and_us_2023",
+  "title": "Here's to You and Us!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118733073",
+    "imdb": "tt27868137",
+    "tmdb": 1132134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-26",
+  "runtime_minutes": 150
+}

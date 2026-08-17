@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_in_the_family_2023",
+  "title": "A Vampire in the Family",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124217713",
+    "imdb": "tt23744022",
+    "tmdb": 1211419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-24",
+  "runtime_minutes": 89
+}

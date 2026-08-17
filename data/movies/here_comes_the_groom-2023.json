@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_here_comes_the_groom_2023",
+  "title": "Here Comes the Groom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117191211",
+    "imdb": "tt27079350",
+    "tmdb": 1092107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-08"
+}

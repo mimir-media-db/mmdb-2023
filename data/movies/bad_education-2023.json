@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_education_2023",
+  "title": "Bad Education",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114658316",
+    "imdb": "tt22476934",
+    "tmdb": 741329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-10"
+}

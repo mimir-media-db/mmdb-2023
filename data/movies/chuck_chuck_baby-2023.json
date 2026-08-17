@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chuck_chuck_baby_2023",
+  "title": "Chuck Chuck Baby",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120809909",
+    "imdb": "tt19393408",
+    "tmdb": 1066124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 101
+}

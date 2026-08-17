@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mothers_men_2023",
+  "title": "My Mother's Men",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121356191",
+    "imdb": "tt26470811",
+    "tmdb": 991334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-25",
+  "runtime_minutes": 126
+}

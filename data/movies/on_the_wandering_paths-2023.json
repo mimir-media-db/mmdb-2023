@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_wandering_paths_2023",
+  "title": "On the Wandering Paths",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111210233",
+    "imdb": "tt15441522",
+    "tmdb": 888082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-12",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_big_brother_czech_republic_and_slovakia",
+  "title": "Big Brother (Czech Republic and Slovakia)",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123177076",
+    "imdb": "tt29954053",
+    "tmdb": 239013
+  },
+  "last_updated": "2026-08-17"
+}

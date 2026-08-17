@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_raid_the_cage",
+  "title": "Raid the Cage",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122349581",
+    "imdb": "tt28254776",
+    "tmdb": 234339
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_jarkko_tammisen_maailma",
+  "title": "Jarkko Tammisen maailma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124154963",
+    "imdb": "tt30016505",
+    "tmdb": 278188
+  },
+  "last_updated": "2026-08-17"
+}

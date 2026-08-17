@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ein_fest_furs_leben_2023",
+  "title": "Ein Fest fürs Leben",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124018726",
+    "imdb": "tt22693996",
+    "tmdb": 1159844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-19",
+  "runtime_minutes": 101
+}

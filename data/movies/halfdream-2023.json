@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_halfdream_2023",
+  "title": "Half-Dream",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136318896",
+    "imdb": "tt28522518",
+    "tmdb": 1143251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-12"
+}

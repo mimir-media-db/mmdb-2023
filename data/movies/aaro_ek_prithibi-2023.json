@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aaro_ek_prithibi_2023",
+  "title": "Aaro Ek Prithibi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116483050",
+    "imdb": "tt25407264",
+    "tmdb": 972823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03"
+}

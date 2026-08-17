@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_show_me_love",
+  "title": "Show Me Love",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q139122637",
+    "imdb": "tt27251057",
+    "tmdb": 218672
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

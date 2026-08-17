@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infested_2023",
+  "title": "Infested",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122703548",
+    "imdb": "tt26744289",
+    "tmdb": 1063879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-27",
+  "runtime_minutes": 103
+}

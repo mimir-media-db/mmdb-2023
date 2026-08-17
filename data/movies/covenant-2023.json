@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_covenant_2023",
+  "title": "The Covenant",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138634238",
+    "imdb": "tt11718596",
+    "tmdb": 1266409
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 95
+}

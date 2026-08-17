@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_silent_sun_of_russia_2023",
+  "title": "Silent Sun of Russia",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117311184",
+    "imdb": "tt27124425",
+    "tmdb": 1091357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khanzab_2023",
+  "title": "Khanzab",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117805025",
+    "imdb": "tt24655170",
+    "tmdb": 1058833
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-19",
+  "runtime_minutes": 105
+}

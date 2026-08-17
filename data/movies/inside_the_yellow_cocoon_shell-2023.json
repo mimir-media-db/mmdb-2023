@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_the_yellow_cocoon_shell_2023",
+  "title": "Inside the Yellow Cocoon Shell",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118744849",
+    "imdb": "tt10399622",
+    "tmdb": 1114816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-24",
+  "runtime_minutes": 178
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kill_2023",
+  "title": "Kill",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125207809",
+    "imdb": "tt28259207",
+    "tmdb": 1160018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 105
+}

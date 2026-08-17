@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_his_only_son_2023",
+  "title": "His Only Son",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117451328",
+    "imdb": "tt8277246",
+    "tmdb": 761851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 101
+}

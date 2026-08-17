@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_passengers_of_the_night_2023",
+  "title": "The Passengers of the Night",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110647361",
+    "imdb": "tt13846402",
+    "tmdb": 895659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-05",
+  "runtime_minutes": 111
+}

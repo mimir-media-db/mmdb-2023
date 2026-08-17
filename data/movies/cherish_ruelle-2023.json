@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cherish_ruelle_2023",
+  "title": "Cherish & Ruelle",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119872918",
+    "imdb": "tt21146830",
+    "tmdb": 1079545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dhak_dhak_2023",
+  "title": "Dhak Dhak",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122863643",
+    "imdb": "tt27330026",
+    "tmdb": 976827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-13"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tarla_2023",
+  "title": "Tarla",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118853741",
+    "imdb": "tt27816768",
+    "tmdb": 964845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07"
+}

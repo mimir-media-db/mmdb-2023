@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_luise_2023",
+  "title": "Luise",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119414001",
+    "imdb": "tt2822034",
+    "tmdb": 750167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03",
+  "runtime_minutes": 95
+}

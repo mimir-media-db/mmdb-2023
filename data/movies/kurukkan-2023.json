@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kurukkan_2023",
+  "title": "Kurukkan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120965393",
+    "imdb": "tt24949806",
+    "tmdb": 948262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-27",
+  "runtime_minutes": 125
+}

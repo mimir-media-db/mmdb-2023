@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_yuz_yllk_mucize",
+  "title": "Yüz Yıllık Mucize",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117328113",
+    "imdb": "tt22467658",
+    "tmdb": 222899
+  },
+  "last_updated": "2026-08-17"
+}

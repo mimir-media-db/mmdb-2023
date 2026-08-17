@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cold_2023",
+  "title": "Cold",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137964933",
+    "imdb": "tt21976444",
+    "tmdb": 1053836
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-01",
+  "runtime_minutes": 98
+}

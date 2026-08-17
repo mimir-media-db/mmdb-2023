@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locean_vu_du_cur_2023",
+  "title": "L'Océan vu du cœur",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117713567",
+    "imdb": "tt27390543"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-13",
+  "runtime_minutes": 96
+}

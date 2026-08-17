@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pending_train",
+  "title": "Pending Train",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116742623",
+    "imdb": "tt27591951",
+    "tmdb": 222972
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

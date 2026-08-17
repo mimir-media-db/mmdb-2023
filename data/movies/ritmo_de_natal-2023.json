@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ritmo_de_natal_2023",
+  "title": "Ritmo de Natal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123110554",
+    "imdb": "tt29491281",
+    "tmdb": 1175787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_of_truth_2023",
+  "title": "The Price of Truth",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139620289",
+    "imdb": "tt28650951",
+    "tmdb": 1168431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14",
+  "runtime_minutes": 84
+}

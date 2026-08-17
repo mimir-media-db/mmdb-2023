@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_race_across_the_world",
+  "title": "Race Across the World",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123660041",
+    "imdb": "tt27879215",
+    "tmdb": 221534
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

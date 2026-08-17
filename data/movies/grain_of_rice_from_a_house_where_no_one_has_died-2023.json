@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grain_of_rice_from_a_house_where_no_one_has_died_2023",
+  "title": "A Grain of Rice from a House Where No One Has Died",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136349288",
+    "imdb": "tt29942163",
+    "tmdb": 1197129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-05",
+  "runtime_minutes": 15
+}

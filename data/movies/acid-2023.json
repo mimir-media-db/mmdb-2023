@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_acid_2023",
+  "title": "Acid",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118399079",
+    "imdb": "tt17569526",
+    "tmdb": 852445
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-01",
+  "runtime_minutes": 100
+}

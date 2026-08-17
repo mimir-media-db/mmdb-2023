@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coco_farm_2023",
+  "title": "Coco Farm",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126667954",
+    "imdb": "tt18484276",
+    "tmdb": 1080951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-19",
+  "runtime_minutes": 87
+}

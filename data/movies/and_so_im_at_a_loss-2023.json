@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_and_so_im_at_a_loss_2023",
+  "title": "And So Iʼm at a Loss",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333091",
+    "imdb": "tt22185426",
+    "tmdb": 1019436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13"
+}

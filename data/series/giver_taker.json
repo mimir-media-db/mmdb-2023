@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_giver_taker",
+  "title": "Giver / Taker",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q133808894",
+    "imdb": "tt26766361"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_find_2023",
+  "title": "The Perfect Find",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108281389",
+    "imdb": "tt8400584",
+    "tmdb": 561717
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sea_sparkle_2023",
+  "title": "Sea Sparkle",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115867739",
+    "imdb": "tt11773174",
+    "tmdb": 1061645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

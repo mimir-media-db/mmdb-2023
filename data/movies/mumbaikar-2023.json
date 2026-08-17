@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mumbaikar_2023",
+  "title": "Mumbaikar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105686962",
+    "imdb": "tt13732212",
+    "tmdb": 781809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02"
+}

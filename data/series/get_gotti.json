@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_get_gotti",
+  "title": "Get Gotti",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123181756",
+    "imdb": "tt29333646",
+    "tmdb": 236006
+  },
+  "last_updated": "2026-08-17"
+}

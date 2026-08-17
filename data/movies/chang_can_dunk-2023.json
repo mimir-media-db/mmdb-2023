@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chang_can_dunk_2023",
+  "title": "Chang Can Dunk",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108704293",
+    "imdb": "tt13650494",
+    "tmdb": 776098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 109
+}

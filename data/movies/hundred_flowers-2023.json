@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hundred_flowers_2023",
+  "title": "A Hundred Flowers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116889996",
+    "imdb": "tt18395238",
+    "tmdb": 936490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 104
+}

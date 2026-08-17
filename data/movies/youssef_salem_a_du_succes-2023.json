@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_youssef_salem_a_du_succes_2023",
+  "title": "Youssef Salem a du succès",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116162895",
+    "imdb": "tt21627730",
+    "tmdb": 994025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-18",
+  "runtime_minutes": 97
+}

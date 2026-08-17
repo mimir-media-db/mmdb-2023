@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_if_only_i_could_hibernate_2023",
+  "title": "If Only I Could Hibernate",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118630772",
+    "imdb": "tt21605226",
+    "tmdb": 986855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-21",
+  "runtime_minutes": 96
+}

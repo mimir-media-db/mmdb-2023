@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jagged_mind_2023",
+  "title": "Jagged Mind",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118958500",
+    "imdb": "tt22496012",
+    "tmdb": 1115939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14"
+}

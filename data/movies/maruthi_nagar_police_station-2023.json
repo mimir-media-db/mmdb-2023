@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maruthi_nagar_police_station_2023",
+  "title": "Maruthi Nagar Police Station",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118489547",
+    "imdb": "tt24724658",
+    "tmdb": 1127439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19"
+}

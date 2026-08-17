@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_les_randonneuses",
+  "title": "Les Randonneuses",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113839517",
+    "imdb": "tt27733135",
+    "tmdb": 209201
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

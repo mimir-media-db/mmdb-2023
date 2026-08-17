@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_about_thirty_2023",
+  "title": "About Thirty",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116809287",
+    "imdb": "tt26342673",
+    "tmdb": 1074751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joan_baez_i_am_a_noise_2023",
+  "title": "Joan Baez: I Am a Noise",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122854704",
+    "imdb": "tt26594061",
+    "tmdb": 1075815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 113
+}

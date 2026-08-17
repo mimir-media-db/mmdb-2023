@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_poireau_perpetuel_2023",
+  "title": "Le Poireau perpétuel",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123365616",
+    "imdb": "tt15100962",
+    "tmdb": 848221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-22",
+  "runtime_minutes": 82
+}

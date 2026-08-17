@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_dyslexie_un_trouble_mal_compris_2023",
+  "title": "La dyslexie, un trouble mal compris",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123585754",
+    "imdb": "tt29273696",
+    "tmdb": 1173509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-23"
+}

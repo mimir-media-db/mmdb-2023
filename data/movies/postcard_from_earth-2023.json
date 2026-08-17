@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_postcard_from_earth_2023",
+  "title": "Postcard from Earth",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122826783",
+    "imdb": "tt28363850"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06",
+  "runtime_minutes": 50
+}

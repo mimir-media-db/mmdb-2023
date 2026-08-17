@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_earth_mama_2023",
+  "title": "Earth Mama",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116025925",
+    "imdb": "tt18382328",
+    "tmdb": 980537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

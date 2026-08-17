@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_old_way_2023",
+  "title": "The Old Way",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108782039",
+    "imdb": "tt8593824",
+    "tmdb": 872954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06",
+  "runtime_minutes": 95
+}

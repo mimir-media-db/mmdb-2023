@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witch_part_2_the_other_one_2023",
+  "title": "The Witch: Part 2. The Other One",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111364645",
+    "imdb": "tt13721828",
+    "tmdb": 615173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 137
+}

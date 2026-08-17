@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pozyvnoy_zhuravli",
+  "title": "Pozyvnoy «Zhuravli»",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136296952",
+    "imdb": "tt27589290",
+    "tmdb": 225322
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

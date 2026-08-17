@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_de_facto_2023",
+  "title": "De Facto",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117800447",
+    "imdb": "tt26343152",
+    "tmdb": 1074754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 130
+}

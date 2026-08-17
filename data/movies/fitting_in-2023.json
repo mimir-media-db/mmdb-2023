@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fitting_in_2023",
+  "title": "Fitting In",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116176390",
+    "imdb": "tt21103576",
+    "tmdb": 986175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

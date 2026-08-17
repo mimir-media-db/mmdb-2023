@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_average_joe",
+  "title": "Average Joe",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120569764",
+    "imdb": "tt18070984",
+    "tmdb": 228421
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

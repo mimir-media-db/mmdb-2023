@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_swan_song_2023",
+  "title": "Swan Song",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121339607",
+    "imdb": "tt28490634",
+    "tmdb": 1157092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

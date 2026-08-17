@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_following_the_sound_2023",
+  "title": "Following the Sound",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127111988",
+    "imdb": "tt28641753",
+    "tmdb": 1042912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

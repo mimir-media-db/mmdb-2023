@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sixth_commandment",
+  "title": "The Sixth Commandment",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117019221",
+    "imdb": "tt20916306",
+    "tmdb": 229876
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_summer_2023",
+  "title": "One Summer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120670549",
+    "imdb": "tt23770412",
+    "tmdb": 848172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-04",
+  "runtime_minutes": 126
+}

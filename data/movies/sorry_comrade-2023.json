@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_comrade_2023",
+  "title": "Sorry Comrade",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113324715",
+    "imdb": "tt17526876",
+    "tmdb": 882655
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-09"
+}

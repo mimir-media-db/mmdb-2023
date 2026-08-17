@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_human_comedy_in_tokyo_2023",
+  "title": "Human Comedy In Tokyo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123014315",
+    "imdb": "tt1490005",
+    "tmdb": 630170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-06",
+  "runtime_minutes": 140
+}

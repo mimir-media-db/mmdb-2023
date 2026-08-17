@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lile_prisonniere",
+  "title": "L'Île prisonnière",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109255311",
+    "imdb": "tt24217766",
+    "tmdb": 211829
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

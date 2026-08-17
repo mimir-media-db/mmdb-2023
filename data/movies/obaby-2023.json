@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obaby_2023",
+  "title": "O.Baby",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120731925",
+    "imdb": "tt27655979",
+    "tmdb": 1120580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-09",
+  "runtime_minutes": 126
+}

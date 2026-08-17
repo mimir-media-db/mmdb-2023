@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_niharika_in_the_mist_2023",
+  "title": "Niharika In the Mist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120373463",
+    "imdb": "tt23332766",
+    "tmdb": 945126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

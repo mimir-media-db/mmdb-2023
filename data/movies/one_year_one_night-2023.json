@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_one_year_one_night_2023",
+  "title": "One Year, One Night",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108490145",
+    "imdb": "tt14104600",
+    "tmdb": 769466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-03"
+}

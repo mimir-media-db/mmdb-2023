@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exorcist_believer_2023",
+  "title": "The Exorcist: Believer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107610336",
+    "imdb": "tt12921446",
+    "tmdb": 807172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-04",
+  "runtime_minutes": 121
+}

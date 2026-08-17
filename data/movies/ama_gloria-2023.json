@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ama_gloria_2023",
+  "title": "Àma Gloria",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120892666",
+    "imdb": "tt26255358",
+    "tmdb": 803688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-17",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weekend_to_forget_2023",
+  "title": "A Weekend To Forget",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124340433",
+    "imdb": "tt28939681",
+    "tmdb": 1174928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

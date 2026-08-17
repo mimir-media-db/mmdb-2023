@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_advanced_chemistry_2023",
+  "title": "Advanced Chemistry",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135642052",
+    "imdb": "tt28536290",
+    "tmdb": 1203505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_urban_la_vida_es_nuestra",
+  "title": "Urban. La vida es nuestra",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122707801",
+    "imdb": "tt24277596",
+    "tmdb": 234790
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

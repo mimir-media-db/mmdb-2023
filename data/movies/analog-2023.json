@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_analog_2023",
+  "title": "Analog",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118158556",
+    "imdb": "tt28513331",
+    "tmdb": 1093659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-06",
+  "runtime_minutes": 120
+}

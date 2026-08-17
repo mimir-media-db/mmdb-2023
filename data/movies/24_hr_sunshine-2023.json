@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_24_hr_sunshine_2023",
+  "title": "24 Hr Sunshine",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131706714",
+    "imdb": "tt5627386",
+    "tmdb": 884893
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-01",
+  "runtime_minutes": 107
+}

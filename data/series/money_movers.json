@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_money_movers",
+  "title": "Money Movers",
+  "start_year": 2023,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q19818681"
+  },
+  "last_updated": "2026-08-17"
+}

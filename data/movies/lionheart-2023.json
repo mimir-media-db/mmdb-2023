@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lionheart_2023",
+  "title": "The Lionheart",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125706215",
+    "imdb": "tt27543996",
+    "tmdb": 1115329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

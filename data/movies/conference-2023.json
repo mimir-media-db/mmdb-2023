@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_conference_2023",
+  "title": "The Conference",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116634285",
+    "imdb": "tt26547864",
+    "tmdb": 1161048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-13",
+  "runtime_minutes": 100
+}

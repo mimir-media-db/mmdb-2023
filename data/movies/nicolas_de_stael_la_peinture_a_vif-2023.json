@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nicolas_de_stael_la_peinture_a_vif_2023",
+  "title": "Nicolas de Staël, la peinture à vif",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137205489"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 53
+}

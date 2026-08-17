@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mientras_seas_tu_2023",
+  "title": "Mientras seas tú",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122801843",
+    "imdb": "tt21413408",
+    "tmdb": 1171406
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-24",
+  "runtime_minutes": 72
+}

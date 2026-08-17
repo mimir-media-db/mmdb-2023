@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ostrich_told_me_the_world_is_fake_and_i_think_i_believe_it_2023",
+  "title": "An Ostrich Told Me the World Is Fake and I Think I Believe It",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116378037",
+    "imdb": "tt20115114",
+    "tmdb": 943776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 11
+}

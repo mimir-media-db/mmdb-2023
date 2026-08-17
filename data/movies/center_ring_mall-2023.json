@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_center_ring_mall_2023",
+  "title": "Center, Ring, Mall",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140627629",
+    "imdb": "tt32132622",
+    "tmdb": 1065065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 18
+}

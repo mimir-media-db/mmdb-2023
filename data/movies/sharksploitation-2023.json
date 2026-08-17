@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sharksploitation_2023",
+  "title": "Sharksploitation",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120897644",
+    "imdb": "tt28213957",
+    "tmdb": 918677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paula_2023",
+  "title": "Paula",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119896198",
+    "imdb": "tt27328934",
+    "tmdb": 967591
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-19",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_in_jerusalem_2023",
+  "title": "A House in Jerusalem",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123168860",
+    "imdb": "tt16317452",
+    "tmdb": 1069178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 103
+}

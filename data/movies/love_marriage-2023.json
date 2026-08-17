@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_marriage_2023",
+  "title": "Love Marriage",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120169218",
+    "imdb": "tt15731054",
+    "tmdb": 917622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14",
+  "runtime_minutes": 127
+}

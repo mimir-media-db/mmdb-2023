@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_the_two_of_us_2023",
+  "title": "Just the Two of Us",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117037748",
+    "imdb": "tt23049206",
+    "tmdb": 989672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-24",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_intermission_2023",
+  "title": "Intermission",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q134294370",
+    "imdb": "tt34224262",
+    "tmdb": 772735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 119
+}

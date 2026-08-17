@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_time_called_you",
+  "title": "A Time Called You",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111534327",
+    "imdb": "tt21627438",
+    "tmdb": 196474
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

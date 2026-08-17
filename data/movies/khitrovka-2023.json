@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khitrovka_2023",
+  "title": "Khitrovka",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118371910",
+    "imdb": "tt27241513",
+    "tmdb": 1122935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 129
+}

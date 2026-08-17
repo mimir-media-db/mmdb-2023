@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_farhana_2023",
+  "title": "Farhana",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118288463",
+    "imdb": "tt15434268",
+    "tmdb": 1032553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

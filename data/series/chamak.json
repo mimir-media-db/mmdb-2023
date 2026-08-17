@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chamak",
+  "title": "Chamak",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123535901",
+    "imdb": "tt28184392",
+    "tmdb": 240518
+  },
+  "last_updated": "2026-08-17"
+}

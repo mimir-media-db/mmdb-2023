@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_magnificat_2023",
+  "title": "Magnificat",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118593017",
+    "imdb": "tt21358820",
+    "tmdb": 960134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-21",
+  "runtime_minutes": 97
+}

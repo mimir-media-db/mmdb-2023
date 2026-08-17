@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thorns_of_beauty_2023",
+  "title": "Thorns of Beauty",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333095",
+    "imdb": "tt24154416",
+    "tmdb": 1025438
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06",
+  "runtime_minutes": 98
+}

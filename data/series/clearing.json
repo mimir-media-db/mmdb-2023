@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_clearing",
+  "title": "The Clearing",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113540615",
+    "imdb": "tt20259432",
+    "tmdb": 202162
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

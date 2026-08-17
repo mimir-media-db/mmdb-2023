@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_live_phat_truc_tiep_2023",
+  "title": "Live: Phat Truc Tiep",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123514797",
+    "imdb": "tt29291512",
+    "tmdb": 1151711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-22"
+}

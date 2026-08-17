@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lafzon_mein_pyaar_2023",
+  "title": "Lafzon Mein Pyaar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119487174",
+    "imdb": "tt27759807",
+    "tmdb": 1199160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

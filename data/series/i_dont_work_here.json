@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_i_dont_work_here",
+  "title": "I don't work here",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117751724"
+  },
+  "last_updated": "2026-08-17"
+}

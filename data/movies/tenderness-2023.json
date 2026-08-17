@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tenderness_2023",
+  "title": "The Tenderness",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122799676",
+    "imdb": "tt12170898",
+    "tmdb": 1053996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_peor_de_mis_bodas_3_2023",
+  "title": "La peor de mis bodas 3",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120951659",
+    "imdb": "tt26455967",
+    "tmdb": 1134041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-27",
+  "runtime_minutes": 100
+}

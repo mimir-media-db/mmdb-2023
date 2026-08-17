@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_other_peoples_children_2023",
+  "title": "Other People's Children",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111250007",
+    "imdb": "tt15403712",
+    "tmdb": 803694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-04",
+  "runtime_minutes": 103
+}

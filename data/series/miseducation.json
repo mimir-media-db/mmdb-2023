@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_miseducation",
+  "title": "Miseducation",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127272571",
+    "imdb": "tt28550654",
+    "tmdb": 233343
+  },
+  "last_updated": "2026-08-17"
+}

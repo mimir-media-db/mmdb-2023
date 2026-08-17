@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_butty_2023",
+  "title": "Butty",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130526907",
+    "imdb": "tt30624181",
+    "tmdb": 1249677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29",
+  "runtime_minutes": 7
+}

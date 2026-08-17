@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trenque_lauquen_2023",
+  "title": "Trenque Lauquen",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114874089",
+    "imdb": "tt21378968",
+    "tmdb": 715742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-21",
+  "runtime_minutes": 240
+}

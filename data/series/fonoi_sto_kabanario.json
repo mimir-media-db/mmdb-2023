@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_fonoi_sto_kabanario",
+  "title": "Fonoi sto kabanario",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120979561",
+    "imdb": "tt28515403",
+    "tmdb": 237713
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

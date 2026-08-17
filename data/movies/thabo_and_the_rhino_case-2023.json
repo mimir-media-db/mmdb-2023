@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thabo_and_the_rhino_case_2023",
+  "title": "Thabo and the Rhino Case",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124152247",
+    "imdb": "tt22755734",
+    "tmdb": 1131751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-30",
+  "runtime_minutes": 97
+}

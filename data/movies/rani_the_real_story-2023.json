@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rani_the_real_story_2023",
+  "title": "Rani: The Real Story",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122731340",
+    "imdb": "tt27055301",
+    "tmdb": 1096129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_priyotoma_2023",
+  "title": "Priyotoma",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55080281",
+    "imdb": "tt28228231",
+    "tmdb": 1032048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-29",
+  "runtime_minutes": 143
+}

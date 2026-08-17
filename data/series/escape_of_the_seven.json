@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_escape_of_the_seven",
+  "title": "The Escape of the Seven",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q114099353",
+    "imdb": "tt29198828",
+    "tmdb": 200707
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

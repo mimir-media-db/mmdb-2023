@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_al_khallat_2023",
+  "title": "Al khallat+",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116291497",
+    "imdb": "tt22497768",
+    "tmdb": 1064450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 118
+}

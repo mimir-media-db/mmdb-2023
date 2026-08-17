@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_big_shark_2023",
+  "title": "Big Shark",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62595568",
+    "imdb": "tt9755806",
+    "tmdb": 580428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

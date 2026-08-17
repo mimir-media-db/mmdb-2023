@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sneg_sestra_i_rosomakha_2023",
+  "title": "Sneg, sestra i rosomakha",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115678384",
+    "imdb": "tt24217762",
+    "tmdb": 1003816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-16",
+  "runtime_minutes": 79
+}

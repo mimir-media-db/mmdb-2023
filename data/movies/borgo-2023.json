@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_borgo_2023",
+  "title": "Borgo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125390242",
+    "imdb": "tt19121072",
+    "tmdb": 989474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 117
+}

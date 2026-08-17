@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_ukraine_2023",
+  "title": "In Ukraine",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116837973",
+    "imdb": "tt26250484",
+    "tmdb": 1074766
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

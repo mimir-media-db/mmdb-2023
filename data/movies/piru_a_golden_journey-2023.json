@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_piru_a_golden_journey_2023",
+  "title": "Pirú: A Golden Journey",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134953",
+    "imdb": "tt31068512",
+    "tmdb": 1172925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

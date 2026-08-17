@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_will_it_be_again_like_it_never_was_before_2023",
+  "title": "When Will It Be Again Like It Never Was Before",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116865452",
+    "imdb": "tt22694068",
+    "tmdb": 916715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-23",
+  "runtime_minutes": 116
+}

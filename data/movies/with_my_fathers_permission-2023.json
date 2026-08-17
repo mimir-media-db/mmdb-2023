@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_with_my_fathers_permission_2023",
+  "title": "With my father's permission",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119787772",
+    "imdb": "tt28128606",
+    "tmdb": 1142382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07",
+  "runtime_minutes": 4
+}

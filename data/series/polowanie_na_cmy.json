@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_polowanie_na_cmy",
+  "title": "Polowanie na ćmy",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118291512",
+    "imdb": "tt15067796",
+    "tmdb": 222209
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 7
+}

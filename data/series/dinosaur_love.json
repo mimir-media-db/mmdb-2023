@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dinosaur_love",
+  "title": "Dinosaur Love",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120864034",
+    "imdb": "tt28784874",
+    "tmdb": 227405
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shazam_fury_of_the_gods_2023",
+  "title": "Shazam! Fury of the Gods",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q84712809",
+    "imdb": "tt10151854",
+    "tmdb": 594767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-14",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_blues_2023",
+  "title": "Killing Blues",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117463744",
+    "imdb": "tt18298524",
+    "tmdb": 984307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 98
+}

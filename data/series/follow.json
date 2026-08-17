@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_follow",
+  "title": "Follow",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123847027",
+    "imdb": "tt29607550",
+    "tmdb": 220802
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

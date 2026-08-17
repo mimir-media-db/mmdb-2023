@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spoiling_rain_2023",
+  "title": "A Spoiling Rain",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482874",
+    "imdb": "tt28756694",
+    "tmdb": 1115167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-10",
+  "runtime_minutes": 137
+}

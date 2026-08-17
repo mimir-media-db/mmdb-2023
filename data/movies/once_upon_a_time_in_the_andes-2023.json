@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_the_andes_2023",
+  "title": "Once Upon a Time in the Andes",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124283558",
+    "imdb": "tt21843420",
+    "tmdb": 1095388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

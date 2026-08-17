@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melchior_the_apothecary_the_executioners_daughter_2023",
+  "title": "Melchior The Apothecary: The Executioner's Daughter",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118253328",
+    "imdb": "tt20452574",
+    "tmdb": 964271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-10",
+  "runtime_minutes": 100
+}

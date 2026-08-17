@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_you_would_do_it_too",
+  "title": "You Would Do It Too",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117459677",
+    "imdb": "tt18988142",
+    "tmdb": 207311
+  },
+  "last_updated": "2026-08-17"
+}

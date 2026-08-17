@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_mabandonne_a_toi_2023",
+  "title": "Je m'abandonne à toi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117194087",
+    "imdb": "tt26681224",
+    "tmdb": 1076742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-22",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geats_extra_kamen_rider_punkjack_2023",
+  "title": "Geats Extra: Kamen Rider PunkJack",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118369339",
+    "imdb": "tt30645100",
+    "tmdb": 1124584
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-21"
+}

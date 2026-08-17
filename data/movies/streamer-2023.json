@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_streamer_2023",
+  "title": "Streamer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598048",
+    "imdb": "tt27127187",
+    "tmdb": 1112863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-10"
+}

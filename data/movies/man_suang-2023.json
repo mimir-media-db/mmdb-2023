@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_man_suang_2023",
+  "title": "Man Suang",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118538903",
+    "imdb": "tt28686328",
+    "tmdb": 1076011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-24"
+}

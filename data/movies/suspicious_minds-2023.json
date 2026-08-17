@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suspicious_minds_2023",
+  "title": "Suspicious minds",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131357837",
+    "imdb": "tt26687230",
+    "tmdb": 1205988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-26"
+}

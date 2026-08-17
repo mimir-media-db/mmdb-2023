@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mission_ulja_funk_2023",
+  "title": "Mission Ulja Funk",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110500126",
+    "imdb": "tt11545370",
+    "tmdb": 794767
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-12",
+  "runtime_minutes": 92
+}

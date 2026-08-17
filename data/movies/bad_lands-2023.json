@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_lands_2023",
+  "title": "Bad Lands",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118851332",
+    "imdb": "tt29344984",
+    "tmdb": 1133602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29",
+  "runtime_minutes": 143
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_tesciowie",
+  "title": "Teściowie",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122957677"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_peru_zona_de_emergencia_2_2023",
+  "title": "Perú, zona de emergencia 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134952",
+    "tmdb": 1210769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

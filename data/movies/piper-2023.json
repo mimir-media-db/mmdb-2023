@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_piper_2023",
+  "title": "The Piper",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124256047",
+    "imdb": "tt14197038",
+    "tmdb": 845643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 95
+}

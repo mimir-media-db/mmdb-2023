@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_great_divide_2023",
+  "title": "A Great Divide",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136658187",
+    "imdb": "tt23838470",
+    "tmdb": 1090271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-13"
+}

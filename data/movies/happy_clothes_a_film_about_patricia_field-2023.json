@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_clothes_a_film_about_patricia_field_2023",
+  "title": "Happy Clothes: A Film About Patricia Field",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q126771318",
+    "imdb": "tt17634108",
+    "tmdb": 1115359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 96
+}

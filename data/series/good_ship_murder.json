@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_good_ship_murder",
+  "title": "The Good Ship Murder",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123039578",
+    "imdb": "tt26346233",
+    "tmdb": 236572
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alma_viva_2023",
+  "title": "Alma Viva",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117536621",
+    "imdb": "tt14981626",
+    "tmdb": 958192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-12",
+  "runtime_minutes": 88
+}

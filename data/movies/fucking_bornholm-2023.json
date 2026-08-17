@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fucking_bornholm_2023",
+  "title": "Fucking Bornholm",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117021744",
+    "imdb": "tt13058146",
+    "tmdb": 950379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-31",
+  "runtime_minutes": 99
+}

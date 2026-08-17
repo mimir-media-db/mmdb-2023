@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ripple_2023",
+  "title": "The Ripple",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598141",
+    "imdb": "tt22529922",
+    "tmdb": 1017171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-06"
+}

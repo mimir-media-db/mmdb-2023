@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_light_never_goes_out_2023",
+  "title": "A Light Never Goes Out",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115234004",
+    "imdb": "tt14071600",
+    "tmdb": 824742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-13"
+}

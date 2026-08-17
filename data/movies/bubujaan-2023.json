@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bubujaan_2023",
+  "title": "Bubujaan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123348049",
+    "imdb": "tt14469390",
+    "tmdb": 1081414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17"
+}

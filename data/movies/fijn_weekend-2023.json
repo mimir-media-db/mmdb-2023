@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fijn_weekend_2023",
+  "title": "Fijn Weekend",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111771726",
+    "imdb": "tt23782446",
+    "tmdb": 1070629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hablando_huevadas_hijo_de_2023",
+  "title": "Hablando Huevadas: ¡Hijo de...!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124060394",
+    "imdb": "tt30832272",
+    "tmdb": 1223706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-21",
+  "runtime_minutes": 60
+}

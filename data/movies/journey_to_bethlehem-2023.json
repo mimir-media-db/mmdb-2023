@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_to_bethlehem_2023",
+  "title": "Journey to Bethlehem",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119625117",
+    "imdb": "tt13848804",
+    "tmdb": 1092329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 98
+}

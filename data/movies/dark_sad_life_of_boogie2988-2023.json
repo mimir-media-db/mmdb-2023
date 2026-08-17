@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_sad_life_of_boogie2988_2023",
+  "title": "The Dark, Sad Life of Boogie2988",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123512548",
+    "imdb": "tt29579795",
+    "tmdb": 1327156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-31",
+  "runtime_minutes": 55
+}

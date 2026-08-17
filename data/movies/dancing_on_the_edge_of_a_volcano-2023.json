@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_on_the_edge_of_a_volcano_2023",
+  "title": "Dancing on the Edge of a Volcano",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133827415",
+    "imdb": "tt27901934",
+    "tmdb": 1141064
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 84
+}

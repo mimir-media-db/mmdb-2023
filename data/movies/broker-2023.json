@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broker_2023",
+  "title": "Broker",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23994919",
+    "imdb": "tt13056052",
+    "tmdb": 736732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-16",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alteritats_2023",
+  "title": "Alteritats",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125017737",
+    "imdb": "tt26813108",
+    "tmdb": 1080208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 91
+}

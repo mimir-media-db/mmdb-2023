@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_season_2023",
+  "title": "Our Season",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111795729",
+    "imdb": "tt12664652",
+    "tmdb": 1264358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-06"
+}

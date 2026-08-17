@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yadha_yadha_hi_2023",
+  "title": "Yadha Yadha Hi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120833281",
+    "imdb": "tt27811636",
+    "tmdb": 1238880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 131
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_grote_sinterklaasfilm_en_de_strijd_om_pakjesavond_2023",
+  "title": "De Grote Sinterklaasfilm en de strijd om pakjesavond",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121376902",
+    "imdb": "tt29311008",
+    "tmdb": 1175274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

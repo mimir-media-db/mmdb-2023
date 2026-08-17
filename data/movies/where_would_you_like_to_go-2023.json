@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_where_would_you_like_to_go_2023",
+  "title": "Where Would You Like to Go?",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598070",
+    "imdb": "tt26736976",
+    "tmdb": 1106492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_partner_2023",
+  "title": "My Partner",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131727654",
+    "imdb": "tt21329176",
+    "tmdb": 1122639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

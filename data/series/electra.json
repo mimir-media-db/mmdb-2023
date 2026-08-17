@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_electra",
+  "title": "Electra",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q122092000",
+    "imdb": "tt29349389",
+    "tmdb": 236736
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 490
+}

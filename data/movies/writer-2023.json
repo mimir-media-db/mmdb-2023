@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_writer_2023",
+  "title": "The writer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129677727",
+    "imdb": "tt26757123",
+    "tmdb": 1199183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

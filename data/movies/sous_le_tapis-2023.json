@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sous_le_tapis_2023",
+  "title": "Sous le tapis",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119892387",
+    "imdb": "tt27757500",
+    "tmdb": 995396
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-02",
+  "runtime_minutes": 97
+}

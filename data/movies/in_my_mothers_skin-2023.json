@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_in_my_mothers_skin_2023",
+  "title": "In My Mother's Skin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115746288",
+    "imdb": "tt20413870",
+    "tmdb": 1058662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-21"
+}

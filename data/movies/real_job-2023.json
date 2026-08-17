@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_real_job_2023",
+  "title": "A Real Job",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116215577",
+    "imdb": "tt21348598",
+    "tmdb": 934506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-13",
+  "runtime_minutes": 101
+}

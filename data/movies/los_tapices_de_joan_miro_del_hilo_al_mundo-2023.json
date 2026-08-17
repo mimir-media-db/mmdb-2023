@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_los_tapices_de_joan_miro_del_hilo_al_mundo_2023",
+  "title": "Los tapices de Joan Miró. Del hilo al mundo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q129679157",
+    "tmdb": 1338355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

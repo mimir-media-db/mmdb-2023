@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_run_rabbit_run_2023",
+  "title": "Run Rabbit Run",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96403114",
+    "imdb": "tt12547822",
+    "tmdb": 714669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 100
+}

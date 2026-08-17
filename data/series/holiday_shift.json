@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_shift",
+  "title": "The Holiday Shift",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123510198",
+    "imdb": "tt29732006",
+    "tmdb": 239719
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

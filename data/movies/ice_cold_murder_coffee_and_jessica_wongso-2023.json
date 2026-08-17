@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_cold_murder_coffee_and_jessica_wongso_2023",
+  "title": "Ice Cold: Murder, Coffee and Jessica Wongso",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122962388",
+    "imdb": "tt28840429",
+    "tmdb": 1172499
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

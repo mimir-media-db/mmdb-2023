@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_first_experience_2023",
+  "title": "Memories of First Experience",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139842384",
+    "tmdb": 1205087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-06"
+}

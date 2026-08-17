@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_to_play_for_2023",
+  "title": "All to Play For",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118465296",
+    "imdb": "tt14748950",
+    "tmdb": 966488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25",
+  "runtime_minutes": 112
+}

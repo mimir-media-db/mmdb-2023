@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_classroom_8_2023",
+  "title": "Classroom 8",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124134898",
+    "imdb": "tt30098600",
+    "tmdb": 1156322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

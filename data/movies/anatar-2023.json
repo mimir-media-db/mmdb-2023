@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anatar_2023",
+  "title": "Anatar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115443428",
+    "imdb": "tt17351870",
+    "tmdb": 1052025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19"
+}

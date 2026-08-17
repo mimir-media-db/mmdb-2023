@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wilding_2023",
+  "title": "Wilding",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127268928",
+    "imdb": "tt28834285",
+    "tmdb": 1172091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 75
+}

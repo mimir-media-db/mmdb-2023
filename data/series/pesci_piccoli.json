@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_pesci_piccoli",
+  "title": "Pesci piccoli",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119950141",
+    "imdb": "tt27802644",
+    "tmdb": 225226
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

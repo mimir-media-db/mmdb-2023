@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_totally_killer_2023",
+  "title": "Totally Killer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115804021",
+    "imdb": "tt11426232",
+    "tmdb": 974931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 106
+}

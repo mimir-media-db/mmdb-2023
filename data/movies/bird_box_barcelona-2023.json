@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bird_box_barcelona_2023",
+  "title": "Bird Box Barcelona",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118313105",
+    "imdb": "tt14400246",
+    "tmdb": 805320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-14",
+  "runtime_minutes": 112
+}

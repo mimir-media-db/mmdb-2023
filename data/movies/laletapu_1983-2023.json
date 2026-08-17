@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_laletapu_1983_2023",
+  "title": "Laletapu 1983",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123659964",
+    "imdb": "tt30210404"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-24"
+}

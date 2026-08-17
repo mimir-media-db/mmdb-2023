@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barbie_2023",
+  "title": "Barbie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55436290",
+    "imdb": "tt1517268",
+    "tmdb": 346698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 114
+}

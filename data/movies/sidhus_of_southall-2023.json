@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sidhus_of_southall_2023",
+  "title": "Sidhus of Southall",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118288459",
+    "imdb": "tt20847416",
+    "tmdb": 1124531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19"
+}

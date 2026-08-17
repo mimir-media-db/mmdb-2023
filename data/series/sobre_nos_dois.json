@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sobre_nos_dois",
+  "title": "Sobre Nós Dois",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121855433",
+    "imdb": "tt28657863",
+    "tmdb": 231796
+  },
+  "last_updated": "2026-08-17"
+}

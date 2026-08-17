@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_tv_series",
+  "title": "The Gold (TV series)",
+  "start_year": 2023,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q116763927",
+    "imdb": "tt14063678",
+    "tmdb": 218351
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

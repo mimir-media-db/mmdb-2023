@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_noryang_2023",
+  "title": "Noryang",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112591987",
+    "imdb": "tt22813112",
+    "tmdb": 660360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

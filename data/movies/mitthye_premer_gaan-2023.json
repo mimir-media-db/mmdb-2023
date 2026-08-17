@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mitthye_premer_gaan_2023",
+  "title": "Mitthye Premer Gaan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121793144",
+    "imdb": "tt26258098",
+    "tmdb": 1074464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asterix_obelix_the_middle_kingdom_2023",
+  "title": "Asterix & Obelix: The Middle Kingdom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48758615",
+    "imdb": "tt11210390",
+    "tmdb": 643215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-01",
+  "runtime_minutes": 111
+}

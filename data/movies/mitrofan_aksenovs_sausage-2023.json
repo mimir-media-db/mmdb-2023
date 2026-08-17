@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mitrofan_aksenovs_sausage_2023",
+  "title": "Mitrofan Aksenov's Sausage",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123537317",
+    "imdb": "tt30183178",
+    "tmdb": 1148323
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-01",
+  "runtime_minutes": 61
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_jinri_2023",
+  "title": "Dear Jinri",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122226892",
+    "imdb": "tt30051845",
+    "tmdb": 1169803
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-07"
+}

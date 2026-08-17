@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_felipe_2023",
+  "title": "Felipe",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131190311",
+    "imdb": "tt22988100",
+    "tmdb": 1367859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 93
+}

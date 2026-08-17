@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_plage_2023",
+  "title": "La Plage",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573724",
+    "imdb": "tt24768726",
+    "tmdb": 1082521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-21",
+  "runtime_minutes": 120
+}

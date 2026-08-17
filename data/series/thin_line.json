@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_thin_line",
+  "title": "A Thin Line",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116781952",
+    "imdb": "tt21097902",
+    "tmdb": 220674
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

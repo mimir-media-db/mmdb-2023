@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_work_2023",
+  "title": "After Work",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122640359",
+    "imdb": "tt10400026",
+    "tmdb": 1091360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

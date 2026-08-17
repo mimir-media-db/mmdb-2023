@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_red_shoes_next_step_2023",
+  "title": "The Red Shoes: Next Step",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135919957",
+    "imdb": "tt14838460",
+    "tmdb": 1075010
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

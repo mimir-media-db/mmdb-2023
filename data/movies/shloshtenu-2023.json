@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shloshtenu_2023",
+  "title": "Shloshtenu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136794950",
+    "imdb": "tt27190438",
+    "tmdb": 1168693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-30",
+  "runtime_minutes": 80
+}

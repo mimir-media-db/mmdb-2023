@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_invisible_girl",
+  "title": "The Invisible Girl",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116212785",
+    "imdb": "tt21194996",
+    "tmdb": 205179
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anak_ka_ng_ina_mo_2023",
+  "title": "Anak Ka ng Ina Mo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124352769",
+    "imdb": "tt28635219",
+    "tmdb": 1163189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-10"
+}

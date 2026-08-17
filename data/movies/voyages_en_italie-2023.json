@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voyages_en_italie_2023",
+  "title": "Voyages en Italie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117309396",
+    "imdb": "tt25750424",
+    "tmdb": 1000559
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-29",
+  "runtime_minutes": 91
+}

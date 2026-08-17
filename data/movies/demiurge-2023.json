@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demiurge_2023",
+  "title": "Demiurge",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576057",
+    "imdb": "tt27903985",
+    "tmdb": 1150659
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-13",
+  "runtime_minutes": 94
+}

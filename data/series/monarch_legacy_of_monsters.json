@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_monarch_legacy_of_monsters",
+  "title": "Monarch: Legacy of Monsters",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113114887",
+    "imdb": "tt17220216",
+    "tmdb": 202411
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

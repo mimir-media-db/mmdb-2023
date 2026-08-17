@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forbidden_play_2023",
+  "title": "The Forbidden Play",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132472477",
+    "imdb": "tt26758292",
+    "tmdb": 1145291
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-08"
+}

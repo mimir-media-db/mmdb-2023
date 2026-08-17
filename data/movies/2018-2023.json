@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_2018_2023",
+  "title": "2018",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115878911",
+    "imdb": "tt9006564",
+    "tmdb": 866440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05"
+}

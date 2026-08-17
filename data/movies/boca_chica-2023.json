@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boca_chica_2023",
+  "title": "Boca Chica",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118211126",
+    "imdb": "tt17065440",
+    "tmdb": 1115369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 97
+}

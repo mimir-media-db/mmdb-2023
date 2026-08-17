@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_all_2023",
+  "title": "Love All",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121302142",
+    "imdb": "tt9511468",
+    "tmdb": 1153862
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-25"
+}

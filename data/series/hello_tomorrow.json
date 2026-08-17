@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_tomorrow",
+  "title": "Hello Tomorrow!",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110885456",
+    "imdb": "tt14596212",
+    "tmdb": 125000
+  },
+  "last_updated": "2026-08-17"
+}

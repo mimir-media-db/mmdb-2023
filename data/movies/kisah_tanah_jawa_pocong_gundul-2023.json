@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kisah_tanah_jawa_pocong_gundul_2023",
+  "title": "Kisah Tanah Jawa: Pocong Gundul",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124445640",
+    "imdb": "tt27860430",
+    "tmdb": 662728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-21",
+  "runtime_minutes": 107
+}

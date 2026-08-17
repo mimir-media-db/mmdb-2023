@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kash_kash_2023",
+  "title": "Kash Kash",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123561795",
+    "imdb": "tt17161664",
+    "tmdb": 928641
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-07",
+  "runtime_minutes": 90
+}

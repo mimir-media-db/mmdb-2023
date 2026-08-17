@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seagrass_2023",
+  "title": "Seagrass",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121200650",
+    "imdb": "tt23642420",
+    "tmdb": 1128345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

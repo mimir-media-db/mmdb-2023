@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_social_distancing_2023",
+  "title": "Social Distancing",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118108762",
+    "imdb": "tt22504932",
+    "tmdb": 988703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-11"
+}

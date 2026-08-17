@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_voce_che_hai_dentro",
+  "title": "La voce che hai dentro",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121770857",
+    "imdb": "tt21611760",
+    "tmdb": 234509
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

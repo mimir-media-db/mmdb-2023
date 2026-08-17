@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monsieur_le_maire_2023",
+  "title": "Monsieur, le Maire",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123168911",
+    "imdb": "tt29198923",
+    "tmdb": 1000088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-01",
+  "runtime_minutes": 102
+}

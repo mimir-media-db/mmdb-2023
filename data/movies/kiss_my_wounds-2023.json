@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kiss_my_wounds_2023",
+  "title": "Kiss My Wounds",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116875321",
+    "imdb": "tt14164148",
+    "tmdb": 979881
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-02",
+  "runtime_minutes": 111
+}

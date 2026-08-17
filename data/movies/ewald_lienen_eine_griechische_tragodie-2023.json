@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ewald_lienen_eine_griechische_tragodie_2023",
+  "title": "Ewald Lienen – Eine griechische Tragödie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125415396",
+    "imdb": "tt28792309",
+    "tmdb": 1191946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 88
+}

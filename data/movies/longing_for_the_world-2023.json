@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_longing_for_the_world_2023",
+  "title": "Longing for the World",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115867440",
+    "imdb": "tt15607898",
+    "tmdb": 1002190
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-19"
+}

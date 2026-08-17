@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_monde_dapres_2_2023",
+  "title": "Le Monde d'après 2",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117081629",
+    "imdb": "tt26895889",
+    "tmdb": 1092645
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 92
+}

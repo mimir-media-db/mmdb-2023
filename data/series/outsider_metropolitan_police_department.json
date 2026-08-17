@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_outsider_metropolitan_police_department",
+  "title": "Outsider: Metropolitan Police Department",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116877823",
+    "imdb": "tt26814394",
+    "tmdb": 215270
+  },
+  "last_updated": "2026-08-17"
+}

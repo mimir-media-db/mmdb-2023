@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alice_in_terrorland_2023",
+  "title": "Alice in Terrorland",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131401515",
+    "imdb": "tt22398528",
+    "tmdb": 1174618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manhole_2023",
+  "title": "#Manhole",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333098",
+    "imdb": "tt24670176",
+    "tmdb": 1029621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-10"
+}

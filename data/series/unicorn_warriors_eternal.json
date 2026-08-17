@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unicorn_warriors_eternal",
+  "title": "Unicorn: Warriors Eternal",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117350541",
+    "imdb": "tt13373182",
+    "tmdb": 128024
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

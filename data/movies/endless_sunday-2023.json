@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_endless_sunday_2023",
+  "title": "An Endless Sunday",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122396647",
+    "imdb": "tt28497330",
+    "tmdb": 1156219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-01"
+}

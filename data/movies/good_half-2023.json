@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_good_half_2023",
+  "title": "The Good Half",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117845528",
+    "imdb": "tt27544281",
+    "tmdb": 1114926
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

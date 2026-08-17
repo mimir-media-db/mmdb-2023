@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cinnamon_2023",
+  "title": "Cinnamon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117794011",
+    "imdb": "tt19227682",
+    "tmdb": 976699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 91
+}

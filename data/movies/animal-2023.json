@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_2023",
+  "title": "Animal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121078552",
+    "imdb": "tt26342791",
+    "tmdb": 889821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

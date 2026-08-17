@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_waco_the_aftermath",
+  "title": "Waco: The Aftermath",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117305733",
+    "imdb": "tt19842834",
+    "tmdb": 200701
+  },
+  "last_updated": "2026-08-17"
+}

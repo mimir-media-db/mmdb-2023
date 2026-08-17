@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_sister_2023",
+  "title": "Sister & Sister",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121879319",
+    "imdb": "tt26591137",
+    "tmdb": 1088168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

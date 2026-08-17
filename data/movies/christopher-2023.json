@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christopher_2023",
+  "title": "Christopher",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113669151",
+    "imdb": "tt21819994",
+    "tmdb": 992589
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

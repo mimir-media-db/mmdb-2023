@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_2023",
+  "title": "Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120648175",
+    "imdb": "tt24068194",
+    "tmdb": 965639
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-28"
+}

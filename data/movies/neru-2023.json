@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_neru_2023",
+  "title": "Neru",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123550521",
+    "imdb": "tt28358950",
+    "tmdb": 1164370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

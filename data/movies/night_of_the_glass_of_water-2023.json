@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_the_glass_of_water_2023",
+  "title": "The Night of the Glass of Water",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118524620",
+    "imdb": "tt22299230",
+    "tmdb": 967549
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-14",
+  "runtime_minutes": 85
+}

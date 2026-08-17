@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_invitation_2023",
+  "title": "A Deadly Invitation",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123119913",
+    "imdb": "tt13022120",
+    "tmdb": 1179664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 92
+}

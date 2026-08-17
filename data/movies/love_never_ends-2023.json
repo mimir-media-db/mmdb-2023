@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_never_ends_2023",
+  "title": "Love Never Ends",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354294",
+    "imdb": "tt21067242",
+    "tmdb": 1091508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

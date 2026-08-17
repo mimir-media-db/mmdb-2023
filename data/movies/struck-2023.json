@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_struck_2023",
+  "title": "The struck",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121704184",
+    "imdb": "tt9009130",
+    "tmdb": 1078805
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

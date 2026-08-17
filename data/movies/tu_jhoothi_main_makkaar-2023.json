@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_jhoothi_main_makkaar_2023",
+  "title": "Tu Jhoothi Main Makkaar",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115723699",
+    "imdb": "tt8672856",
+    "tmdb": 611359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

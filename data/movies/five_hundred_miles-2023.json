@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_five_hundred_miles_2023",
+  "title": "Five Hundred Miles",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116867102",
+    "imdb": "tt25502628",
+    "tmdb": 1077025
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-22"
+}

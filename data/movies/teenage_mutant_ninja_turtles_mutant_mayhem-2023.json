@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_teenage_mutant_ninja_turtles_mutant_mayhem_2023",
+  "title": "Teenage Mutant Ninja Turtles: Mutant Mayhem",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110271518",
+    "imdb": "tt8589698",
+    "tmdb": 614930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-12",
+  "runtime_minutes": 99
+}

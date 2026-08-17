@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_did_it_my_way_2023",
+  "title": "I Did It My Way",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113206486",
+    "imdb": "tt21330770",
+    "tmdb": 999056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-29",
+  "runtime_minutes": 115
+}

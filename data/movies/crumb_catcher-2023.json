@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crumb_catcher_2023",
+  "title": "Crumb Catcher",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136450431",
+    "imdb": "tt7178516",
+    "tmdb": 1028688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-24"
+}

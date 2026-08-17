@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_mujer_salvaje_2023_2023",
+  "title": "La mujer salvaje (2023)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130360146",
+    "imdb": "tt28681413",
+    "tmdb": 1160029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 93
+}

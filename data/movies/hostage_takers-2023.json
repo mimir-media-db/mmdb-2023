@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hostage_takers_2023",
+  "title": "Hostage Takers",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123371097",
+    "imdb": "tt23333298",
+    "tmdb": 1086677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

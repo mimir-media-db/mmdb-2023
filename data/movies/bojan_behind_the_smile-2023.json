@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bojan_behind_the_smile_2023",
+  "title": "Bojan, behind the smile",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123786099",
+    "tmdb": 1187304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

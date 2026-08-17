@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_finally_dawn_2023",
+  "title": "Finally Dawn",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115619966",
+    "imdb": "tt21824548",
+    "tmdb": 1013869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 140
+}

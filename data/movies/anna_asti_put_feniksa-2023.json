@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anna_asti_put_feniksa_2023",
+  "title": "Anna Asti. Put Feniksa",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124986318",
+    "imdb": "tt30589627"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-20",
+  "runtime_minutes": 46
+}

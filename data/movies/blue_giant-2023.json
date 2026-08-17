@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_giant_2023",
+  "title": "Blue Giant",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112664641",
+    "imdb": "tt15737898",
+    "tmdb": 887870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 120
+}

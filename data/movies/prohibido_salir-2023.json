@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prohibido_salir_2023",
+  "title": "Prohibido salir",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122212382",
+    "imdb": "tt14120618",
+    "tmdb": 973990
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 100
+}

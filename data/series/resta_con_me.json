@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_resta_con_me",
+  "title": "Resta con me",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116752842",
+    "imdb": "tt18567030",
+    "tmdb": 220692
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_star_trek_very_short_treks",
+  "title": "Star Trek: Very Short Treks",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122241007",
+    "imdb": "tt29064560",
+    "tmdb": 249278
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

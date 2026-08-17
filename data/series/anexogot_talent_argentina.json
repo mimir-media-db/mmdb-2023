@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_anexogot_talent_argentina",
+  "title": "Anexo:Got Talent Argentina",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q127099717",
+    "imdb": "tt28776578",
+    "tmdb": 24092
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 60
+}

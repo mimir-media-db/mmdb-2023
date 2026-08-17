@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_65_2023",
+  "title": "65",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104187039",
+    "imdb": "tt12261776",
+    "tmdb": 700391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-09",
+  "runtime_minutes": 93
+}

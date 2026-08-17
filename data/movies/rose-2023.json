@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_2023",
+  "title": "Rose",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106595945",
+    "imdb": "tt13845652",
+    "tmdb": 901251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-29",
+  "runtime_minutes": 106
+}

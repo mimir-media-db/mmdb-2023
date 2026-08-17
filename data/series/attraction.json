@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_attraction",
+  "title": "Attraction",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121689354",
+    "imdb": "tt21209354",
+    "tmdb": 223495
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

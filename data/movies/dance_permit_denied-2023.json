@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dance_permit_denied_2023",
+  "title": "Dance Permit (Denied)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140377263",
+    "imdb": "tt30192064",
+    "tmdb": 1209781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 10
+}

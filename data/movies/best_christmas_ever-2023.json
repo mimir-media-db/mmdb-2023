@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_christmas_ever_2023",
+  "title": "Best. Christmas. Ever!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121357211",
+    "imdb": "tt7038762",
+    "tmdb": 987490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-16",
+  "runtime_minutes": 81
+}

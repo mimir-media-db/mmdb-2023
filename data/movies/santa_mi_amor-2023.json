@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_mi_amor_2023",
+  "title": "Santa mi amor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124030525",
+    "imdb": "tt30236047",
+    "tmdb": 1192330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08"
+}

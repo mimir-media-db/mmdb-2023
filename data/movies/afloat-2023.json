@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afloat_2023",
+  "title": "Afloat",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123150288",
+    "imdb": "tt29548549",
+    "tmdb": 1169658
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

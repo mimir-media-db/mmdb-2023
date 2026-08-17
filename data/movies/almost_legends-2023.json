@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almost_legends_2023",
+  "title": "The (Almost) Legends",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121147499",
+    "imdb": "tt21737024",
+    "tmdb": 1148969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 96
+}

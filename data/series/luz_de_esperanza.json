@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_luz_de_esperanza",
+  "title": "Luz de esperanza",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123766491",
+    "imdb": "tt36352500",
+    "tmdb": 242344
+  },
+  "last_updated": "2026-08-17"
+}

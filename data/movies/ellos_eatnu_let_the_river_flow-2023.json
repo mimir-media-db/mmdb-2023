@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ellos_eatnu_let_the_river_flow_2023",
+  "title": "Ellos eatnu – Let the River Flow",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116676805",
+    "imdb": "tt23638090",
+    "tmdb": 941859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 118
+}

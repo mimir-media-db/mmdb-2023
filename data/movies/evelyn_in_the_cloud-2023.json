@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_evelyn_in_the_cloud_2023",
+  "title": "Evelyn in the Cloud",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117190997",
+    "imdb": "tt3465516",
+    "tmdb": 1092330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-30",
+  "runtime_minutes": 96
+}

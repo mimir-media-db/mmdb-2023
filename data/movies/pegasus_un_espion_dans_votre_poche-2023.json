@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pegasus_un_espion_dans_votre_poche_2023",
+  "title": "Pegasus, un espion dans votre poche",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124694115",
+    "imdb": "tt27052939"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 94
+}

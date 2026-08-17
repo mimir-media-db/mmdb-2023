@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_butterflies_2023",
+  "title": "The Last Butterflies",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123663438",
+    "imdb": "tt22770182",
+    "tmdb": 1174176
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-16",
+  "runtime_minutes": 27
+}

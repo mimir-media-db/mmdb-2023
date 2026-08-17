@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_pony_2023",
+  "title": "War Pony",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112041329",
+    "imdb": "tt16227002",
+    "tmdb": 962566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-10",
+  "runtime_minutes": 114
+}

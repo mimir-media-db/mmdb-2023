@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one",
+  "title": "The One",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123150877",
+    "imdb": "tt31157544",
+    "tmdb": 287054
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bogla_mama_jug_jug_jiyo_2023",
+  "title": "Bogla Mama Jug Jug Jiyo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123238898",
+    "imdb": "tt29546537",
+    "tmdb": 1102441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-24",
+  "runtime_minutes": 147
+}

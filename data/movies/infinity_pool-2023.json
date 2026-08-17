@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infinity_pool_2023",
+  "title": "Infinity Pool",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109312634",
+    "imdb": "tt10365998",
+    "tmdb": 667216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-21",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nelson_2023",
+  "title": "Nelson",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119144307",
+    "imdb": "tt8694428",
+    "tmdb": 748889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-28",
+  "runtime_minutes": 75
+}

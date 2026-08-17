@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_store_2023",
+  "title": "The Store",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117748898",
+    "imdb": "tt15307782",
+    "tmdb": 958201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-14"
+}

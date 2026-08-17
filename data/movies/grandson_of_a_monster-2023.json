@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grandson_of_a_monster_2023",
+  "title": "Grandson of a Monster",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333119",
+    "imdb": "tt26543725",
+    "tmdb": 1089218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-17"
+}

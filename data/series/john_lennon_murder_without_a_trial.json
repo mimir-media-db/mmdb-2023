@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_john_lennon_murder_without_a_trial",
+  "title": "John Lennon: Murder Without a Trial",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123594093",
+    "imdb": "tt29627149",
+    "tmdb": 238126
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 3
+}

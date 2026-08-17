@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_wimpy_kid_christmas_cabin_fever_2023",
+  "title": "Diary of a Wimpy Kid Christmas: Cabin Fever",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122363694",
+    "imdb": "tt29033964",
+    "tmdb": 1123093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08",
+  "runtime_minutes": 62
+}

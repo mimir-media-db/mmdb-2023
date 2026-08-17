@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_1971_shei_shob_din_2023",
+  "title": "1971 Shei Shob Din",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120776691",
+    "imdb": "tt28456666",
+    "tmdb": 1156874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-18"
+}

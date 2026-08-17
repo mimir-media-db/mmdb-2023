@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_to_the_limit_2023",
+  "title": "Life to the Limit",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137212264",
+    "imdb": "tt19887224",
+    "tmdb": 1083384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-16",
+  "runtime_minutes": 107
+}

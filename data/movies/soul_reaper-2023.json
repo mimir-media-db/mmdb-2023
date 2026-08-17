@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_soul_reaper_2023",
+  "title": "The Soul Reaper",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123990895",
+    "imdb": "tt30460383",
+    "tmdb": 1202618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-15",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maestro_2023",
+  "title": "Maestro",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111907282",
+    "imdb": "tt5535276",
+    "tmdb": 523607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-02",
+  "runtime_minutes": 129
+}

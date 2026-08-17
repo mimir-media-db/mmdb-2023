@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_home_hero",
+  "title": "My Home Hero",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q135145064",
+    "imdb": "tt28712110",
+    "tmdb": 233114
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

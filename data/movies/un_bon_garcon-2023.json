@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_bon_garcon_2023",
+  "title": "Un bon garçon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137712308",
+    "imdb": "tt26998238",
+    "tmdb": 1188219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 19
+}

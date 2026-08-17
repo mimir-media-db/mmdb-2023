@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_das_kino_sind_wir_2023",
+  "title": "Das Kino sind wir",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123281655"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-21",
+  "runtime_minutes": 81
+}

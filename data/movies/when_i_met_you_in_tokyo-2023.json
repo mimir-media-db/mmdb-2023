@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_met_you_in_tokyo_2023",
+  "title": "When I Met You In Tokyo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123730794",
+    "imdb": "tt28929276",
+    "tmdb": 1173446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-25"
+}

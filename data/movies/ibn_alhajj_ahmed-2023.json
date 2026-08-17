@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ibn_alhajj_ahmed_2023",
+  "title": "Ibn Al-Hajj Ahmed",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117795504",
+    "imdb": "tt27492818",
+    "tmdb": 1094581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-20"
+}

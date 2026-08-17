@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_scars_2023",
+  "title": "Summer Scars",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117832575",
+    "imdb": "tt19768694",
+    "tmdb": 931982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-03",
+  "runtime_minutes": 104
+}

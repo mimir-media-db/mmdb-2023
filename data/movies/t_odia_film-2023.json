@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_t_odia_film_2023",
+  "title": "T (Odia film)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117324857",
+    "imdb": "tt18555546",
+    "tmdb": 1114033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-25",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adrishya_jalakangal_2023",
+  "title": "Adrishya Jalakangal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123414795",
+    "imdb": "tt23809778",
+    "tmdb": 982127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-24"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sta_synora",
+  "title": "Sta synora",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123179142"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 60
+}

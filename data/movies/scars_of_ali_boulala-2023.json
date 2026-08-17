@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_scars_of_ali_boulala_2023",
+  "title": "The Scars of Ali Boulala",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106582965",
+    "imdb": "tt13654950",
+    "tmdb": 822255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-22",
+  "runtime_minutes": 100
+}

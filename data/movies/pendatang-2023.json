@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pendatang_2023",
+  "title": "Pendatang",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123906935",
+    "imdb": "tt22479650",
+    "tmdb": 1072528
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-21",
+  "runtime_minutes": 98
+}

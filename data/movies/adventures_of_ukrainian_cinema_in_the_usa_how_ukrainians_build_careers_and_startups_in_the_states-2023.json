@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_ukrainian_cinema_in_the_usa_how_ukrainians_build_careers_and_startups_in_the_states_2023",
+  "title": "Adventures of Ukrainian cinema in the USA | How Ukrainians build careers and start-ups in the States",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573983",
+    "imdb": "tt31450115"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-07",
+  "runtime_minutes": 85
+}

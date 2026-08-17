@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beautiful_life_2023",
+  "title": "A Beautiful Life",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118773870",
+    "imdb": "tt15282148",
+    "tmdb": 1119173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-01",
+  "runtime_minutes": 98
+}

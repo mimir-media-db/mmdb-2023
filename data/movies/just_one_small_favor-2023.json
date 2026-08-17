@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_one_small_favor_2023",
+  "title": "Just One Small Favor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123371539",
+    "imdb": "tt20674380",
+    "tmdb": 1089979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-10"
+}

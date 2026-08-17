@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyond_the_aggressives_25_years_later_2023",
+  "title": "Beyond the Aggressives: 25 Years Later",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124323616",
+    "imdb": "tt29344605",
+    "tmdb": 1177524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 80
+}

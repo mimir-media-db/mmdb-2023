@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_wants_to_be_loved_2023",
+  "title": "Everybody Wants to Be Loved",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116621212",
+    "imdb": "tt21103606",
+    "tmdb": 979837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_isla_bonita_2023",
+  "title": "Isla Bonita",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123614840",
+    "imdb": "tt27631741",
+    "tmdb": 1168733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

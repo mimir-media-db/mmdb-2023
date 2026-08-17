@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_of_music_a_musical_declaration_of_love_2023",
+  "title": "The Sound of Music: A Musical Declaration of Love",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140299528",
+    "imdb": "tt43329291",
+    "tmdb": 1707733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 60
+}

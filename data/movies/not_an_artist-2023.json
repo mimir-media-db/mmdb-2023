@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_not_an_artist_2023",
+  "title": "Not an Artist",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123196863",
+    "imdb": "tt14264676",
+    "tmdb": 1197548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

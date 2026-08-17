@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_thunder_bay",
+  "title": "Thunder Bay",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116673713",
+    "imdb": "tt26752191",
+    "tmdb": 218915
+  },
+  "last_updated": "2026-08-17"
+}

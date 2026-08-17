@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mindcage_2023",
+  "title": "Mindcage",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112114680",
+    "imdb": "tt14147224",
+    "tmdb": 1043565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 96
+}

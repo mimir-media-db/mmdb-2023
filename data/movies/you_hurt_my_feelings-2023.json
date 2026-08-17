@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_you_hurt_my_feelings_2023",
+  "title": "You Hurt My Feelings",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111937315",
+    "imdb": "tt15771916",
+    "tmdb": 890215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-22",
+  "runtime_minutes": 93
+}

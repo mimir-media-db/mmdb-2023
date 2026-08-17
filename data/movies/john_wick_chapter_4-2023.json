@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_john_wick_chapter_4_2023",
+  "title": "John Wick: Chapter 4",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q80322358",
+    "imdb": "tt10366206",
+    "tmdb": 603692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-22",
+  "runtime_minutes": 169
+}

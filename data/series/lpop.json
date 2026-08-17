@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lpop",
+  "title": "L-Pop",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122389481",
+    "imdb": "tt20447008",
+    "tmdb": 206017
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

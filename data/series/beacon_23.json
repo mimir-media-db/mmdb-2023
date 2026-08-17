@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beacon_23",
+  "title": "Beacon 23",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113560816",
+    "imdb": "tt9174724",
+    "tmdb": 112388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 2
+}

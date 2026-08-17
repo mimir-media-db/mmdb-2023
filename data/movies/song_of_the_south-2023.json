@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_the_south_2023",
+  "title": "Song of the South",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115789358",
+    "imdb": "tt29493007",
+    "tmdb": 1124863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-20"
+}

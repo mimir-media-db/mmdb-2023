@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sulis_1907_2023",
+  "title": "Sulis 1907",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111655628",
+    "imdb": "tt14509240",
+    "tmdb": 964258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_europa_2023",
+  "title": "Europa",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120328046",
+    "imdb": "tt26255954",
+    "tmdb": 1073225
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-02",
+  "runtime_minutes": 98
+}

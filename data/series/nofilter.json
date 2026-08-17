@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nofilter",
+  "title": "#NoFilter",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116968744",
+    "imdb": "tt26368084",
+    "tmdb": 219067
+  },
+  "last_updated": "2026-08-17"
+}

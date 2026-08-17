@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pacifico_2023",
+  "title": "Pacífico",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24659970",
+    "imdb": "tt4634974",
+    "tmdb": 890216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_our_day_2023",
+  "title": "In Our Day",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117827042",
+    "imdb": "tt27541074",
+    "tmdb": 1114775
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-19",
+  "runtime_minutes": 84
+}

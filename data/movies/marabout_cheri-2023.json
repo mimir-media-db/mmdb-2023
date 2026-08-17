@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marabout_cheri_2023",
+  "title": "Marabout Chéri",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q138634267",
+    "imdb": "tt27558170",
+    "tmdb": 1125238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-01",
+  "runtime_minutes": 82
+}

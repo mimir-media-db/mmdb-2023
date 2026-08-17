@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_maurice_2023",
+  "title": "The Amazing Maurice",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102036265",
+    "imdb": "tt10473036",
+    "tmdb": 676710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-01",
+  "runtime_minutes": 93
+}

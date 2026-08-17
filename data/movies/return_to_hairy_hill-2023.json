@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_to_hairy_hill_2023",
+  "title": "Return to Hairy Hill",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124791285",
+    "imdb": "tt31691919",
+    "tmdb": 1127287
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-12"
+}

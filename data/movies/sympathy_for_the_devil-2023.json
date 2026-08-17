@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sympathy_for_the_devil_2023",
+  "title": "Sympathy for the Devil",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116797612",
+    "imdb": "tt21991654",
+    "tmdb": 1030987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-22",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quiero_volverme_tiempo_2023",
+  "title": "Quiero volverme tiempo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140679725",
+    "imdb": "tt31318076",
+    "tmdb": 1189050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 103
+}

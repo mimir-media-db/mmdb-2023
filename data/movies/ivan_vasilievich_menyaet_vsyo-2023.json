@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivan_vasilievich_menyaet_vsyo_2023",
+  "title": "Ivan Vasilievich menyaet vsyo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124167334",
+    "imdb": "tt29278798",
+    "tmdb": 1223845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_survival_of_the_thickest",
+  "title": "Survival of The Thickest",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115817878",
+    "imdb": "tt17361756",
+    "tmdb": 227139
+  },
+  "last_updated": "2026-08-17"
+}

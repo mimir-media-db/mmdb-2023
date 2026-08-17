@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_polite_society_2023",
+  "title": "Polite Society",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115478681",
+    "imdb": "tt18257464",
+    "tmdb": 977223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-20",
+  "runtime_minutes": 104
+}

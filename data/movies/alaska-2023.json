@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alaska_2023",
+  "title": "Alaska",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116462982",
+    "imdb": "tt14456288",
+    "tmdb": 949884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 124
+}

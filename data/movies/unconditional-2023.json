@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unconditional_2023",
+  "title": "Unconditional",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118612374",
+    "imdb": "tt20860856",
+    "tmdb": 1117622
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-02",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_letabli_2023",
+  "title": "L'établi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117334907",
+    "imdb": "tt14163992",
+    "tmdb": 892513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-05",
+  "runtime_minutes": 117
+}

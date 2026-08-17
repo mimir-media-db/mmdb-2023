@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_taelgia",
+  "title": "Taelgia",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118436264",
+    "imdb": "tt28939371",
+    "tmdb": 234983
+  },
+  "last_updated": "2026-08-17"
+}

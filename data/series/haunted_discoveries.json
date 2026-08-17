@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_haunted_discoveries",
+  "title": "Haunted Discoveries",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122956449",
+    "imdb": "tt27854090"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

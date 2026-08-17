@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_she_came_to_me_2023",
+  "title": "She Came to Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116172540",
+    "imdb": "tt6689014",
+    "tmdb": 503417
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_horizon_line_2023",
+  "title": "Horizon Line",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85321396",
+    "imdb": "tt5498354",
+    "tmdb": 602654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-27",
+  "runtime_minutes": 92
+}

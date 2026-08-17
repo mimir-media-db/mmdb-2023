@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_worst_neighbor_2023",
+  "title": "My Worst Neighbor",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118970581",
+    "imdb": "tt26736481",
+    "tmdb": 1005533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-05",
+  "runtime_minutes": 112
+}

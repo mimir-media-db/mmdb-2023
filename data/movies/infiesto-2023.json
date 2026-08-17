@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_infiesto_2023",
+  "title": "Infiesto",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117192621",
+    "imdb": "tt15789492",
+    "tmdb": 1072567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03",
+  "runtime_minutes": 96
+}

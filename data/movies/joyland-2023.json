@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joyland_2023",
+  "title": "Joyland",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112126298",
+    "imdb": "tt19719976",
+    "tmdb": 962571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24",
+  "runtime_minutes": 126
+}
