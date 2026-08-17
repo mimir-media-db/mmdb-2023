@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_007_road_to_a_million",
+  "title": "007: Road to a Million",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123400526",
+    "imdb": "tt19049680",
+    "tmdb": 234455
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}
