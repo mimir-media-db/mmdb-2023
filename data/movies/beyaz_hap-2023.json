@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beyaz_hap_2023",
+  "title": "Beyaz Hap",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119168823",
+    "imdb": "tt27744766",
+    "tmdb": 1126373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-13",
+  "runtime_minutes": 92
+}

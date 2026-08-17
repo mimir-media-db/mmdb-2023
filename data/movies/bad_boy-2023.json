@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_boy_2023",
+  "title": "Bad Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65044911",
+    "imdb": "tt10351180",
+    "tmdb": 604198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-28",
+  "runtime_minutes": 116
+}

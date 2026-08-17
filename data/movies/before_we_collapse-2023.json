@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_we_collapse_2023",
+  "title": "Before We Collapse",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117787558",
+    "imdb": "tt15665948",
+    "tmdb": 925100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 100
+}

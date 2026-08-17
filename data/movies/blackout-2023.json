@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blackout_2023",
+  "title": "Blackout",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127013159",
+    "imdb": "tt23186596",
+    "tmdb": 1042623
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-20",
+  "runtime_minutes": 104
+}

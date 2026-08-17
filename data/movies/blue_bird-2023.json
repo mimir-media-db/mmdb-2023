@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_bird_2023",
+  "title": "A Blue Bird",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128154157",
+    "imdb": "tt29899792",
+    "tmdb": 1017924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 97
+}

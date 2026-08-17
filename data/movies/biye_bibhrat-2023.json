@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_biye_bibhrat_2023",
+  "title": "Biye Bibhrat",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120514537",
+    "imdb": "tt28331537",
+    "tmdb": 993988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-14"
+}

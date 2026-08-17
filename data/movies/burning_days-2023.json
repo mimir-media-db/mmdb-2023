@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_days_2023",
+  "title": "Burning Days",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111955137",
+    "imdb": "tt14859416",
+    "tmdb": 682152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-26",
+  "runtime_minutes": 128
+}

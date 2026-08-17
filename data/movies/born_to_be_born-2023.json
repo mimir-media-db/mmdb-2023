@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_born_to_be_born_2023",
+  "title": "Born to Be Born",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120857801",
+    "imdb": "tt18073186",
+    "tmdb": 1159021
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

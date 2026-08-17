@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_biosphere_2023",
+  "title": "Biosphere",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117599056",
+    "imdb": "tt15301000",
+    "tmdb": 865797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07",
+  "runtime_minutes": 106
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bushirt_tshirt_2023",
+  "title": "Bushirt T-shirt",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118462549",
+    "imdb": "tt27599380",
+    "tmdb": 1122821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05",
+  "runtime_minutes": 144
+}

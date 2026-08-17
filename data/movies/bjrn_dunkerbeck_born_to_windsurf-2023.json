@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bjrn_dunkerbeck_born_to_windsurf_2023",
+  "title": "Bjørn Dunkerbeck - Born to Windsurf",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122909397",
+    "imdb": "tt29332061",
+    "tmdb": 1188636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-05",
+  "runtime_minutes": 118
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bde_2023",
+  "title": "BDE",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116255600",
+    "imdb": "tt20601908",
+    "tmdb": 957752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

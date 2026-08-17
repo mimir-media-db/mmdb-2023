@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_burning_season_2023",
+  "title": "The Burning Season",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123598782",
+    "imdb": "tt18377910",
+    "tmdb": 1025651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30",
+  "runtime_minutes": 89
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_before_the_sunset_2023",
+  "title": "Before the Sunset",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119484924",
+    "imdb": "tt28758809",
+    "tmdb": 1182937
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-29"
+}

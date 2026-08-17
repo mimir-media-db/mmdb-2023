@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brats_be_ambitious_2023",
+  "title": "Brats, Be Ambitious!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115113266",
+    "imdb": "tt22186830",
+    "tmdb": 1030245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-24",
+  "runtime_minutes": 145
+}

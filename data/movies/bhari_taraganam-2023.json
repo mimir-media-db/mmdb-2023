@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bhari_taraganam_2023",
+  "title": "Bhari Taraganam",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119161445",
+    "imdb": "tt27109885"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

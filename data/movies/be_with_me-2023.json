@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_be_with_me_2023",
+  "title": "Be With Me",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124364326",
+    "imdb": "tt28813642",
+    "tmdb": 996108
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-17",
+  "runtime_minutes": 130
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bad_habit_2023",
+  "title": "Bad Habit",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123374738",
+    "imdb": "tt28115341",
+    "tmdb": 1161391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-21"
+}

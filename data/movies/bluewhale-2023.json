@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bluewhale_2023",
+  "title": "#Blue_Whale",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127604516",
+    "imdb": "tt15483510",
+    "tmdb": 714567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-09",
+  "runtime_minutes": 91
+}

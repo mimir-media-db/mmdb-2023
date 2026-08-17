@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_burned_to_the_ground_2023",
+  "title": "Burned to the Ground",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120801410"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-08",
+  "runtime_minutes": 16
+}

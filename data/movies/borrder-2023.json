@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_borrder_2023",
+  "title": "Borrder",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108527410",
+    "imdb": "tt14338258",
+    "tmdb": 895053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_branded_to_kill_2023",
+  "title": "Branded to Kill",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q729671",
+    "imdb": "tt0061882",
+    "tmdb": 17905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 97
+}

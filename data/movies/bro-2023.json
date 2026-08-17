@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bro_2023",
+  "title": "Bro",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119133686",
+    "imdb": "tt26675491",
+    "tmdb": 1090486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-28"
+}

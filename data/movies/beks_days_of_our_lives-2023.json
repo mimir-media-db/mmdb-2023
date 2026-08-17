@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beks_days_of_our_lives_2023",
+  "title": "Beks Days of Our Lives",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122240998",
+    "imdb": "tt27634228",
+    "tmdb": 1107935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-17",
+  "runtime_minutes": 105
+}

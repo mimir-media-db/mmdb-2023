@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blues_big_city_adventure_2023",
+  "title": "Blue's Big City Adventure",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115819319",
+    "imdb": "tt15038118",
+    "tmdb": 939210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beanie_bubble_2023",
+  "title": "The Beanie Bubble",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111962565",
+    "imdb": "tt17007120",
+    "tmdb": 926008
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

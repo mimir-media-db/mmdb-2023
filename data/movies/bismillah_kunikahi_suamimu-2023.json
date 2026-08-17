@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bismillah_kunikahi_suamimu_2023",
+  "title": "Bismillah Kunikahi Suamimu",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117475670",
+    "imdb": "tt19844972",
+    "tmdb": 1052860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-23",
+  "runtime_minutes": 110
+}
