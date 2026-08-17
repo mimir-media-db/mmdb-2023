@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_100_seasons_2023",
+  "title": "100 Seasons",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123594901",
+    "imdb": "tt23729790",
+    "tmdb": 1063466
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-30",
+  "runtime_minutes": 101
+}
