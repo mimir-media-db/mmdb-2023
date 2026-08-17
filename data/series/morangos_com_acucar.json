@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_morangos_com_acucar",
+  "title": "Morangos com Açúcar",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120776559",
+    "imdb": "tt26744806",
+    "tmdb": 234520
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 60
+}

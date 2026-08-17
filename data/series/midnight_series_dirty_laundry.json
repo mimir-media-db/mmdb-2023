@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_series_dirty_laundry",
+  "title": "Midnight Series: Dirty Laundry",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116311223",
+    "imdb": "tt16429244",
+    "tmdb": 218127
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

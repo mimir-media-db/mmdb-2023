@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_muppets_mayhem",
+  "title": "The Muppets Mayhem",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111944399",
+    "imdb": "tt18545980",
+    "tmdb": 194573
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}
