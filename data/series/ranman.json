@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_ranman",
+  "title": "Ranman",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111948446",
+    "imdb": "tt21351740",
+    "tmdb": 222365
+  },
+  "last_updated": "2026-08-17"
+}

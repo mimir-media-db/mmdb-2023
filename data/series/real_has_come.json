@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_real_has_come",
+  "title": "The Real Has Come!",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116687949",
+    "imdb": "tt26684155",
+    "tmdb": 214422
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 50
+}

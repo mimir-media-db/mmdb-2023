@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rig",
+  "title": "The Rig",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108617654",
+    "imdb": "tt14273790",
+    "tmdb": 112581
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}
