@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vermeer_the_greatest_exhibition_2023",
+  "title": "Vermeer: The Greatest Exhibition",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122731503",
+    "imdb": "tt27237290",
+    "tmdb": 1035090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-16",
+  "runtime_minutes": 90
+}

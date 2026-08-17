@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vibrations_from_gaza_2023",
+  "title": "Vibrations from Gaza",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130646745",
+    "imdb": "tt33322029",
+    "tmdb": 1202083
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 16
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vika_2023",
+  "title": "Vika!",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131460051",
+    "imdb": "tt27773947",
+    "tmdb": 1115708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 77
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_voyage_au_pole_sud_2023",
+  "title": "Voyage au pôle sud",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124339155"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-20",
+  "runtime_minutes": 83
+}

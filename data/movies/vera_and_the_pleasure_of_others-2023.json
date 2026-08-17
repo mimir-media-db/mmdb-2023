@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vera_and_the_pleasure_of_others_2023",
+  "title": "Vera and the Pleasure of Others",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131841871",
+    "imdb": "tt26733463",
+    "tmdb": 1086548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vimanam_2023",
+  "title": "Vimanam",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119101745",
+    "imdb": "tt26743568",
+    "tmdb": 1114702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-09"
+}

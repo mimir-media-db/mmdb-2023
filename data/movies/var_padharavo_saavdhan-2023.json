@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_var_padharavo_saavdhan_2023",
+  "title": "Var Padharavo Saavdhan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119444971",
+    "imdb": "tt27648380",
+    "tmdb": 1150566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07",
+  "runtime_minutes": 120
+}

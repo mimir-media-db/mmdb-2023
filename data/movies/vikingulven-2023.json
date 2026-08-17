@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vikingulven_2023",
+  "title": "Vikingulven",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107497190",
+    "imdb": "tt13051810",
+    "tmdb": 788752
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-03",
+  "runtime_minutes": 97
+}
