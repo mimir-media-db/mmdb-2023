@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_oktopus",
+  "title": "Oktopus",
+  "start_year": 2023,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q116998490",
+    "imdb": "tt28784156",
+    "tmdb": 233329
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

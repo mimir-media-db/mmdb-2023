@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_on_all_fours",
+  "title": "On All Fours",
+  "start_year": 2023,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q117337397",
+    "imdb": "tt26762879",
+    "tmdb": 224184
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

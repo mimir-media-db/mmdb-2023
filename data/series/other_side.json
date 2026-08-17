@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_other_side",
+  "title": "The Other Side",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123682749",
+    "imdb": "tt23739418",
+    "tmdb": 230585
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

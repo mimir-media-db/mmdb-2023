@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_onmyoji",
+  "title": "Onmyoji",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123581510",
+    "imdb": "tt22264252",
+    "tmdb": 210946
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}
