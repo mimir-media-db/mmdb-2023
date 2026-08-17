@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lockwood_co",
+  "title": "Lockwood & Co",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110124169",
+    "imdb": "tt13802576",
+    "tmdb": 213241
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_love_island_games",
+  "title": "Love Island Games",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122973649",
+    "imdb": "tt29380987",
+    "tmdb": 233816
+  },
+  "last_updated": "2026-08-17"
+}

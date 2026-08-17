@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_lessons_in_chemistry",
+  "title": "Lessons in Chemistry",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113630126",
+    "imdb": "tt13911628",
+    "tmdb": 117303
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_loteria_loca",
+  "title": "Lotería Loca",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122925773",
+    "imdb": "tt27675485",
+    "tmdb": 235731
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

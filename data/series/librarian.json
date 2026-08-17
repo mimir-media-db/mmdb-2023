@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_librarian",
+  "title": "The Librarian",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117705926",
+    "imdb": "tt27170405",
+    "tmdb": 222648
+  },
+  "last_updated": "2026-08-17"
+}

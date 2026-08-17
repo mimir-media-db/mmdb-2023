@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_left_on_read",
+  "title": "Left On Read",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114368405",
+    "imdb": "tt29313307",
+    "tmdb": 233589
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 15
+}

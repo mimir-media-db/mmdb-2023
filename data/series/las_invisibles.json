@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_las_invisibles",
+  "title": "Las invisibles",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119742982",
+    "imdb": "tt13540788",
+    "tmdb": 226994
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

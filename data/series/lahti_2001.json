@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lahti_2001",
+  "title": "Lahti 2001",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116729817",
+    "imdb": "tt29731648",
+    "tmdb": 238814
+  },
+  "last_updated": "2026-08-17"
+}

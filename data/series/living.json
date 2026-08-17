@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_living",
+  "title": "Living",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122901366",
+    "imdb": "tt28994460",
+    "tmdb": 221847
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}
