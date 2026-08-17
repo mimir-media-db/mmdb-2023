@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_south_wind_knows_my_mood",
+  "title": "South Wind Knows My Mood",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q108680820",
+    "imdb": "tt17512670",
+    "tmdb": 131614
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 39
+}

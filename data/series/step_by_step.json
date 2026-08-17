@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_step_by_step",
+  "title": "Step by Step",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119518772",
+    "imdb": "tt27847048",
+    "tmdb": 212289
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

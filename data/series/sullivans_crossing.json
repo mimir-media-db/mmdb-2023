@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sullivans_crossing",
+  "title": "Sullivan's Crossing",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117471709",
+    "imdb": "tt21064598",
+    "tmdb": 211564
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

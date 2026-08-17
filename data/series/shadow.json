@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shadow",
+  "title": "The Shadow",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117430312",
+    "imdb": "tt27835798",
+    "tmdb": 227813
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

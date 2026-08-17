@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_smile_general",
+  "title": "Smile, General",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117280851",
+    "imdb": "tt27385024",
+    "tmdb": 222191
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 30
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_snoopy_et_la_bande_des_peanuts",
+  "title": "Snoopy et la bande des Peanuts",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q134997616"
+  },
+  "last_updated": "2026-08-17"
+}

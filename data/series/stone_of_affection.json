@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_stone_of_affection",
+  "title": "The Stone of Affection",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124798099",
+    "imdb": "tt21374802",
+    "tmdb": 220879
+  },
+  "last_updated": "2026-08-17"
+}

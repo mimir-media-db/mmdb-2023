@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_social_currency",
+  "title": "Social Currency",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121494335",
+    "imdb": "tt14173900",
+    "tmdb": 227859
+  },
+  "last_updated": "2026-08-17"
+}

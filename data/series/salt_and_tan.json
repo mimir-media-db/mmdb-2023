@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_salt_and_tan",
+  "title": "Salt and Tan",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117864706",
+    "imdb": "tt27615333",
+    "tmdb": 225405
+  },
+  "last_updated": "2026-08-17"
+}

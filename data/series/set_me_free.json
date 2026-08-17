@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_set_me_free",
+  "title": "Set Me Free",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117717208",
+    "imdb": "tt22030306",
+    "tmdb": 220611
+  },
+  "last_updated": "2026-08-17"
+}

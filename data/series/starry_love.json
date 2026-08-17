@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_starry_love",
+  "title": "The Starry Love",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116783419",
+    "imdb": "tt23056522",
+    "tmdb": 196157
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}
