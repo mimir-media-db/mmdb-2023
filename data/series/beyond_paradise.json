@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beyond_paradise",
+  "title": "Beyond Paradise",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116864342",
+    "imdb": "tt21161156",
+    "tmdb": 205072
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 13
+}

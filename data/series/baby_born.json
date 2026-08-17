@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_baby_born",
+  "title": "BABY born",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q128789883",
+    "imdb": "tt29232751",
+    "tmdb": 283082
+  },
+  "last_updated": "2026-08-17"
+}

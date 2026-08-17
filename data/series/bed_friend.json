@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bed_friend",
+  "title": "Bed Friend",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117721511",
+    "imdb": "tt27040867",
+    "tmdb": 217735
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

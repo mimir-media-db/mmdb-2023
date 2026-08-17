@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_bake_me_please",
+  "title": "Bake Me Please",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123413647",
+    "imdb": "tt30689360",
+    "tmdb": 237530
+  },
+  "last_updated": "2026-08-17"
+}

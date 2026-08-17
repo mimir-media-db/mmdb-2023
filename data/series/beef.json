@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beef",
+  "title": "Beef",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q112168983",
+    "imdb": "tt14403178",
+    "tmdb": 154385
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

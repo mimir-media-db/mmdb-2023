@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_barbie_a_touch_of_magic",
+  "title": "Barbie: A Touch of Magic",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q121307719",
+    "imdb": "tt28692268",
+    "tmdb": 233064
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

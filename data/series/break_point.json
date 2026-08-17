@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_break_point",
+  "title": "Break Point",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116203676",
+    "imdb": "tt17048442",
+    "tmdb": 216386
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_bla_bla_bla_met_schaap",
+  "title": "Bla Bla Bla met Schaap",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121009223"
+  },
+  "last_updated": "2026-08-17"
+}

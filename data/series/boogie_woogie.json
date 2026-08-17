@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_boogie_woogie",
+  "title": "Boogie Woogie",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116676955",
+    "tmdb": 233371
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_big_weekend_show",
+  "title": "The Big Weekend Show",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q112166610",
+    "imdb": "tt14721404"
+  },
+  "last_updated": "2026-08-17"
+}
