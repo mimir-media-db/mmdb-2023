@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_journey_of_love_18_2023",
+  "title": "Journey of Love 18+",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120472506",
+    "imdb": "tt26733205",
+    "tmdb": 1076497
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-07",
+  "runtime_minutes": 122
+}

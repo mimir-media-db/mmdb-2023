@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jeder_schreibt_fur_sich_allein_2023",
+  "title": "Jeder schreibt für sich allein",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120307879",
+    "imdb": "tt28236125",
+    "tmdb": 1079233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-18",
+  "runtime_minutes": 167
+}

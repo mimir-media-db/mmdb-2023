@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joel_d_wynkoops_187_times_the_movie_2023",
+  "title": "Joel D. Wynkoop's 187 Times the Movie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140453337",
+    "imdb": "tt26761886",
+    "tmdb": 1270790
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jatuh_cinta_seperti_di_filmfilm_2023",
+  "title": "Jatuh Cinta Seperti di Film-Film",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123686482",
+    "imdb": "tt26903085",
+    "tmdb": 1074313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-30"
+}

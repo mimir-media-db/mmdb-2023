@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_julias_2023",
+  "title": "Julia(s)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106645470",
+    "imdb": "tt13729364",
+    "tmdb": 892530
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-27"
+}

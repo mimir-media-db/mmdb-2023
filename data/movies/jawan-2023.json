@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jawan_2023",
+  "title": "Jawan",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113493289",
+    "imdb": "tt15354916",
+    "tmdb": 872906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-07",
+  "runtime_minutes": 167
+}

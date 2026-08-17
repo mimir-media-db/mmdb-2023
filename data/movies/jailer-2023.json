@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jailer_2023",
+  "title": "Jailer",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113625011",
+    "imdb": "tt11663228",
+    "tmdb": 937020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-08-10",
+  "runtime_minutes": 164
+}
