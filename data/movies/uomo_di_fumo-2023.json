@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uomo_di_fumo_2023",
+  "title": "Uomo di fumo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123630948",
+    "imdb": "tt15214322",
+    "tmdb": 1109154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

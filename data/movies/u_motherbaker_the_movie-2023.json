@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_u_motherbaker_the_movie_2023",
+  "title": "U Motherbaker - The Movie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135054289",
+    "imdb": "tt24354288",
+    "tmdb": 1027867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-13"
+}

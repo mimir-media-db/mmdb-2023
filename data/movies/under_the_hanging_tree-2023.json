@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_hanging_tree_2023",
+  "title": "Under the Hanging Tree",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123375855",
+    "imdb": "tt8789594",
+    "tmdb": 1006701
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

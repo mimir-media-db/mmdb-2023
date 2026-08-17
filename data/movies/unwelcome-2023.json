@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unwelcome_2023",
+  "title": "Unwelcome",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114232000",
+    "imdb": "tt12447796",
+    "tmdb": 758769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-27",
+  "runtime_minutes": 104
+}

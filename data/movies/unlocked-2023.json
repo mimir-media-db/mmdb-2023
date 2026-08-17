@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_unlocked_2023",
+  "title": "Unlocked",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116178439",
+    "imdb": "tt26160190",
+    "tmdb": 740441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-17",
+  "runtime_minutes": 117
+}

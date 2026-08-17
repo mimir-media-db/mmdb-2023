@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_umamino_tabi_2023",
+  "title": "Umami-no Tabi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83373333",
+    "imdb": "tt6993614",
+    "tmdb": 788030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-17",
+  "runtime_minutes": 92
+}

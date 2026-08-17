@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_flor_en_el_barro_2023",
+  "title": "Una flor en el barro",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123499803",
+    "imdb": "tt29230643",
+    "tmdb": 1184894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-28",
+  "runtime_minutes": 103
+}

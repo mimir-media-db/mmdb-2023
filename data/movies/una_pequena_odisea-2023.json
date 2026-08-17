@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_una_pequena_odisea_2023",
+  "title": "Una pequeña Odisea",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130297574",
+    "tmdb": 1194979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}
