@@ -6623,6 +6623,13 @@
     "path": "data/movies/dark_land_ii-2023.json"
   },
   {
+    "id": "m_dark_mother_2023",
+    "title": "The Dark Mother",
+    "year": 2023,
+    "type": "movie",
+    "path": "data/movies/dark_mother-2023.json"
+  },
+  {
     "id": "m_dark_october_2023",
     "title": "Dark October",
     "year": 2023,
@@ -14763,6 +14770,13 @@
     "path": "data/movies/justicia_para_alan-2023.json"
   },
   {
+    "id": "m_kaadapura_kalaikuzhu_2023",
+    "title": "Kaadapura Kalaikuzhu",
+    "year": 2023,
+    "type": "movie",
+    "path": "data/movies/kaadapura_kalaikuzhu-2023.json"
+  },
+  {
     "id": "m_kaasina_sara_2023",
     "title": "Kaasina Sara",
     "year": 2023,
@@ -19156,6 +19170,14 @@
     "year": 2023,
     "type": "movie",
     "path": "data/movies/maya_petika-2023.json"
+  },
+  {
+    "id": "m_mayaa_2023",
+    "title": "Mayaa",
+    "year": 2023,
+    "type": "movie",
+    "runtime_minutes": 172,
+    "path": "data/movies/mayaa-2023.json"
   },
   {
     "id": "m_mayalo_2023",
