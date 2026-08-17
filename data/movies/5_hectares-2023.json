@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_hectares_2023",
+  "title": "5 Hectares",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123735551",
+    "imdb": "tt21150490",
+    "tmdb": 989502
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-27",
+  "runtime_minutes": 94
+}

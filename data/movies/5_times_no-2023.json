@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_5_times_no_2023",
+  "title": "5 Times No",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136126353",
+    "imdb": "tt30146752",
+    "tmdb": 1213327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-13",
+  "runtime_minutes": 105
+}
