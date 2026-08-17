@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lamar_odom_reborn_2023",
+  "title": "Lamar Odom: Reborn",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130267969",
+    "imdb": "tt9169540",
+    "tmdb": 1236230
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 51
+}

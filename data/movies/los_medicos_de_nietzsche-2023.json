@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_medicos_de_nietzsche_2023",
+  "title": "Los médicos de Nietzsche",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474507",
+    "imdb": "tt27505308",
+    "tmdb": 1110726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_le_noel_de_peppa_pig_2023",
+  "title": "Le Noël de Peppa Pig",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123557054"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-29",
+  "runtime_minutes": 53
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lars_eidinger_to_be_or_not_to_be_2023",
+  "title": "Lars Eidinger - To Be Or Not To Be",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116790468",
+    "imdb": "tt22046126",
+    "tmdb": 1024212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-23",
+  "runtime_minutes": 92
+}

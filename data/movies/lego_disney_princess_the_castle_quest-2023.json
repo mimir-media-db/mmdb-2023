@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lego_disney_princess_the_castle_quest_2023",
+  "title": "Lego Disney Princess: The Castle Quest",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121842065",
+    "imdb": "tt28477869",
+    "tmdb": 1153222
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

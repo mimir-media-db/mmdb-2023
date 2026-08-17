@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_at_first_sight_2023",
+  "title": "Love at First Sight",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105095346",
+    "imdb": "tt2183014",
+    "tmdb": 353577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-15",
+  "runtime_minutes": 91
+}

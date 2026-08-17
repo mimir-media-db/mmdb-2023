@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_get_lost_2023",
+  "title": "Let's Get Lost",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117310547",
+    "imdb": "tt13498230",
+    "tmdb": 958988
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 103
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_mermaid_2023",
+  "title": "The Little Mermaid",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24357415",
+    "imdb": "tt5971474",
+    "tmdb": 447277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-19",
+  "runtime_minutes": 135
+}

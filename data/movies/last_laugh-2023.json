@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_laugh_2023",
+  "title": "The Last Laugh",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121095209",
+    "imdb": "tt13559964",
+    "tmdb": 1151629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

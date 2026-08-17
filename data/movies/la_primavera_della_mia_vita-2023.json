@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_primavera_della_mia_vita_2023",
+  "title": "La primavera della mia vita",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116766135",
+    "imdb": "tt26250854",
+    "tmdb": 1074211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 95
+}

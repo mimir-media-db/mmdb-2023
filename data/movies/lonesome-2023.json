@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lonesome_2023",
+  "title": "Lonesome",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112031294",
+    "imdb": "tt15258032",
+    "tmdb": 933170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-19",
+  "runtime_minutes": 99
+}

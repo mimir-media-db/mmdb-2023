@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_church_that_could_2023",
+  "title": "The Little Church That Could",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123352023",
+    "imdb": "tt19797918",
+    "tmdb": 1036425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-01",
+  "runtime_minutes": 13
+}

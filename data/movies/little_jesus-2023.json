@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_jesus_2023",
+  "title": "Little Jesus",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119703904",
+    "imdb": "tt27712001",
+    "tmdb": 966087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-01",
+  "runtime_minutes": 95
+}

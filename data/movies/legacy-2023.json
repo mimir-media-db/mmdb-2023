@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_legacy_2023",
+  "title": "Legacy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120667348",
+    "imdb": "tt27868183",
+    "tmdb": 1135511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 68
+}

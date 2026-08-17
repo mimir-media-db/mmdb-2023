@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_loli_tormenta_2023",
+  "title": "Loli Tormenta",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116692804",
+    "imdb": "tt10602234",
+    "tmdb": 1077399
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-31"
+}

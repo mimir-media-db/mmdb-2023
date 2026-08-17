@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_quattordicesima_domenica_del_tempo_ordinario_2023",
+  "title": "La quattordicesima domenica del tempo ordinario",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118188969",
+    "imdb": "tt26736888",
+    "tmdb": 1109148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lakiro_2023",
+  "title": "Lakiro",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115805197",
+    "imdb": "tt15522950",
+    "tmdb": 1066773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-06"
+}

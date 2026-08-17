@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_without_walls_2023",
+  "title": "Love Without Walls",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117037918",
+    "imdb": "tt13224758",
+    "tmdb": 1080509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 112
+}

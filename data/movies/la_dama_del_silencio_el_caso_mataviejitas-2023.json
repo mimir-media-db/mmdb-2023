@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_dama_del_silencio_el_caso_mataviejitas_2023",
+  "title": "La dama del silencio: El caso Mataviejitas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130262382",
+    "imdb": "tt27640680",
+    "tmdb": 1142216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 111
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_processus_de_paix_2023",
+  "title": "Le Processus de paix",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118524424",
+    "imdb": "tt13774506",
+    "tmdb": 1030462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-07",
+  "runtime_minutes": 92
+}

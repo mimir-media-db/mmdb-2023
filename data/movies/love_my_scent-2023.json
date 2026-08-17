@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_my_scent_2023",
+  "title": "Love My Scent",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116311978",
+    "imdb": "tt26456629",
+    "tmdb": 1073274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-08"
+}

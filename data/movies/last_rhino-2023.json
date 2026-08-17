@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_rhino_2023",
+  "title": "The last rhino",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120549313",
+    "imdb": "tt28336703",
+    "tmdb": 1150690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 19
+}

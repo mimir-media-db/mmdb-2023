@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_liminal_2023",
+  "title": "Liminal",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125506686",
+    "imdb": "tt28449649",
+    "tmdb": 1275150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-18"
+}

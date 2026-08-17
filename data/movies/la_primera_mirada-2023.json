@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_primera_mirada_2023",
+  "title": "La primera mirada",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135789059",
+    "imdb": "tt32897831",
+    "tmdb": 1177858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 74
+}

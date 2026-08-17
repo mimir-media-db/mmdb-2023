@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_long_d_2023",
+  "title": "Long D",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117793919",
+    "tmdb": 840612
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-10"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_bilbao_2023",
+  "title": "Los Bilbao",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474489",
+    "imdb": "tt9881942",
+    "tmdb": 898282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 73
+}

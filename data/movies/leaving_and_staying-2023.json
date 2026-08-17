@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leaving_and_staying_2023",
+  "title": "Leaving and Staying",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119141130",
+    "imdb": "tt26345019",
+    "tmdb": 1074755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-20",
+  "runtime_minutes": 168
+}

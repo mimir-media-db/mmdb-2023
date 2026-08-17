@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_colosse_aux_pieds_dargile_2023",
+  "title": "Le colosse aux pieds d'argile",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118187399",
+    "imdb": "tt15548866",
+    "tmdb": 1006925
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-04"
+}

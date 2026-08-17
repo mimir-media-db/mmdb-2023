@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lies_we_tell_2023",
+  "title": "Lies We Tell",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122958024",
+    "imdb": "tt10406410",
+    "tmdb": 1154265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

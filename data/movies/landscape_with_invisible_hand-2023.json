@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_landscape_with_invisible_hand_2023",
+  "title": "Landscape with Invisible Hand",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111671358",
+    "imdb": "tt7645334",
+    "tmdb": 777411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 105
+}

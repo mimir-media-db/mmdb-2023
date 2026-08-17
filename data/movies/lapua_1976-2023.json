@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lapua_1976_2023",
+  "title": "Lapua 1976",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116867902",
+    "imdb": "tt16092020",
+    "tmdb": 1068427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-01",
+  "runtime_minutes": 113
+}

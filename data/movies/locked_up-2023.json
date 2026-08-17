@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_locked_up_2023",
+  "title": "Locked Up",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124800255",
+    "tmdb": 1178074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-14",
+  "runtime_minutes": 95
+}

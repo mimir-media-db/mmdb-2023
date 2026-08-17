@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_license_2023",
+  "title": "License",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123363081",
+    "imdb": "tt27880319",
+    "tmdb": 1198516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-03"
+}

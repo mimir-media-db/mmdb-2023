@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_extorsion_2023",
+  "title": "La extorsión",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117321439",
+    "imdb": "tt14803538",
+    "tmdb": 931935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-04-06",
+  "runtime_minutes": 105
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_los_terrenos_2023",
+  "title": "Los Terrenos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474511",
+    "imdb": "tt27724317",
+    "tmdb": 1110167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

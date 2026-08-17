@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_wife_2023",
+  "title": "The Last Wife",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122966455",
+    "imdb": "tt29686547",
+    "tmdb": 1099580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-03"
+}

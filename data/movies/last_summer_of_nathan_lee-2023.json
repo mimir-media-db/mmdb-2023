@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_summer_of_nathan_lee_2023",
+  "title": "Last Summer of Nathan Lee",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131279232",
+    "imdb": "tt14016562",
+    "tmdb": 1089827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 92
+}

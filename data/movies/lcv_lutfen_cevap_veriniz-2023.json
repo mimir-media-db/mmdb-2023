@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lcv_lutfen_cevap_veriniz_2023",
+  "title": "LCV (Lütfen Cevap Veriniz)",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120966834",
+    "imdb": "tt14780214",
+    "tmdb": 1019297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_bastardos_2023",
+  "title": "Los bastardos",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121633113",
+    "imdb": "tt16315846",
+    "tmdb": 848730
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-30",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vida_a_oscuras_2023",
+  "title": "La vida a oscuras",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117474484",
+    "imdb": "tt26545300",
+    "tmdb": 1110671
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 73
+}
