@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abnormal_desire_2023",
+  "title": "(Ab)normal Desire",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116543259",
+    "imdb": "tt26593385",
+    "tmdb": 1025444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-10"
+}

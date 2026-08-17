@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_the_fire_2023",
+  "title": "After the Fire",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123182618",
+    "imdb": "tt25763646",
+    "tmdb": 1001706
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-11",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_albanian_virgin_2023",
+  "title": "The Albanian Virgin",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123992752",
+    "imdb": "tt13269604",
+    "tmdb": 876914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-09",
+  "runtime_minutes": 121
+}

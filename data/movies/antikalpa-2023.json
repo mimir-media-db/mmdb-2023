@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_antikalpa_2023",
+  "title": "Antikalpa",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123354406",
+    "imdb": "tt20247796",
+    "tmdb": 977209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

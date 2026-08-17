@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adagium_2023",
+  "title": "Adagium",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122508934",
+    "imdb": "tt22743310",
+    "tmdb": 1052463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26"
+}

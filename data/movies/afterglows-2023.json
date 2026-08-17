@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_afterglows_2023",
+  "title": "Afterglows",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122902871",
+    "imdb": "tt14036206",
+    "tmdb": 885603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-23",
+  "runtime_minutes": 120
+}

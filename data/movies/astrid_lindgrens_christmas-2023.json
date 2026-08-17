@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astrid_lindgrens_christmas_2023",
+  "title": "Astrid Lindgren's Christmas",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119487943",
+    "imdb": "tt22148456",
+    "tmdb": 1212199
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-24",
+  "runtime_minutes": 60
+}

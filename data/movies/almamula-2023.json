@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_almamula_2023",
+  "title": "Almamula",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116835764",
+    "imdb": "tt11488252",
+    "tmdb": 1076142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 94
+}

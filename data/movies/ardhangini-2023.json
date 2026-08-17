@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ardhangini_2023",
+  "title": "Ardhangini",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119141008",
+    "imdb": "tt12527002",
+    "tmdb": 716373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-02",
+  "runtime_minutes": 135
+}

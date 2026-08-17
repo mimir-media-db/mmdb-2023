@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_anur_2023",
+  "title": "Anur",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123668741",
+    "imdb": "tt22696258",
+    "tmdb": 1039062
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-27",
+  "runtime_minutes": 162
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_all_clowns_are_bastards_2023",
+  "title": "All Clowns Are Bastards",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131317760",
+    "imdb": "tt10913972",
+    "tmdb": 1006979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adolfo_2023",
+  "title": "Adolfo",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115869445",
+    "imdb": "tt16907536",
+    "tmdb": 1061636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 69
+}

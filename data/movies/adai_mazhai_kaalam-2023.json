@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adai_mazhai_kaalam_2023",
+  "title": "Adai Mazhai Kaalam",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119789465",
+    "imdb": "tt26542144",
+    "tmdb": 1057030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-26"
+}

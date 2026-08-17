@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_across_2023",
+  "title": "Across",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122889770",
+    "imdb": "tt28635842",
+    "tmdb": 1157722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

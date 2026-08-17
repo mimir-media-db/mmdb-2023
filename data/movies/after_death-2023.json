@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_death_2023",
+  "title": "After Death",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123039365",
+    "imdb": "tt21191906",
+    "tmdb": 1162322
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-27",
+  "runtime_minutes": 108
+}

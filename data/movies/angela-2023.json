@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_angela_2023",
+  "title": "Angela",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121161339",
+    "imdb": "tt28118695",
+    "tmdb": 1147964
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 104
+}

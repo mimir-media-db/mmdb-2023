@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_the_beauty_and_the_bloodshed_2023",
+  "title": "All the Beauty and the Bloodshed",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113445202",
+    "imdb": "tt21374850",
+    "tmdb": 1004663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-03-15",
+  "runtime_minutes": 122
+}

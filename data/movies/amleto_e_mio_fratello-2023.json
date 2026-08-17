@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amleto_e_mio_fratello_2023",
+  "title": "Amleto è mio fratello",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136813837",
+    "imdb": "tt27236572",
+    "tmdb": 1172088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 88
+}

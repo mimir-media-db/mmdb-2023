@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_kingdom_2023",
+  "title": "The Animal Kingdom",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117748633",
+    "imdb": "tt16606592",
+    "tmdb": 943134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-17",
+  "runtime_minutes": 127
+}

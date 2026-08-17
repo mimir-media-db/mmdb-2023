@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_annapurna_2023",
+  "title": "Annapurna",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130598060",
+    "imdb": "tt28077346",
+    "tmdb": 1099948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-06-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assault_on_hill_400_2023",
+  "title": "Assault on Hill 400",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741445",
+    "imdb": "tt26920957",
+    "tmdb": 1126136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 87
+}

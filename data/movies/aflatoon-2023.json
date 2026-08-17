@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aflatoon_2023",
+  "title": "Aflatoon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120692714",
+    "imdb": "tt28232127",
+    "tmdb": 1156120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-07-21"
+}

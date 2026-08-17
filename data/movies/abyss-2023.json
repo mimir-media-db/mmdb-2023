@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_abyss_2023",
+  "title": "The Abyss",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116147037",
+    "imdb": "tt22016156",
+    "tmdb": 1053544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-15"
+}

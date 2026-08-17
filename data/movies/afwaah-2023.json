@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_afwaah_2023",
+  "title": "Afwaah",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114151707",
+    "imdb": "tt15832148",
+    "tmdb": 939423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-05"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_astronaut_2023",
+  "title": "The Astronaut",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116210237",
+    "imdb": "tt14313434",
+    "tmdb": 881693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-15",
+  "runtime_minutes": 110
+}

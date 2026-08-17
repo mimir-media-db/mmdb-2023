@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_accident_or_conspiracy_godhra_2023",
+  "title": "Accident or conspiracy : Godhra",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q119362769",
+    "imdb": "tt27866501",
+    "tmdb": 1223371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

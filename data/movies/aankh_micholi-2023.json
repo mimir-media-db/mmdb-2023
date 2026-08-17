@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aankh_micholi_2023",
+  "title": "Aankh Micholi",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85739358",
+    "imdb": "tt11433822",
+    "tmdb": 679031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-27"
+}

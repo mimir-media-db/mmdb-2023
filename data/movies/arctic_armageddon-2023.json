@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arctic_armageddon_2023",
+  "title": "Arctic Armageddon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130315230",
+    "imdb": "tt29259841",
+    "tmdb": 1217300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}
