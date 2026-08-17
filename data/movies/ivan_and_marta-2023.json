@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivan_and_marta_2023",
+  "title": "Ivan and Marta",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575997",
+    "imdb": "tt27843756",
+    "tmdb": 1131014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-11-02",
+  "runtime_minutes": 75
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_limoni_dinverno_2023",
+  "title": "I limoni d'inverno",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123668315",
+    "imdb": "tt26903181",
+    "tmdb": 1066575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 110
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_influence_vanna_bardot_2023",
+  "title": "Influence: Vanna Bardot",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125591405",
+    "imdb": "tt29520019",
+    "tmdb": 1177705
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-09-25",
+  "runtime_minutes": 248
+}

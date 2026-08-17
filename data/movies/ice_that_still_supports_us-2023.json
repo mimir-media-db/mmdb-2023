@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ice_that_still_supports_us_2023",
+  "title": "The Ice That Still Supports Us",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124289841",
+    "imdb": "tt29274134",
+    "tmdb": 1144824
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 63
+}

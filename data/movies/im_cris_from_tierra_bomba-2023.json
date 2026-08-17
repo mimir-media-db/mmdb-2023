@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_im_cris_from_tierra_bomba_2023",
+  "title": "I'm Cris from Tierra Bomba",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123334896",
+    "imdb": "tt12039254",
+    "tmdb": 1039736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 90
+}

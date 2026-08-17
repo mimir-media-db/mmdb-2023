@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ib71_2023",
+  "title": "IB71",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117870761",
+    "imdb": "tt15073166",
+    "tmdb": 1114114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-12"
+}

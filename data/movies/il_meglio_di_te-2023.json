@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_meglio_di_te_2023",
+  "title": "Il meglio di te",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123471552",
+    "imdb": "tt26902740",
+    "tmdb": 1194348
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 96
+}

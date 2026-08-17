@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invasie_2023",
+  "title": "Invasie",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112180367",
+    "imdb": "tt21265054",
+    "tmdb": 991610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 91
+}

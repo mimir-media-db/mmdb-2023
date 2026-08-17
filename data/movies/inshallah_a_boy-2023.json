@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inshallah_a_boy_2023",
+  "title": "Inshallah a Boy",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122874858",
+    "imdb": "tt25406412",
+    "tmdb": 1069185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-05-18",
+  "runtime_minutes": 113
+}

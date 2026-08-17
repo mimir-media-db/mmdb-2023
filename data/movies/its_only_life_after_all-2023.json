@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_its_only_life_after_all_2023",
+  "title": "It's Only Life After All",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116692777",
+    "imdb": "tt12716222",
+    "tmdb": 1045465
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01"
+}

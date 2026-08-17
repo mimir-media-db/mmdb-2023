@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_image_2023",
+  "title": "Into the Image",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122208367",
+    "imdb": "tt28780105",
+    "tmdb": 1176903
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 93
+}

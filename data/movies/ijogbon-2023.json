@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ijogbon_2023",
+  "title": "Ijogbon",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122890813",
+    "imdb": "tt29168830",
+    "tmdb": 1179061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-10-13",
+  "runtime_minutes": 115
+}

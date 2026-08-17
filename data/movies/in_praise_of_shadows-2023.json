@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_praise_of_shadows_2023",
+  "title": "In Praise of Shadows",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123260242",
+    "imdb": "tt31169911",
+    "tmdb": 1189308
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-01-01",
+  "runtime_minutes": 86
+}

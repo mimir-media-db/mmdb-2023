@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ichiban_aitaihito_2023",
+  "title": "Ichiban aitaihito",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120333115",
+    "imdb": "tt15808098",
+    "tmdb": 1033910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_blind_spot_2023",
+  "title": "In the Blind Spot",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116745757",
+    "imdb": "tt26448958",
+    "tmdb": 1077676
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-02-19",
+  "runtime_minutes": 118
+}

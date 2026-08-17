@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ichiko_2023",
+  "title": "Ichiko",
+  "year": 2023,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124482903",
+    "imdb": "tt28803581",
+    "tmdb": 1171548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2023-12-08"
+}
