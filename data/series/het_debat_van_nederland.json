@@ -11,5 +11,6 @@
   "genres": [
     "leaders' debate"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": []
 }

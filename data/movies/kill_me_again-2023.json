@@ -14,5 +14,8 @@
     "speculative fiction film",
     "black comedy film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

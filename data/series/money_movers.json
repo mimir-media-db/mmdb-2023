@@ -12,5 +12,8 @@
     "news program",
     "business"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
 }

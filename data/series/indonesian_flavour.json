@@ -12,5 +12,8 @@
     "educational entertainment",
     "cooking show"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
 }

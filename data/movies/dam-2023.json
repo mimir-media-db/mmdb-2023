@@ -16,5 +16,11 @@
     "Drama",
     "Mystery"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "FR",
+    "RS",
+    "SD"
+  ]
 }

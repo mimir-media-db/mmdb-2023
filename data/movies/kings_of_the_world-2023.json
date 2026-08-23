@@ -16,5 +16,12 @@
     "Adventure",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CO",
+    "FR",
+    "LU",
+    "MX",
+    "NO"
+  ]
 }

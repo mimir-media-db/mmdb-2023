@@ -14,5 +14,8 @@
     "Comedy",
     "Talk-Show"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
 }

@@ -15,5 +15,10 @@
     "Comedy",
     "Crime"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "BR",
+    "CL"
+  ]
 }
