@@ -9,7 +9,13 @@
     "imdb": "tt27726927",
     "tmdb": 1134865
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-07-05",
-  "runtime_minutes": 92
+  "runtime_minutes": 92,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

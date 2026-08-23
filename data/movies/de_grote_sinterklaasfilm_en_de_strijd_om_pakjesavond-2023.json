@@ -9,6 +9,10 @@
     "imdb": "tt29311008",
     "tmdb": 1175274
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-01-01",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false
 }

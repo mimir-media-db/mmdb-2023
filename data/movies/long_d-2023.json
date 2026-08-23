@@ -8,6 +8,12 @@
     "wikidata": "Q117793919",
     "tmdb": 840612
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-05-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-05-10",
+  "genres": [
+    "Comedy",
+    "Spy",
+    "screenlife"
+  ],
+  "is_adult": false
 }

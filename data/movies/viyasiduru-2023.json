@@ -8,7 +8,13 @@
     "wikidata": "Q119268540",
     "imdb": "tt9364528"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-03-23",
-  "runtime_minutes": 90
+  "runtime_minutes": 90,
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false
 }

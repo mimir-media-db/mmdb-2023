@@ -7,6 +7,11 @@
   "external_ids": {
     "wikidata": "Q126500606"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-01-01",
+  "genres": [
+    "Fantasy",
+    "Action"
+  ],
+  "is_adult": false
 }

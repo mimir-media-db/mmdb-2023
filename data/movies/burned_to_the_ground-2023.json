@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q120801410"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-06-08",
-  "runtime_minutes": 16
+  "runtime_minutes": 16,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false
 }

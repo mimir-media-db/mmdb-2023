@@ -7,6 +7,12 @@
   "external_ids": {
     "wikidata": "Q134237702"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-03-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-03-10",
+  "genres": [
+    "Action",
+    "teen film",
+    "dance film"
+  ],
+  "is_adult": false
 }

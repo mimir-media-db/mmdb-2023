@@ -8,7 +8,11 @@
     "wikidata": "Q139552024",
     "imdb": "tt30743713"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-06-20",
-  "runtime_minutes": 3
+  "runtime_minutes": 3,
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false
 }

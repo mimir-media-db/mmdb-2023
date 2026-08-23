@@ -9,5 +9,9 @@
     "imdb": "tt27584368",
     "tmdb": 219899
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false
 }

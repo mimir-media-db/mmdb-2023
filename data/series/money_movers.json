@@ -7,5 +7,10 @@
   "external_ids": {
     "wikidata": "Q19818681"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program",
+    "business"
+  ],
+  "is_adult": false
 }

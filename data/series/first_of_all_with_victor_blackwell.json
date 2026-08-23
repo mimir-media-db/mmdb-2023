@@ -9,5 +9,9 @@
     "imdb": "tt31023610",
     "tmdb": 238805
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,10 @@
     "wikidata": "Q116671739",
     "imdb": "tt14558034"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 64
+  "last_updated": "2026-08-23",
+  "total_episodes": 64,
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false
 }

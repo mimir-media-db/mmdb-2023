@@ -7,7 +7,14 @@
   "external_ids": {
     "wikidata": "Q113416916"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 34
+  "total_episodes": 34,
+  "genres": [
+    "reality television",
+    "game show",
+    "reality show",
+    "singing talent show"
+  ],
+  "is_adult": false
 }

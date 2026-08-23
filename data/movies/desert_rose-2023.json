@@ -8,7 +8,13 @@
     "wikidata": "Q124218663",
     "imdb": "tt29274642"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-01-01",
-  "runtime_minutes": 28
+  "runtime_minutes": 28,
+  "genres": [
+    "Drama",
+    "Short",
+    "War"
+  ],
+  "is_adult": false
 }

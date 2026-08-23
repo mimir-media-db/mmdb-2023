@@ -9,7 +9,14 @@
     "imdb": "tt29855759",
     "tmdb": 233090
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 132
+  "total_episodes": 132,
+  "genres": [
+    "soap opera",
+    "melodrama",
+    "romance television series",
+    "revenge series"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt28495752",
     "tmdb": 1154609
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-07-21",
-  "runtime_minutes": 87
+  "runtime_minutes": 87,
+  "genres": [
+    "Action",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

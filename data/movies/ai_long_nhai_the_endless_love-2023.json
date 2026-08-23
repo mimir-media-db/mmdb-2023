@@ -8,7 +8,11 @@
     "wikidata": "Q117304765",
     "tmdb": 1087281
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-01-30",
-  "runtime_minutes": 128
+  "runtime_minutes": 128,
+  "genres": [
+    "LGBT-related television series"
+  ],
+  "is_adult": false
 }

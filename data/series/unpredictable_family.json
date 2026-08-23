@@ -8,7 +8,13 @@
     "wikidata": "Q121734604",
     "tmdb": 230525
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 131
+  "total_episodes": 131,
+  "genres": [
+    "melodrama",
+    "romantic drama",
+    "family drama"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,8 @@
     "imdb": "tt38282055",
     "tmdb": 1212497
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-07-15",
-  "runtime_minutes": 80
+  "runtime_minutes": 80,
+  "is_adult": false
 }

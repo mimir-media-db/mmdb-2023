@@ -8,6 +8,10 @@
     "wikidata": "Q123476487",
     "imdb": "tt29803178"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-11-17"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-11-17",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false
 }

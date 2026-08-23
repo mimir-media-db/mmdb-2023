@@ -9,7 +9,13 @@
     "imdb": "tt11873472",
     "tmdb": 671109
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-05-10",
-  "runtime_minutes": 105
+  "runtime_minutes": 105,
+  "genres": [
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "is_adult": false
 }
