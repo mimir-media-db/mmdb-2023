@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_great_american_joke_off_2023",
+  "title": "The Great American Joke Off",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117336614",
+    "imdb": "tt26443401",
+    "tmdb": 223622
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

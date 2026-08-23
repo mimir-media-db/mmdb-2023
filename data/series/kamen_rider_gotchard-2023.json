@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kamen_rider_gotchard_2023",
+  "title": "Kamen Rider Gotchard",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118592563",
+    "imdb": "tt27830205",
+    "tmdb": 262128
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 50,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

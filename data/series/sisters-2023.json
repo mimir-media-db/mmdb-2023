@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sisters_2023",
+  "title": "Sisters",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117715560",
+    "imdb": "tt20887486",
+    "tmdb": 223572
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "IE"
+  ]
+}

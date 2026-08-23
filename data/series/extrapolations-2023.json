@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_extrapolations_2023",
+  "title": "Extrapolations",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109285270",
+    "imdb": "tt13821126",
+    "tmdb": 138169
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

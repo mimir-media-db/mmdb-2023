@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_papa_en_apuros_2023",
+  "title": "Papá en apuros",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123178484",
+    "imdb": "tt30324239",
+    "tmdb": 238291
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

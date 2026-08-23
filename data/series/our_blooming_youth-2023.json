@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_our_blooming_youth_2023",
+  "title": "Our Blooming Youth",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115877118",
+    "imdb": "tt25900250",
+    "tmdb": 154889
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

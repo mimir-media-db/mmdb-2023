@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ultimatum_queer_love_2023",
+  "title": "The Ultimatum: Queer Love",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122149148",
+    "imdb": "tt22326484",
+    "tmdb": 224710
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

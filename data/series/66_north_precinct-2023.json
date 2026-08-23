@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_66_north_precinct_2023",
+  "title": "66 North Precinct",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117061507",
+    "imdb": "tt15264146",
+    "tmdb": 222011
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

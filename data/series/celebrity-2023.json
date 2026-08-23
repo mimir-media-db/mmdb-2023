@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_2023",
+  "title": "Celebrity",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114566119",
+    "imdb": "tt26315488",
+    "tmdb": 131305
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

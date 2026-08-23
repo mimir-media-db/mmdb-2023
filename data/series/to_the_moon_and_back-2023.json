@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_to_the_moon_and_back_2023",
+  "title": "To the Moon and Back",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122628843"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "LGBTQ-related film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

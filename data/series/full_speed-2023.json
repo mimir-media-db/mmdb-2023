@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_full_speed_2023",
+  "title": "Full Speed",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123579540",
+    "imdb": "tt31317608",
+    "tmdb": 240573
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 23,
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jubilee_2023",
+  "title": "Jubilee",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118905540",
+    "imdb": "tt19868804",
+    "tmdb": 222922
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

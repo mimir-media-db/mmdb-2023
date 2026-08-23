@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_chemistry_of_death_2023",
+  "title": "The Chemistry of Death",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116504852",
+    "imdb": "tt22015782",
+    "tmdb": 217180
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

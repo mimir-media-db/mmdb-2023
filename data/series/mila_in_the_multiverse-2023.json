@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mila_in_the_multiverse_2023",
+  "title": "Mila in the Multiverse",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q109320676",
+    "imdb": "tt15551300",
+    "tmdb": 137430
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

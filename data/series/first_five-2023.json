@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_first_five_2023",
+  "title": "First Five",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118976840",
+    "imdb": "tt27943492",
+    "tmdb": 226564
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

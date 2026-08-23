@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ventino_el_precio_de_la_gloria_2023",
+  "title": "Ventino: El precio de la gloria",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116796339",
+    "imdb": "tt27131545",
+    "tmdb": 222017
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_paper_moon_2023",
+  "title": "Paper Moon",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116994871",
+    "imdb": "tt26290010",
+    "tmdb": 197063
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

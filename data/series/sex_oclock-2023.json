@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sex_oclock_2023",
+  "title": "Sex O´Clock",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116998488",
+    "imdb": "tt21866806",
+    "tmdb": 211863
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

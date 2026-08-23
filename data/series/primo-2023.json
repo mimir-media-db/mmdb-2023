@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_primo_2023",
+  "title": "Primo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117445101",
+    "imdb": "tt14584394",
+    "tmdb": 137252
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

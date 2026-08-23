@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_pressure_cooker_2023",
+  "title": "Pressure Cooker",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116867211",
+    "imdb": "tt24224968",
+    "tmdb": 216575
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

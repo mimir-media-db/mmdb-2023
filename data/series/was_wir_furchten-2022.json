@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_was_wir_furchten_2022",
+  "title": "Was wir fürchten",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122047900",
+    "imdb": "tt22047250",
+    "tmdb": 234141
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ",
+    "DE"
+  ]
+}

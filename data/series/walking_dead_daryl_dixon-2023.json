@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_walking_dead_daryl_dixon_2023",
+  "title": "The Walking Dead: Daryl Dixon",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116148366",
+    "imdb": "tt13062500",
+    "tmdb": 211684
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 19,
+  "genres": [
+    "Drama",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR",
+    "US"
+  ]
+}

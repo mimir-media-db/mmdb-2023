@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_last_hours_of_mario_biondo_2022",
+  "title": "The Last hours of Mario Biondo",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q121886946",
+    "imdb": "tt28457132",
+    "tmdb": 231015
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_dt_la_mision_2023",
+  "title": "DT, la misión",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118848598",
+    "imdb": "tt27739796",
+    "tmdb": 217202
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "BO"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_davis_2023",
+  "title": "Mrs. Davis",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114658648",
+    "imdb": "tt14759574",
+    "tmdb": 197548
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

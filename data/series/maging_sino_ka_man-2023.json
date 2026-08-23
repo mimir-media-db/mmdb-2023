@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_maging_sino_ka_man_2023",
+  "title": "Maging Sino Ka Man",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121989362",
+    "imdb": "tt28864685",
+    "tmdb": 234463
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

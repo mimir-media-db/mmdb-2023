@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_milky_way_2023",
+  "title": "Milky Way",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110693163",
+    "imdb": "tt15894440",
+    "tmdb": 214631
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

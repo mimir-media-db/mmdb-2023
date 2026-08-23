@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_songland_2022",
+  "title": "Songland",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116449999"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "music program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

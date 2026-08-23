@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_dhootha_2023",
+  "title": "Dhootha",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123563627",
+    "imdb": "tt19868374",
+    "tmdb": 200946
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

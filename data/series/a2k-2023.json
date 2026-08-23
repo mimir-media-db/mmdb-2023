@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_a2k_2023",
+  "title": "A2K",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121087532"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 22,
+  "genres": [
+    "reality show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

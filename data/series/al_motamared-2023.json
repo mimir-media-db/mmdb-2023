@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_al_motamared_2023",
+  "title": "Al Motamared",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117349354"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IQ"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_black_out_2023",
+  "title": "Black Out",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116271985",
+    "imdb": "tt18250292",
+    "tmdb": 218753
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "IT"
+  ]
+}

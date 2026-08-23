@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hengaillaan_2022",
+  "title": "Hengaillaan",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116507956",
+    "imdb": "tt26474605",
+    "tmdb": 220707
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

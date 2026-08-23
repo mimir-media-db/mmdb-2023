@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_fbi_true_2023",
+  "title": "FBI True",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122835140",
+    "imdb": "tt21340132",
+    "tmdb": 221122
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

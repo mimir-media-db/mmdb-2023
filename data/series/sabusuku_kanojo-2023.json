@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sabusuku_kanojo_2023",
+  "title": "Sabusuku Kanojo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118151008",
+    "imdb": "tt27996481",
+    "tmdb": 224102
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

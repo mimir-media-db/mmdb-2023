@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_my_life_with_the_walter_boys_2023",
+  "title": "My Life with the Walter Boys",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113570499",
+    "imdb": "tt8323628",
+    "tmdb": 199001
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

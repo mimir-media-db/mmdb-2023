@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_juego_de_mentiras_2023",
+  "title": "Juego de mentiras",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113649110",
+    "imdb": "tt21941800",
+    "tmdb": 221900
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 76,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

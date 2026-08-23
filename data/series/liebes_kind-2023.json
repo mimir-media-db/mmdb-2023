@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_liebes_kind_2023",
+  "title": "Liebes Kind",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121995458",
+    "imdb": "tt20863760",
+    "tmdb": 229221
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

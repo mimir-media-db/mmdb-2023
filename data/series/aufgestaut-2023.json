@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_aufgestaut_2023",
+  "title": "Aufgestaut",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121366116",
+    "imdb": "tt28644727",
+    "tmdb": 236044
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

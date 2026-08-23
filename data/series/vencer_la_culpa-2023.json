@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_vencer_la_culpa_2023",
+  "title": "Vencer la culpa",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115839903",
+    "imdb": "tt26737288",
+    "tmdb": 229331
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 80,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

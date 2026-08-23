@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ishq_murshid_2023",
+  "title": "Ishq Murshid",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122982436",
+    "imdb": "tt29317254",
+    "tmdb": 244909
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_han_river_police_2023",
+  "title": "Han River Police",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121758204",
+    "imdb": "tt28090631",
+    "tmdb": 211020
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

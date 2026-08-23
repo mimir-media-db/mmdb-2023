@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dinosaur_love_2023",
+  "title": "Dinosaur Love",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120864034",
+    "imdb": "tt28784874",
+    "tmdb": 227405
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

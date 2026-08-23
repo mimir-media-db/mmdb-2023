@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_secularism_religion_and_state_2023",
+  "title": "Secularism - Religion and State",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120734864",
+    "imdb": "tt28345366",
+    "tmdb": 231335
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

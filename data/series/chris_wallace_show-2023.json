@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_chris_wallace_show_2023",
+  "title": "The Chris Wallace Show",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125814043",
+    "imdb": "tt29921442",
+    "tmdb": 238804
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

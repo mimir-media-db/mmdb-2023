@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_juego_de_ilusiones_2023",
+  "title": "Juego de ilusiones",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115799979",
+    "imdb": "tt25502742",
+    "tmdb": 218776
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_elegant_empire_2023",
+  "title": "The Elegant Empire",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q120110919",
+    "imdb": "tt28786421",
+    "tmdb": 229947
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 105,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

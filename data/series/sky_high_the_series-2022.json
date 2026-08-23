@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sky_high_the_series_2022",
+  "title": "Sky High: The Series",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110963728",
+    "imdb": "tt18273742",
+    "tmdb": 216322
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

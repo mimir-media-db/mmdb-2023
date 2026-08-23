@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ghosts_of_beirut_2023",
+  "title": "Ghosts of Beirut",
+  "start_year": 2023,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q118217792",
+    "imdb": "tt21100682",
+    "tmdb": 224009
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "History",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL",
+    "US"
+  ]
+}

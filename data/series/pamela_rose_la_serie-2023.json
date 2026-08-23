@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pamela_rose_la_serie_2023",
+  "title": "Pamela Rose, la série",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123510348",
+    "imdb": "tt30142998",
+    "tmdb": 238193
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

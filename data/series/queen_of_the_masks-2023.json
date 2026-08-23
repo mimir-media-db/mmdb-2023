@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_queen_of_the_masks_2023",
+  "title": "Queen of the Masks",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116183661",
+    "imdb": "tt27789338",
+    "tmdb": 215815
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

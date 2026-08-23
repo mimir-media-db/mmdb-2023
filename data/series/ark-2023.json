@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ark_2023",
+  "title": "The Ark",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116006894",
+    "imdb": "tt17371078",
+    "tmdb": 47663
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 24,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

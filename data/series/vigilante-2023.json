@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_vigilante_2023",
+  "title": "Vigilante",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117462848",
+    "imdb": "tt27458539",
+    "tmdb": 205082
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

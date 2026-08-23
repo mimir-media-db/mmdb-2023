@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_apple_of_my_eye_2023",
+  "title": "Apple of My Eye",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117039330",
+    "imdb": "tt29443342",
+    "tmdb": 221934
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 121,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

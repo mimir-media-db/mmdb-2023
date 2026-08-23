@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_light_the_wild_2023",
+  "title": "Light the Wild",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117775960",
+    "imdb": "tt27539066",
+    "tmdb": 224557
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

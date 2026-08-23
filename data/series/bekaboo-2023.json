@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bekaboo_2023",
+  "title": "Bekaboo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116973100",
+    "imdb": "tt26773833",
+    "tmdb": 222281
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

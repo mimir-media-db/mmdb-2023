@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_gina_yei_withallmyheartandmore_2023",
+  "title": "@Gina Yei: #WithAllMyHeartAndMore",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115776828",
+    "imdb": "tt15539452",
+    "tmdb": 127573
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PR"
+  ]
+}

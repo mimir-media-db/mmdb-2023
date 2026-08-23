@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_platform_7_2023",
+  "title": "Platform 7",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122160017",
+    "imdb": "tt21266652",
+    "tmdb": 237232
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

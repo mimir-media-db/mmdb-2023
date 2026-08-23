@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_brain_works_2023",
+  "title": "Brain Works",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114049949",
+    "imdb": "tt26217706",
+    "tmdb": 206674
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

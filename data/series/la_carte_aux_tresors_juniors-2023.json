@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_la_carte_aux_tresors_juniors_2023",
+  "title": "La carte aux trésors Juniors",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123239081"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

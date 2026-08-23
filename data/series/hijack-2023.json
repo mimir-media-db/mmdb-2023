@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_hijack_2023",
+  "title": "Hijack",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112131897",
+    "imdb": "tt19854762",
+    "tmdb": 198102
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

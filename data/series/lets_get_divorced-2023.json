@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lets_get_divorced_2023",
+  "title": "Let's Get Divorced",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113718422",
+    "imdb": "tt15567320",
+    "tmdb": 216223
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

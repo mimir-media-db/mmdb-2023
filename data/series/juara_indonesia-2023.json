@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_juara_indonesia_2023",
+  "title": "Juara Indonesia",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117813965"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

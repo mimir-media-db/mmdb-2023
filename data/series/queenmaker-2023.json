@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_queenmaker_2023",
+  "title": "Queenmaker",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116233325",
+    "imdb": "tt26350158",
+    "tmdb": 139280
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

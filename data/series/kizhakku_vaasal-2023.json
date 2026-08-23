@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_kizhakku_vaasal_2023",
+  "title": "Kizhakku Vaasal",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117149397",
+    "imdb": "tt27436218",
+    "tmdb": 232643
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 84,
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

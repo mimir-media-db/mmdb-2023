@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_captain_fall_2023",
+  "title": "Captain Fall",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120478197",
+    "imdb": "tt12923792",
+    "tmdb": 229153
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

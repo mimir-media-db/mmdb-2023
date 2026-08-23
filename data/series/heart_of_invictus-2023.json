@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_heart_of_invictus_2023",
+  "title": "Heart of Invictus",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121590683",
+    "imdb": "tt14491228",
+    "tmdb": 232745
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

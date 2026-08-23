@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_indonesian_flavour_2023",
+  "title": "Indonesian Flavour",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117545596"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "educational entertainment",
+    "cooking show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

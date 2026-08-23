@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_polar_park_2023",
+  "title": "Polar Park",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123174444",
+    "imdb": "tt29627241",
+    "tmdb": 220043
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

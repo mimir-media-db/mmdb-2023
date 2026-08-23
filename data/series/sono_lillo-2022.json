@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sono_lillo_2022",
+  "title": "Sono Lillo",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116036407",
+    "imdb": "tt22984224",
+    "tmdb": 215547
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_in_love_all_over_again_2023",
+  "title": "In Love All Over Again",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116250359",
+    "imdb": "tt21206964",
+    "tmdb": 218428
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

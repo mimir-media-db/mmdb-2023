@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_farming_for_love_2023",
+  "title": "Farming for Love",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119606183",
+    "imdb": "tt21072046",
+    "tmdb": 227542
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

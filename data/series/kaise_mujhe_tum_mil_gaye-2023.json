@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kaise_mujhe_tum_mil_gaye_2023",
+  "title": "Kaise Mujhe Tum Mil Gaye",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123923480",
+    "imdb": "tt29768969",
+    "tmdb": 240637
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 39,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_lights_2023",
+  "title": "Blue Lights",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117536144",
+    "imdb": "tt14466018",
+    "tmdb": 218344
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

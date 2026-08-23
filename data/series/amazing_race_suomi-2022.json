@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race_suomi_2022",
+  "title": "Amazing Race Suomi",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118314044",
+    "imdb": "tt29352288",
+    "tmdb": 236182
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 36,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

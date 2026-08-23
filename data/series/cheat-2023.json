@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cheat_2023",
+  "title": "Cheat",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125358572",
+    "imdb": "tt26451131",
+    "tmdb": 219134
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

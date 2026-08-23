@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_420_2023",
+  "title": "4:20",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124694663",
+    "imdb": "tt25420762",
+    "tmdb": 238065
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

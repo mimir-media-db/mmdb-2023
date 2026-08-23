@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_omiooo_2023",
+  "title": "omiooo",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122508359",
+    "imdb": "tt31106663",
+    "tmdb": 235022
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

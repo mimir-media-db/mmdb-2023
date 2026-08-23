@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_les_randonneuses_2023",
+  "title": "Les Randonneuses",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113839517",
+    "imdb": "tt27733135",
+    "tmdb": 209201
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

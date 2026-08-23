@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_royal_blood_2023",
+  "title": "Royal Blood",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117443148",
+    "imdb": "tt21619030",
+    "tmdb": 229058
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 70,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

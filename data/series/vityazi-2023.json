@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_vityazi_2023",
+  "title": "Vityazi",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124750756",
+    "imdb": "tt29687360",
+    "tmdb": 297319
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "History",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

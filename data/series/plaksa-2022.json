@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_plaksa_2022",
+  "title": "Plaksa",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124356500",
+    "imdb": "tt27541189",
+    "tmdb": 256501
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

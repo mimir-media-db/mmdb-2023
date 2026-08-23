@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_mirada_de_la_fiona_2022",
+  "title": "La mirada de la Fiona",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q114841510",
+    "imdb": "tt23017836"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

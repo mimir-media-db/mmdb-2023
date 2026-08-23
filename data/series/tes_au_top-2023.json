@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tes_au_top_2023",
+  "title": "T'es au TOP",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137970684"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 40,
+  "genres": [
+    "testimony"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

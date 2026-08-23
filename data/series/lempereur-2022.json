@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lempereur_2022",
+  "title": "L'empereur",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124631253",
+    "imdb": "tt22091446",
+    "tmdb": 217646
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

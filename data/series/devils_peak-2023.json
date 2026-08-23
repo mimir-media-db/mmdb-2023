@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_peak_2023",
+  "title": "Devil's Peak",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q129900301",
+    "imdb": "tt22009132",
+    "tmdb": 236522
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

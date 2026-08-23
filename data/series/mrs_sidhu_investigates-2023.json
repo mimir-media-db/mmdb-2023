@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mrs_sidhu_investigates_2023",
+  "title": "Mrs Sidhu Investigates",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121744855",
+    "imdb": "tt21259542",
+    "tmdb": 235111
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

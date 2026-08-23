@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hostage_2023",
+  "title": "Hostage",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116200889",
+    "imdb": "tt19895620",
+    "tmdb": 218685
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

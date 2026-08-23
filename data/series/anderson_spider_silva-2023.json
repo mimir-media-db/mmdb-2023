@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_anderson_spider_silva_2023",
+  "title": "Anderson Spider Silva",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123593346",
+    "imdb": "tt14926832",
+    "tmdb": 236400
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

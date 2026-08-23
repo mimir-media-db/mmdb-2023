@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_se_tu_misma_2023",
+  "title": "Sé tú misma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122750992",
+    "imdb": "tt29808008",
+    "tmdb": 220276
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

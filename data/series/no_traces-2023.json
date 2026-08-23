@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_no_traces_2023",
+  "title": "No Traces",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116464557",
+    "imdb": "tt15463246",
+    "tmdb": 219432
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_starlight_bnb_2023",
+  "title": "Starlight BnB",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119631459",
+    "tmdb": 230140
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

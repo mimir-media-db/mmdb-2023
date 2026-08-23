@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_taali_2023",
+  "title": "Taali",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121408820",
+    "imdb": "tt22531848",
+    "tmdb": 232281
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

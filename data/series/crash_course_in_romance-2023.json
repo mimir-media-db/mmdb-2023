@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_crash_course_in_romance_2023",
+  "title": "Crash Course in Romance",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113994390",
+    "imdb": "tt24578016",
+    "tmdb": 202318
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

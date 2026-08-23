@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_story_of_kunning_palace_2023",
+  "title": "Story of Kunning Palace",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122238713",
+    "imdb": "tt27458928",
+    "tmdb": 207197
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_terese_i_kassan_2023",
+  "title": "Terese i kassan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121536278",
+    "imdb": "tt29259156",
+    "tmdb": 238384
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

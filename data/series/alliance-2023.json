@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_alliance_2023",
+  "title": "The Alliance",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126174087"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": []
+}

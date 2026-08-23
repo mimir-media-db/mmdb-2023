@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_senior_the_series_2023",
+  "title": "Love Senior The Series",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q139549282",
+    "imdb": "tt30324299",
+    "tmdb": 238552
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

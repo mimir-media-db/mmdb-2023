@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_diplomat_2023",
+  "title": "The Diplomat",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117425241",
+    "imdb": "tt17491088",
+    "tmdb": 203857
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 22,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

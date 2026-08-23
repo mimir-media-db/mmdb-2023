@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_artful_dodger_2023",
+  "title": "The Artful Dodger",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122496498",
+    "imdb": "tt20285780",
+    "tmdb": 202208
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

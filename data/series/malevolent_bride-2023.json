@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_malevolent_bride_2023",
+  "title": "The Malevolent Bride",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q109538013",
+    "imdb": "tt15425580",
+    "tmdb": 224439
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

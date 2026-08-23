@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_jeopardy_masters_2023",
+  "title": "Jeopardy! Masters",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116449269",
+    "imdb": "tt27715632",
+    "tmdb": 219241
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

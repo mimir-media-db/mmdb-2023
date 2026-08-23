@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_scoop_2023",
+  "title": "Scoop",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118904144",
+    "imdb": "tt22297178",
+    "tmdb": 226531
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ates_kuslar_2023",
+  "title": "Ateş Kuşları",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116878354",
+    "imdb": "tt21268616",
+    "tmdb": 218265
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 21,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

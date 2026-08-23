@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_florida_man_2023",
+  "title": "Florida Man",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111012721",
+    "imdb": "tt14509130",
+    "tmdb": 123856
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

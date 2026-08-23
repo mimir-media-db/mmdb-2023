@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_promi_touchdown_die_footballshow_2022",
+  "title": "Promi Touchdown – Die Football-Show",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123378571",
+    "imdb": "tt29137706"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": []
+}

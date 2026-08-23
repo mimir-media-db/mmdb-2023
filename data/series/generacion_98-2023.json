@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_generacion_98_2023",
+  "title": "Generación 98",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118096502",
+    "imdb": "tt27898248",
+    "tmdb": 227938
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

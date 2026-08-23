@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wave_makers_2023",
+  "title": "Wave Makers",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118121081",
+    "imdb": "tt26687035",
+    "tmdb": 221869
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

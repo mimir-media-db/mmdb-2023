@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_stalkers_2023",
+  "title": "Stalkers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117251271",
+    "imdb": "tt26899345",
+    "tmdb": 218692
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

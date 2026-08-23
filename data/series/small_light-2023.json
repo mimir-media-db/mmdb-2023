@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_small_light_2023",
+  "title": "A Small Light",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113070747",
+    "imdb": "tt17921714",
+    "tmdb": 157160
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

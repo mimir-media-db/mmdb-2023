@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_million_dollar_listing_uae_2022",
+  "title": "Million Dollar Listing UAE",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12193606",
+    "imdb": "tt31031583",
+    "tmdb": 243742
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AE"
+  ]
+}

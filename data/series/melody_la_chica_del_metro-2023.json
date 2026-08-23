@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_melody_la_chica_del_metro_2023",
+  "title": "Melody, la chica del metro",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116288327",
+    "imdb": "tt25437934",
+    "tmdb": 221501
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_reindeer_mafia_2022",
+  "title": "Reindeer Mafia",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117051341",
+    "imdb": "tt26345241",
+    "tmdb": 219136
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

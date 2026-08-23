@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_suburrterna_2023",
+  "title": "Suburræterna",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123024677",
+    "imdb": "tt28019928",
+    "tmdb": 235350
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_date_with_the_future_2023",
+  "title": "A Date with the Future",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117354784",
+    "imdb": "tt27907137",
+    "tmdb": 196550
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

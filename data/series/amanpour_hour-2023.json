@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_amanpour_hour_2023",
+  "title": "The Amanpour Hour",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q125629609",
+    "imdb": "tt30392932",
+    "tmdb": 238803
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

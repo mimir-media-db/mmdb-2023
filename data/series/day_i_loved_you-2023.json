@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_day_i_loved_you_2023",
+  "title": "The Day I Loved You",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118877238",
+    "imdb": "tt27613689",
+    "tmdb": 225407
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

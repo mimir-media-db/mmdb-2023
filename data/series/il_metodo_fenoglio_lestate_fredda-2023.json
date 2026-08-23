@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_il_metodo_fenoglio_lestate_fredda_2023",
+  "title": "Il metodo Fenoglio - L'estate fredda",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117248163"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "detective fiction",
+    "crime fiction",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

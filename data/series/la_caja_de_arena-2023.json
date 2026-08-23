@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_caja_de_arena_2023",
+  "title": "La caja de arena",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123705114",
+    "imdb": "tt30058253",
+    "tmdb": 240549
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

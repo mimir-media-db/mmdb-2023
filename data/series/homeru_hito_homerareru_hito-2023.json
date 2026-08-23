@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_homeru_hito_homerareru_hito_2023",
+  "title": "Homeru Hito Homerareru Hito",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118153642",
+    "tmdb": 226370
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

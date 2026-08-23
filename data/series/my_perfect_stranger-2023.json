@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_my_perfect_stranger_2023",
+  "title": "My Perfect Stranger",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114616573",
+    "imdb": "tt26351388",
+    "tmdb": 204589
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

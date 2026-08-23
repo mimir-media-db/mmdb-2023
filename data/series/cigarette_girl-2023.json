@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cigarette_girl_2023",
+  "title": "Cigarette Girl",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121845624",
+    "imdb": "tt21279114",
+    "tmdb": 228957
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

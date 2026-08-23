@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_command_z_2023",
+  "title": "Command Z",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120667207",
+    "imdb": "tt26470023",
+    "tmdb": 231031
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_next_level_chef_2023",
+  "title": "Next Level Chef",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117326691",
+    "imdb": "tt21102618",
+    "tmdb": 218161
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

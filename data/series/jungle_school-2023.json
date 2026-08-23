@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jungle_school_2023",
+  "title": "The Jungle School",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125087647",
+    "imdb": "tt28283122",
+    "tmdb": 229989
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_whats_the_problem_2023",
+  "title": "What's the problem?",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127416932",
+    "imdb": "tt36455424"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 43,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jee_karda_2023",
+  "title": "Jee Karda",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119032389",
+    "imdb": "tt19868678",
+    "tmdb": 227807
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

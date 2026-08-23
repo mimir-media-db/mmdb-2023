@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_advocate_2022",
+  "title": "Devil's Advocate﻿",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120646226",
+    "imdb": "tt28210839",
+    "tmdb": 229550
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KW"
+  ]
+}

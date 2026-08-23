@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_batang_quiapo_2023",
+  "title": "Batang Quiapo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116233357",
+    "imdb": "tt24059730",
+    "tmdb": 215803
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 72,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

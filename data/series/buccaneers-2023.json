@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_buccaneers_2023",
+  "title": "The Buccaneers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113540776",
+    "imdb": "tt21108774",
+    "tmdb": 213338
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

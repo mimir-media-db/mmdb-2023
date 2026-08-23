@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_saturdays_2023",
+  "title": "Saturdays",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116894123",
+    "imdb": "tt14322108",
+    "tmdb": 216766
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "Comedy",
+    "Family",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

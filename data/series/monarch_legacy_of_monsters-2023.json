@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_monarch_legacy_of_monsters_2023",
+  "title": "Monarch: Legacy of Monsters",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113114887",
+    "imdb": "tt17220216",
+    "tmdb": 202411
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 10,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

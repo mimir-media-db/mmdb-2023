@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_flair_de_famille_2023",
+  "title": "Flair de famille",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118187342",
+    "imdb": "tt27270582",
+    "tmdb": 245290
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 2,
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

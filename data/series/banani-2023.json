@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_banani_2023",
+  "title": "Banáni",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123129287"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

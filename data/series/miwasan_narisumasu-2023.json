@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_miwasan_narisumasu_2023",
+  "title": "Miwa-san Narisumasu",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q137922361",
+    "tmdb": 236535
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 32,
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

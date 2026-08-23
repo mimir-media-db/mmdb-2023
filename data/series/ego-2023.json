@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ego_2023",
+  "title": "EGO",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117090133",
+    "imdb": "tt22726060",
+    "tmdb": 219447
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

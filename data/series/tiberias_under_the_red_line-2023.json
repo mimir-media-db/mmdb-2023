@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tiberias_under_the_red_line_2023",
+  "title": "Tiberias - Under the Red Line",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123614613",
+    "imdb": "tt32044004"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

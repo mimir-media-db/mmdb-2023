@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tailor_2023",
+  "title": "The Tailor",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110420086",
+    "imdb": "tt15473010",
+    "tmdb": 214079
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 23,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

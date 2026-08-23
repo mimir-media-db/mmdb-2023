@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_choona_2023",
+  "title": "Choona",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120912984",
+    "imdb": "tt28336217",
+    "tmdb": 230418
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

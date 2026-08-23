@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_quarterback_2023",
+  "title": "Quarterback",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117032178",
+    "imdb": "tt26777035",
+    "tmdb": 220998
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

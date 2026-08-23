@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_wir_sind_die_meiers_2022",
+  "title": "Wir sind die Meiers",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122349944",
+    "imdb": "tt27719356",
+    "tmdb": 230341
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

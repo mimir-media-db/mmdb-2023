@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_company_you_keep_2023",
+  "title": "The Company You Keep",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115815142",
+    "imdb": "tt18412092",
+    "tmdb": 208713
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

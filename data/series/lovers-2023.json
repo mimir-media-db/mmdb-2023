@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_lovers_2023",
+  "title": "The Lovers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117005818",
+    "imdb": "tt21282348",
+    "tmdb": 206014
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

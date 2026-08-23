@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tale_of_the_nine_tailed_2023",
+  "title": "Tale of the Nine Tailed 1938",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111145272",
+    "imdb": "tt27329405",
+    "tmdb": 201019
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_straight_best_friend_2023",
+  "title": "Straight Best Friend",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119750961",
+    "imdb": "tt28090324"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SG"
+  ]
+}

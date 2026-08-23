@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_make_a_wish_2023",
+  "title": "Make a Wish",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q137218134",
+    "imdb": "tt27645066",
+    "tmdb": 218085
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

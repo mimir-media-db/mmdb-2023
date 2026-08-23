@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_vikin_ja_kopin_matkailuohjelma_2023",
+  "title": "Vikin ja Köpin matkailuohjelma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118034431",
+    "imdb": "tt27204150",
+    "tmdb": 225235
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

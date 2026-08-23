@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ntt_indycar_series_100_days_to_indy_2023",
+  "title": "NTT INDYCAR SERIES: 100 Days to Indy",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117808727",
+    "imdb": "tt26752988",
+    "tmdb": 220834
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

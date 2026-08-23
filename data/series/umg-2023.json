@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_umg_2023",
+  "title": "UMG",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110038480",
+    "imdb": "tt16410492",
+    "tmdb": 218870
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Mystery",
+    "Romance",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_town_called_malice_2023",
+  "title": "A Town Called Malice",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113800772",
+    "imdb": "tt16946130",
+    "tmdb": 194632
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}
