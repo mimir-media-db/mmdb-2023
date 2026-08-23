@@ -11,5 +11,9 @@
   },
   "last_updated": "2026-08-23",
   "total_episodes": 2,
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
 }

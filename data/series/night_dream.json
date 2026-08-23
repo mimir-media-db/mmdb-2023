@@ -13,5 +13,8 @@
     "Drama",
     "LGBTQ-related film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
 }

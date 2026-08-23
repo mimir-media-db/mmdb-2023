@@ -17,5 +17,9 @@
     "Comedy",
     "Musical"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FR",
+    "IT"
+  ]
 }

@@ -15,5 +15,12 @@
   "genres": [
     "Western"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "FI",
+    "NO",
+    "SE",
+    "UA"
+  ]
 }

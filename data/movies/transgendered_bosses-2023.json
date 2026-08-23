@@ -16,5 +16,8 @@
     "Adult",
     "Romance"
   ],
-  "is_adult": true
+  "is_adult": true,
+  "countries": [
+    "US"
+  ]
 }

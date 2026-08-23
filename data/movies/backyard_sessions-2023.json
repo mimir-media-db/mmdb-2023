@@ -7,7 +7,8 @@
   "external_ids": {
     "wikidata": "Q30682844"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-03-10",
-  "runtime_minutes": 42
+  "runtime_minutes": 42,
+  "countries": []
 }

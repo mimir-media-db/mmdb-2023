@@ -17,5 +17,9 @@
     "Family",
     "Fantasy"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "NO",
+    "RO"
+  ]
 }

@@ -8,7 +8,10 @@
     "wikidata": "Q126373555",
     "tmdb": 1038567
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-07-01",
-  "runtime_minutes": 100
+  "runtime_minutes": 100,
+  "countries": [
+    "SY"
+  ]
 }

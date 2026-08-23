@@ -12,5 +12,8 @@
     "talk show",
     "broadcast debate"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
 }
