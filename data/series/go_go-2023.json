@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_go_go_2023",
+  "title": "Go Go",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q131628671",
+    "imdb": "tt22771154",
+    "tmdb": 220785
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_taxi_driver_2_2023",
+  "title": "Taxi Driver 2",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114450321"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

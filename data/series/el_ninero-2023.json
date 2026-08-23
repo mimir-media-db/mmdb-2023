@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_el_ninero_2023",
+  "title": "El niñero",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q127432512",
+    "imdb": "tt30249004",
+    "tmdb": 241373
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

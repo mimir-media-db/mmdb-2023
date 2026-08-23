@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_eliska_a_damian_2023",
+  "title": "Eliška a Damián",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121796710",
+    "imdb": "tt28577142",
+    "tmdb": 232641
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

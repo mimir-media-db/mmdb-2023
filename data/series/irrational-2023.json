@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_irrational_2023",
+  "title": "The Irrational",
+  "start_year": 2023,
+  "end_year": 2025,
+  "external_ids": {
+    "wikidata": "Q122745368",
+    "imdb": "tt16288838",
+    "tmdb": 217211
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 29,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_last_call_with_brian_sullivan_2023",
+  "title": "Last Call with Brian Sullivan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116466718",
+    "imdb": "tt27146555"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

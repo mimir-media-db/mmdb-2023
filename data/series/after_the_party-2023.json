@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_after_the_party_2023",
+  "title": "After the Party",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q126009461",
+    "imdb": "tt23845296",
+    "tmdb": 238005
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

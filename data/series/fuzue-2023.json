@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_fuzue_2023",
+  "title": "Fuzuê",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q119039969",
+    "imdb": "tt27925916",
+    "tmdb": 213026
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 173,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

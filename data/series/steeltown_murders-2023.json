@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_steeltown_murders_2023",
+  "title": "Steeltown Murders",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118945236",
+    "imdb": "tt23152082",
+    "tmdb": 219378
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

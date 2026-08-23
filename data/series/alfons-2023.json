@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_alfons_2023",
+  "title": "Alfons",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q124209575",
+    "imdb": "tt29169078",
+    "tmdb": 323413
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 60,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "UZ"
+  ]
+}

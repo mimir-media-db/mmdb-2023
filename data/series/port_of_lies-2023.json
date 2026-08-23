@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_port_of_lies_2023",
+  "title": "Port of Lies",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120336721",
+    "imdb": "tt26690684",
+    "tmdb": 210876
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_encounters_2023",
+  "title": "Encounters",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122578946",
+    "imdb": "tt28692332",
+    "tmdb": 232811
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_when_i_fly_towards_you_2023",
+  "title": "When I Fly Towards You",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120644025",
+    "imdb": "tt28036189",
+    "tmdb": 228547
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

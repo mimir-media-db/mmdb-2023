@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_limbo_2023",
+  "title": "Limbo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116198473",
+    "imdb": "tt15562048",
+    "tmdb": 220148
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

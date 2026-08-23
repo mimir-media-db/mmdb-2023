@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_up_here_2023",
+  "title": "Up Here",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116483186",
+    "imdb": "tt17525252",
+    "tmdb": 218268
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Musical",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

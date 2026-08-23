@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lost_prestige_2023",
+  "title": "The Lost Prestige",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q125966049",
+    "imdb": "tt28483865"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

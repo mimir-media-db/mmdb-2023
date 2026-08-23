@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mamma_mia_i_have_a_dream_2023",
+  "title": "Mamma Mia! I Have a Dream",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123169108",
+    "imdb": "tt27658666",
+    "tmdb": 237838
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Music",
+    "Musical",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

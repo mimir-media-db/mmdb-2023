@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_hot_wheels_ultimate_challenge_2023",
+  "title": "Hot Wheels: Ultimate Challenge",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118948366",
+    "imdb": "tt27047709",
+    "tmdb": 221880
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_como_la_vida_misma_2023",
+  "title": "Como la vida misma",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116905590",
+    "imdb": "tt27662525",
+    "tmdb": 225554
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

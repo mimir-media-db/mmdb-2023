@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_koose_munisamy_veerappan_2023",
+  "title": "Koose Munisamy Veerappan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123757709",
+    "imdb": "tt30150229",
+    "tmdb": 240221
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

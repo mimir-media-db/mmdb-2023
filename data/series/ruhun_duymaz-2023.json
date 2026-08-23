@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_ruhun_duymaz_2023",
+  "title": "Ruhun Duymaz",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121094265",
+    "imdb": "tt28334660",
+    "tmdb": 49933
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

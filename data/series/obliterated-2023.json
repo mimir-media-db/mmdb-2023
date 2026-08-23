@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_obliterated_2023",
+  "title": "Obliterated",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115615903",
+    "imdb": "tt11097240",
+    "tmdb": 94244
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

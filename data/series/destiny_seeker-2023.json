@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_destiny_seeker_2023",
+  "title": "Destiny Seeker",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116891835",
+    "imdb": "tt26915869",
+    "tmdb": 220398
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

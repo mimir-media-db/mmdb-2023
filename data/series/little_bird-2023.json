@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_little_bird_2023",
+  "title": "Little Bird",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108821918",
+    "imdb": "tt22750834",
+    "tmdb": 220594
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

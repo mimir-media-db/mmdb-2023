@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_be_your_own_light_2023",
+  "title": "Be Your Own Light",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123980506",
+    "imdb": "tt28182995",
+    "tmdb": 230800
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 40,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_perdona_nuestros_pecados_2023",
+  "title": "Perdona nuestros pecados",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115664737",
+    "imdb": "tt22188304",
+    "tmdb": 219476
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 90,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

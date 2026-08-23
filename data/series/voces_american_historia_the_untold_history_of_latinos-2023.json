@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_voces_american_historia_the_untold_history_of_latinos_2023",
+  "title": "VOCES American Historia: The Untold History of Latinos",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121537379",
+    "imdb": "tt32507950",
+    "tmdb": 227018
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

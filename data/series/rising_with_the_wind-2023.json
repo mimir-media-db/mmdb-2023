@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rising_with_the_wind_2023",
+  "title": "Rising With the Wind",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q114253945",
+    "imdb": "tt17069404",
+    "tmdb": 152551
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

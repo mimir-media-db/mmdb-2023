@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_adan_2023",
+  "title": "Adan",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116909676"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "PK"
+  ]
+}

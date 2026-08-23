@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bney_mitzva_2023",
+  "title": "Bney Mitzva",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123990939",
+    "imdb": "tt30441131",
+    "tmdb": 240377
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

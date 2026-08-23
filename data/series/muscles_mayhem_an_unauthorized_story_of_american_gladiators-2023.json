@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_muscles_mayhem_an_unauthorized_story_of_american_gladiators_2023",
+  "title": "Muscles & Mayhem: An Unauthorized Story of American Gladiators",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120629479",
+    "imdb": "tt27851747",
+    "tmdb": 228550
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "History",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

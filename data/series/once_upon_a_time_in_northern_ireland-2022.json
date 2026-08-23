@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_once_upon_a_time_in_northern_ireland_2022",
+  "title": "Once Upon a Time in Northern Ireland",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118630729",
+    "imdb": "tt27837209",
+    "tmdb": 226328
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_missing_husband_2023",
+  "title": "The Missing Husband",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117018292",
+    "imdb": "tt28757179",
+    "tmdb": 233583
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_future_2023",
+  "title": "Future",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119352378"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "LGBTQ-related film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

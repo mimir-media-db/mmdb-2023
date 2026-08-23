@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_le_negociateur_2023",
+  "title": "Le Négociateur",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116819166",
+    "imdb": "tt27470643",
+    "tmdb": 219940
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

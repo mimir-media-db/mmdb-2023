@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_every_precious_moment_2023",
+  "title": "Every Precious Moment",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123113620",
+    "tmdb": 234493
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television program",
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lamour_est_pour_les_forts_2023",
+  "title": "L'amour est pour les forts",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122770332",
+    "imdb": "tt26257058",
+    "tmdb": 194615
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

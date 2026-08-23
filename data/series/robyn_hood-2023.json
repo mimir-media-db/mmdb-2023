@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_robyn_hood_2023",
+  "title": "Robyn Hood",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121879314",
+    "imdb": "tt20918756",
+    "tmdb": 204508
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

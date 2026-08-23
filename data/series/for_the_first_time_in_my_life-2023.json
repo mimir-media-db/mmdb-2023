@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_for_the_first_time_in_my_life_2023",
+  "title": "For the First Time in My Life",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116737634",
+    "tmdb": 219204
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "countries": [
+    "CN"
+  ]
+}

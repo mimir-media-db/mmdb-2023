@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_aleph_2023",
+  "title": "Aleph",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118541199",
+    "imdb": "tt27869794",
+    "tmdb": 227719
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

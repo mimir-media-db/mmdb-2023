@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_anoniem_2023",
+  "title": "Anoniem",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118744116",
+    "imdb": "tt21441628",
+    "tmdb": 226732
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": []
+}

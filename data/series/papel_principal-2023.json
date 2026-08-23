@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_papel_principal_2023",
+  "title": "Papel Principal",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q118696123",
+    "imdb": "tt28131197",
+    "tmdb": 234512
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

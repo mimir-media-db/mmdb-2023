@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_love_island_albania_2023",
+  "title": "Love Island Albania",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120883204"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 64,
+  "genres": [
+    "dating game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AL"
+  ]
+}

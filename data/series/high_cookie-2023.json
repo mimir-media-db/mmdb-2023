@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_high_cookie_2023",
+  "title": "High Cookie",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122871938",
+    "imdb": "tt26626068",
+    "tmdb": 223489
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

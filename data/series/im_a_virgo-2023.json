@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_im_a_virgo_2023",
+  "title": "I'm a Virgo",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117743183",
+    "imdb": "tt13649510",
+    "tmdb": 105169
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

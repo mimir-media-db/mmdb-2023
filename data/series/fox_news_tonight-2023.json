@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_fox_news_tonight_2023",
+  "title": "Fox News Tonight",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117838614"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "current affairs"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_intimate_2022",
+  "title": "Intimate",
+  "start_year": 2022,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116923541",
+    "imdb": "tt26691813",
+    "tmdb": 222313
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

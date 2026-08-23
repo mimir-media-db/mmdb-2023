@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_chandravilas_2023",
+  "title": "Chandravilas",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117389892",
+    "imdb": "tt28486046"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 84,
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

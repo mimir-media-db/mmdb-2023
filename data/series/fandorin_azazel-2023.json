@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fandorin_azazel_2023",
+  "title": "Fandorin. Azazel",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q113572125",
+    "imdb": "tt21851640",
+    "tmdb": 218634
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_jau_bai_gavat_2023",
+  "title": "Jau Bai Gavat",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123685493",
+    "imdb": "tt29866874"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

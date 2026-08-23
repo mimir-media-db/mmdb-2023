@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_strandhotellet_2023",
+  "title": "Strandhotellet",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116206716",
+    "imdb": "tt21650832",
+    "tmdb": 219721
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

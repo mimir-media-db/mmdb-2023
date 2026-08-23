@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_ingenious_one_2023",
+  "title": "The Ingenious One",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118363053",
+    "imdb": "tt27587490",
+    "tmdb": 138288
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": []
+}

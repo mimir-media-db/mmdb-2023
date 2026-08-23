@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_muddy_dining_table_2023",
+  "title": "Muddy Dining Table",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122375863",
+    "tmdb": 234492
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

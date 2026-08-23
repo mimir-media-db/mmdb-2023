@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_long_season_2023",
+  "title": "The Long Season",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120971152",
+    "imdb": "tt27628576",
+    "tmdb": 225008
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

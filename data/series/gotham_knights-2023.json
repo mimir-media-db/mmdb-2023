@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_gotham_knights_2023",
+  "title": "Gotham Knights",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q111594697",
+    "imdb": "tt16418896",
+    "tmdb": 195868
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

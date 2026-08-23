@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_bride_my_darling_2023",
+  "title": "Mr. Bride, My Darling!",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116776992",
+    "imdb": "tt28109537",
+    "tmdb": 222373
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

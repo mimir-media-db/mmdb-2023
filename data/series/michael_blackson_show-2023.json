@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_michael_blackson_show_2023",
+  "title": "The Michael Blackson Show",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q129485795",
+    "imdb": "tt28457473",
+    "tmdb": 231871
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

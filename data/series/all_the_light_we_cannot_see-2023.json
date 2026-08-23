@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_all_the_light_we_cannot_see_2023",
+  "title": "All the Light We Cannot See",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q110602969",
+    "imdb": "tt15320362",
+    "tmdb": 155421
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

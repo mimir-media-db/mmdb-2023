@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_moon_in_the_day_2023",
+  "title": "Moon in the Day",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120753622",
+    "imdb": "tt29224935",
+    "tmdb": 230924
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Fantasy",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

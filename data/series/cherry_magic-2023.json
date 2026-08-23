@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cherry_magic_2023",
+  "title": "Cherry Magic",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120593243",
+    "imdb": "tt24640240",
+    "tmdb": 226670
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP",
+    "TH"
+  ]
+}

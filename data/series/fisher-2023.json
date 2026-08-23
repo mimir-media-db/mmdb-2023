@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fisher_2023",
+  "title": "Fisher",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116764432",
+    "imdb": "tt21064076",
+    "tmdb": 220018
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

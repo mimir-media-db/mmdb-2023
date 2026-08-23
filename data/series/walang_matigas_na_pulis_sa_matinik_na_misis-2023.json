@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_walang_matigas_na_pulis_sa_matinik_na_misis_2023",
+  "title": "Walang Matigas na Pulis sa Matinik na Misis",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119475526",
+    "imdb": "tt27867864",
+    "tmdb": 228087
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

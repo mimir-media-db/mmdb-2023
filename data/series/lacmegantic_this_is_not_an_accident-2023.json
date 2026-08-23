@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lacmegantic_this_is_not_an_accident_2023",
+  "title": "Lac-Mégantic: This Is Not an Accident",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118875897",
+    "imdb": "tt27663503",
+    "tmdb": 225769
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

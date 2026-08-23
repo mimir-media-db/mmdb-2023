@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_i_have_waited_a_long_time_for_you_2023",
+  "title": "I Have Waited a Long Time for You",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117286141",
+    "imdb": "tt28198311",
+    "tmdb": 211217
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

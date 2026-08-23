@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_lonely_warrior_2023",
+  "title": "The Lonely Warrior",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124570707",
+    "imdb": "tt29363617",
+    "tmdb": 241206
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Action",
+    "Biography",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

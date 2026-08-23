@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_borje_the_journey_of_a_legend_2023",
+  "title": "Börje – The Journey of a Legend",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122810856",
+    "imdb": "tt14491898",
+    "tmdb": 232331
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

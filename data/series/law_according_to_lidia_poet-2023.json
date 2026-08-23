@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_law_according_to_lidia_poet_2023",
+  "title": "The Law According to Lidia Poet",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116388455",
+    "imdb": "tt15441160",
+    "tmdb": 218896
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 18,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

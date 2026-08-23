@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_crossover_2023",
+  "title": "The Crossover",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111942525",
+    "imdb": "tt14296996",
+    "tmdb": 121183
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

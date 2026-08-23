@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_moderna_2023",
+  "title": "La Moderna",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121768149",
+    "imdb": "tt28507389",
+    "tmdb": 231418
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 189,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

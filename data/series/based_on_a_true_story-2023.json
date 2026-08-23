@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_based_on_a_true_story_2023",
+  "title": "Based on a True Story",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113581590",
+    "imdb": "tt19500224",
+    "tmdb": 197373
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_totally_weird_and_funny_2023",
+  "title": "Totally Weird and Funny",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117468479",
+    "imdb": "tt26443438",
+    "tmdb": 224288
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

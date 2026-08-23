@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kendi_dusen_aglamaz_2023",
+  "title": "Kendi Düşen Ağlamaz",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120761878",
+    "imdb": "tt27494111",
+    "tmdb": 228980
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

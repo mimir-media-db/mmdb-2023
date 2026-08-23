@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_walking_dead_dead_city_2023",
+  "title": "The Walking Dead: Dead City",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113838713",
+    "imdb": "tt18546730",
+    "tmdb": 194583
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 17,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

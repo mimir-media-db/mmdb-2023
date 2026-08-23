@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_taelgia_2023",
+  "title": "Taelgia",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118436264",
+    "imdb": "tt28939371",
+    "tmdb": 234983
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

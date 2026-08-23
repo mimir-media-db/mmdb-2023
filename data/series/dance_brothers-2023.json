@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dance_brothers_2023",
+  "title": "Dance Brothers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114244228",
+    "imdb": "tt17550826",
+    "tmdb": 224035
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

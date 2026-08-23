@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_yuyu_hakusho_2023",
+  "title": "YuYu Hakusho",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121536561",
+    "imdb": "tt13664452",
+    "tmdb": 121659
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 5,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

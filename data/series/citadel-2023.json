@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_citadel_2023",
+  "title": "Citadel",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107125190",
+    "imdb": "tt9794044",
+    "tmdb": 114922
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

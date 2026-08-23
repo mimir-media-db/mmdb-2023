@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_infancia_de_romeu_e_julieta_2023",
+  "title": "A Infância de Romeu e Julieta",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q116171317",
+    "imdb": "tt27619784",
+    "tmdb": 212350
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 335,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

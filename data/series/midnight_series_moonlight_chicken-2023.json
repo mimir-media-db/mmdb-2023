@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_midnight_series_moonlight_chicken_2023",
+  "title": "Midnight Series: Moonlight Chicken",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116310717",
+    "imdb": "tt16429136",
+    "tmdb": 146408
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

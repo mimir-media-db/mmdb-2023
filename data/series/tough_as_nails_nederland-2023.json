@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_tough_as_nails_nederland_2023",
+  "title": "Tough as Nails Nederland",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116149036"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

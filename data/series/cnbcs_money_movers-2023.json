@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cnbcs_money_movers_2023",
+  "title": "CNBC's Money Movers",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124016077"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

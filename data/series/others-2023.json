@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_others_2023",
+  "title": "The Others",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116031264",
+    "imdb": "tt24018168",
+    "tmdb": 196421
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

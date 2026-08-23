@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kufis_love_2023",
+  "title": "Kufi's Love",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120998652",
+    "imdb": "tt28612205",
+    "tmdb": 295573
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IR"
+  ]
+}

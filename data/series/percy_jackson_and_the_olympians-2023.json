@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_percy_jackson_and_the_olympians_2023",
+  "title": "Percy Jackson and the Olympians",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q96749211",
+    "imdb": "tt12324366",
+    "tmdb": 103540
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

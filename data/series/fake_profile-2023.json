@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fake_profile_2023",
+  "title": "Fake Profile",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q118955274",
+    "imdb": "tt14494938",
+    "tmdb": 227371
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

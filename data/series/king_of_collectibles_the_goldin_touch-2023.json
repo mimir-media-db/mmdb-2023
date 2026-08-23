@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_king_of_collectibles_the_goldin_touch_2023",
+  "title": "King of Collectibles: The Goldin Touch",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126916059",
+    "imdb": "tt27206011",
+    "tmdb": 223663
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bora_deborah_2023",
+  "title": "Bo-ra! Deborah",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q115687955",
+    "imdb": "tt26763160",
+    "tmdb": 210586
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

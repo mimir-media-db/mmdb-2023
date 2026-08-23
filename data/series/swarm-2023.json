@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_swarm_2023",
+  "title": "Swarm",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116788716",
+    "imdb": "tt14961048",
+    "tmdb": 220116
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

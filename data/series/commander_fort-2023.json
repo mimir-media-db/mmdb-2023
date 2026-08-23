@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_commander_fort_2023",
+  "title": "Commander Fort",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116396041",
+    "imdb": "tt21412044",
+    "tmdb": 135806
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

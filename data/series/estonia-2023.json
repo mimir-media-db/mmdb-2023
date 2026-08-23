@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_estonia_2023",
+  "title": "Estonia",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112675643",
+    "imdb": "tt27600236",
+    "tmdb": 218711
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "EE",
+    "FI",
+    "SE"
+  ]
+}

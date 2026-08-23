@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_then_you_run_2023",
+  "title": "Then You Run",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116788571",
+    "imdb": "tt15614668",
+    "tmdb": 155495
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "GB"
+  ]
+}

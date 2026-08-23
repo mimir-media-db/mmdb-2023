@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_venus_in_the_sky_2023",
+  "title": "Venus in the Sky",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123308849",
+    "imdb": "tt29063571",
+    "tmdb": 223618
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

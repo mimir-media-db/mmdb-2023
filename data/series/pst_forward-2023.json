@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_pst_forward_2023",
+  "title": "P@St Forward",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q113833025",
+    "imdb": "tt26914529",
+    "tmdb": 206572
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

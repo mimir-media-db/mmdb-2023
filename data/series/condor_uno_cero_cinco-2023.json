@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_condor_uno_cero_cinco_2023",
+  "title": "Cóndor uno cero cinco",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q118368569",
+    "imdb": "tt28098926",
+    "tmdb": 278410
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

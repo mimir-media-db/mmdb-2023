@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_andersson_family_2023",
+  "title": "The Andersson Family",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q114095102",
+    "imdb": "tt28784095",
+    "tmdb": 233351
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

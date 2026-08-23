@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_otkryvay_politsiya_2023",
+  "title": "Otkryvay, politsiya!",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121820564",
+    "imdb": "tt26245692",
+    "tmdb": 218420
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

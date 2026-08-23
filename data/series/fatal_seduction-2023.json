@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fatal_seduction_2023",
+  "title": "Fatal Seduction",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120687239",
+    "imdb": "tt27951663",
+    "tmdb": 227975
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 35,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

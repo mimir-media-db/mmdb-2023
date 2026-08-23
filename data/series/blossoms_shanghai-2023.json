@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_blossoms_shanghai_2023",
+  "title": "Blossoms Shanghai",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q48773410",
+    "imdb": "tt3881914",
+    "tmdb": 106841
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

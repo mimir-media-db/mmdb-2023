@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_harlan_cobens_shelter_2023",
+  "title": "Harlan Coben's Shelter",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q120979035",
+    "imdb": "tt15483276",
+    "tmdb": 210787
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_anima_gemella_2023",
+  "title": "Anima gemella",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q122626029",
+    "imdb": "tt29629559",
+    "tmdb": 235617
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

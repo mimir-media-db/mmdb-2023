@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_love_tractor_2023",
+  "title": "Love Tractor",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q119520200",
+    "imdb": "tt27991624",
+    "tmdb": 227443
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

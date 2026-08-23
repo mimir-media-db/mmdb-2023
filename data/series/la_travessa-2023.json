@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_la_travessa_2023",
+  "title": "La travessa",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123268316",
+    "imdb": "tt31452553",
+    "tmdb": 238513
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 30,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

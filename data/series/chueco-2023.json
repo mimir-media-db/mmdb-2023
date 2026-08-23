@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_chueco_2023",
+  "title": "Chueco",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q110955046",
+    "imdb": "tt27282525",
+    "tmdb": 155683
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 25,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

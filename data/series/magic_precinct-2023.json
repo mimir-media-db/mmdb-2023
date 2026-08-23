@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_magic_precinct_2023",
+  "title": "Magic Precinct",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123553644",
+    "imdb": "tt28236082",
+    "tmdb": 239148
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

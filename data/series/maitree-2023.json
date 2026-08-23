@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_maitree_2023",
+  "title": "Maitree",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116685654",
+    "imdb": "tt25179522",
+    "tmdb": 220525
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 225,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

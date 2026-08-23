@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_deter_2023",
+  "title": "Déter",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123063841",
+    "imdb": "tt27629050",
+    "tmdb": 218720
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 200,
+  "genres": [
+    "Adventure"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_golpe_de_suerte_2023",
+  "title": "Golpe de suerte",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q120972893",
+    "imdb": "tt28328581",
+    "tmdb": 237069
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 92,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

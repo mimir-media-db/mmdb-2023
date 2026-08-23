@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sign_2023",
+  "title": "The Sign",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123463346",
+    "imdb": "tt31079705",
+    "tmdb": 237411
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Action",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

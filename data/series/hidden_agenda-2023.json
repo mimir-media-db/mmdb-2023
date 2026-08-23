@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hidden_agenda_2023",
+  "title": "Hidden Agenda",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120122497",
+    "imdb": "tt24184526",
+    "tmdb": 217804
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

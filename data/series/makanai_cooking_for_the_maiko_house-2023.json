@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_makanai_cooking_for_the_maiko_house_2023",
+  "title": "The Makanai: Cooking for the Maiko House",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q115664572",
+    "imdb": "tt15964848",
+    "tmdb": 154916
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

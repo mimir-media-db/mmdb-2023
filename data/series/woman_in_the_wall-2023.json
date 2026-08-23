@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_woman_in_the_wall_2023",
+  "title": "The Woman in the Wall",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q121502254",
+    "imdb": "tt21822590",
+    "tmdb": 209922
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

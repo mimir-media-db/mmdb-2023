@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_shrinking_2023",
+  "title": "Shrinking",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111942171",
+    "imdb": "tt15677150",
+    "tmdb": 136311
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 33,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

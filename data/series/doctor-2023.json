@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_2023",
+  "title": "The Doctor",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q120985099",
+    "imdb": "tt28693459",
+    "tmdb": 236209
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 48,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

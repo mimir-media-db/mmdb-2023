@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_il_nostro_generale_2023",
+  "title": "Il nostro generale",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116152714",
+    "imdb": "tt19358422",
+    "tmdb": 217774
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

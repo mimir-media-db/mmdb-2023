@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kennedy_2023",
+  "title": "Kennedy",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123569791",
+    "imdb": "tt13929808",
+    "tmdb": 237368
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

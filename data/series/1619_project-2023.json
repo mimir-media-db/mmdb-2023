@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_1619_project_2023",
+  "title": "The 1619 Project",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117062148",
+    "imdb": "tt14489308",
+    "tmdb": 216429
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

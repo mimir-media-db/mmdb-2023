@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_body_that_works_2023",
+  "title": "A Body That Works",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116782152",
+    "imdb": "tt23856194",
+    "tmdb": 220158
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

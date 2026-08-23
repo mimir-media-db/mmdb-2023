@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_eva_lasting_2023",
+  "title": "Eva Lasting",
+  "start_year": 2023,
+  "end_year": 2026,
+  "external_ids": {
+    "wikidata": "Q116921044",
+    "imdb": "tt26346647",
+    "tmdb": 219063
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 45,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

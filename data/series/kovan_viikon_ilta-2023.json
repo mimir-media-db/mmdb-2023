@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_kovan_viikon_ilta_2023",
+  "title": "Kovan viikon ilta",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117851332",
+    "imdb": "tt27486734",
+    "tmdb": 261587
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

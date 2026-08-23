@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bambaska_biri_2023",
+  "title": "Bambaşka Biri",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117468960",
+    "imdb": "tt22727518",
+    "tmdb": 233314
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

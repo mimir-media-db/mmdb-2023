@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_how_to_become_a_cult_leader_2023",
+  "title": "How to Become a Cult Leader",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120477925",
+    "imdb": "tt28253602",
+    "tmdb": 230043
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

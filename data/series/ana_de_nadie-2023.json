@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ana_de_nadie_2023",
+  "title": "Ana de nadie",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116771872",
+    "imdb": "tt26918095",
+    "tmdb": 221573
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 94,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

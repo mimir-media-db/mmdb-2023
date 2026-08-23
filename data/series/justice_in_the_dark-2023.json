@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_justice_in_the_dark_2023",
+  "title": "Justice in the Dark",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q116894004",
+    "imdb": "tt26755264",
+    "tmdb": 131037
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

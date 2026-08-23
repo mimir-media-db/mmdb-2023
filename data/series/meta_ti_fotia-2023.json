@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_meta_ti_fotia_2023",
+  "title": "Meta ti fotia",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q122067715",
+    "imdb": "tt29122240",
+    "tmdb": 236517
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

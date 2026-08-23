@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_revenge_is_mine_2023",
+  "title": "Revenge is mine",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117037425",
+    "imdb": "tt26745990",
+    "tmdb": 226411
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 110,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

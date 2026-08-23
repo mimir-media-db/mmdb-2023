@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_shahmaran_2023",
+  "title": "Shahmaran",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116450102",
+    "imdb": "tt16913068",
+    "tmdb": 214078
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_psi_cops_2023",
+  "title": "Psi Cops",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q130376732",
+    "imdb": "tt15690980",
+    "tmdb": 224515
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_break_point_2023",
+  "title": "Break Point",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116203676",
+    "imdb": "tt17048442",
+    "tmdb": 216386
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fight_for_justice_2023",
+  "title": "Fight for Justice",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q118139131",
+    "imdb": "tt27818003",
+    "tmdb": 243777
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 310,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

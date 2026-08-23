@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_operatsiya_neman_2023",
+  "title": "Operatsiya «Neman»",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q136191993",
+    "imdb": "tt27190804",
+    "tmdb": 225681
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

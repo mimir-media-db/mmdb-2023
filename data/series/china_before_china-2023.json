@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_china_before_china_2023",
+  "title": "China Before China",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124386470",
+    "imdb": "tt32502901",
+    "tmdb": 241321
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

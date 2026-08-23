@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_heart_crime_2023",
+  "title": "Heart Crime",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q119498519",
+    "imdb": "tt28036821",
+    "tmdb": 225472
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SA"
+  ]
+}

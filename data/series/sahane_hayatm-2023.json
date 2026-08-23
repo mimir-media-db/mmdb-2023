@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sahane_hayatm_2023",
+  "title": "Şahane Hayatım",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q123278073",
+    "imdb": "tt28379984",
+    "tmdb": 236215
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 30,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

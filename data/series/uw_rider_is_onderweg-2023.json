@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_uw_rider_is_onderweg_2023",
+  "title": "Uw rider is onderweg",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q126974683",
+    "imdb": "tt31318180",
+    "tmdb": 209152
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

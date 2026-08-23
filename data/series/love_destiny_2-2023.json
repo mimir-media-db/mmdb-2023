@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_love_destiny_2_2023",
+  "title": "Love Destiny 2",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31350767",
+    "imdb": "tt21302280",
+    "tmdb": 237475
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

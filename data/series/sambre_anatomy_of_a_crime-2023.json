@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sambre_anatomy_of_a_crime_2023",
+  "title": "Sambre - Anatomy of a Crime",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123461049",
+    "imdb": "tt29941770",
+    "tmdb": 212609
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 6,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "FR"
+  ]
+}

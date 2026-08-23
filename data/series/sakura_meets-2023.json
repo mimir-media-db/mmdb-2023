@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_sakura_meets_2023",
+  "title": "Sakura Meets",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q117085305",
+    "tmdb": 301075
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

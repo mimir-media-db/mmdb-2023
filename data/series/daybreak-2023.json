@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_daybreak_2023",
+  "title": "Daybreak",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q117774853",
+    "imdb": "tt26733528",
+    "tmdb": 220014
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

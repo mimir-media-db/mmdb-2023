@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_last_of_us_2023",
+  "title": "The Last of Us",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q87131973",
+    "imdb": "tt3581920",
+    "tmdb": 100088
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cristo_y_rey_2023",
+  "title": "Cristo y Rey",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112132028",
+    "imdb": "tt16437242",
+    "tmdb": 209725
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

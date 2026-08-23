@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_consultant_2023",
+  "title": "The Consultant",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q110938071",
+    "imdb": "tt16152716",
+    "tmdb": 139099
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

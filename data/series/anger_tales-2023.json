@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_anger_tales_2023",
+  "title": "Anger Tales",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124326403",
+    "imdb": "tt25836892",
+    "tmdb": 218025
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

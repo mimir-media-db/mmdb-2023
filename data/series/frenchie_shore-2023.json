@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_frenchie_shore_2023",
+  "title": "Frenchie Shore",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q123335008",
+    "imdb": "tt30006118",
+    "tmdb": 239334
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

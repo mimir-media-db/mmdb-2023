@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_will_trent_2023",
+  "title": "Will Trent",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116136764",
+    "imdb": "tt17543592",
+    "tmdb": 208569
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 59,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

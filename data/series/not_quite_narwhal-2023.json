@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_not_quite_narwhal_2023",
+  "title": "Not Quite Narwhal",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q124128361",
+    "imdb": "tt19382854",
+    "tmdb": 218576
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

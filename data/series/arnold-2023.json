@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_arnold_2023",
+  "title": "Arnold",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118286981",
+    "imdb": "tt27713897",
+    "tmdb": 226135
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 3,
+  "genres": [
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

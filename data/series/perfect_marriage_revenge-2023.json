@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_perfect_marriage_revenge_2023",
+  "title": "Perfect Marriage Revenge",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q121841153",
+    "imdb": "tt29657033",
+    "tmdb": 230524
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

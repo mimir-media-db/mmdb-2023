@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pinoy_crime_stories_2023",
+  "title": "Pinoy Crime Stories",
+  "start_year": 2023,
+  "end_year": 2024,
+  "external_ids": {
+    "wikidata": "Q122636663",
+    "imdb": "tt29174463",
+    "tmdb": 283137
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

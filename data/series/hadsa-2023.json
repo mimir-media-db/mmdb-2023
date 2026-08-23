@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_hadsa_2023",
+  "title": "Hadsa",
+  "start_year": 2023,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q123617336",
+    "imdb": "tt28686762"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 27,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

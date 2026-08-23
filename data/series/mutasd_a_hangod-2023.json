@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mutasd_a_hangod_2023",
+  "title": "Mutasd a hangod!",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q120534822"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "HU"
+  ]
+}

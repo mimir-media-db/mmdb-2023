@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_al_sancak_2023",
+  "title": "Al Sancak",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116946441",
+    "imdb": "tt22806544",
+    "tmdb": 218477
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 19,
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

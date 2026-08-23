@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_tore_2022",
+  "title": "Tore",
+  "start_year": 2022,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q116278205",
+    "imdb": "tt24132876",
+    "tmdb": 235300
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SE"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_reluctant_traveler_2023",
+  "title": "The Reluctant Traveler",
+  "start_year": 2023,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q116319156",
+    "imdb": "tt15822846",
+    "tmdb": 137735
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 23,
+  "genres": [
+    "Documentary",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}
