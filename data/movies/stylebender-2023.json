@@ -9,6 +9,11 @@
     "imdb": "tt14445202",
     "tmdb": 1115102
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-01-01",
+  "genres": [
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,11 @@
     "imdb": "tt27846110",
     "tmdb": 1137056
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-07-06"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-07-06",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "is_adult": false
 }

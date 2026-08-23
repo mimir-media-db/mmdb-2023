@@ -8,7 +8,12 @@
     "wikidata": "Q122826783",
     "imdb": "tt28363850"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-10-06",
-  "runtime_minutes": 50
+  "runtime_minutes": 50,
+  "genres": [
+    "Documentary",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

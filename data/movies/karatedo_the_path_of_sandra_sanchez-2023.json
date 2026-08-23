@@ -8,7 +8,12 @@
     "wikidata": "Q127691738",
     "tmdb": 1166176
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-01-01",
-  "runtime_minutes": 66
+  "runtime_minutes": 66,
+  "genres": [
+    "Documentary",
+    "biographical sports film"
+  ],
+  "is_adult": false
 }

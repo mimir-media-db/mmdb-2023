@@ -9,7 +9,12 @@
     "imdb": "tt31150307",
     "tmdb": 1234669
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-12-24",
-  "runtime_minutes": 107
+  "runtime_minutes": 107,
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

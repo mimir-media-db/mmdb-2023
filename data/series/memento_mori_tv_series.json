@@ -9,7 +9,13 @@
     "imdb": "tt22169620",
     "tmdb": 234921
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 15
+  "total_episodes": 15,
+  "genres": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false
 }

@@ -9,5 +9,10 @@
     "imdb": "tt24224968",
     "tmdb": 216575
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

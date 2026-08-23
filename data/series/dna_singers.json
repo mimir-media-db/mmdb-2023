@@ -7,7 +7,11 @@
   "external_ids": {
     "wikidata": "Q122460457"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 19
+  "total_episodes": 19,
+  "genres": [
+    "singing talent show"
+  ],
+  "is_adult": false
 }

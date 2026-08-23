@@ -9,6 +9,12 @@
     "imdb": "tt27529166",
     "tmdb": 1053104
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-05-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-05-18",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false
 }

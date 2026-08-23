@@ -9,6 +9,11 @@
     "imdb": "tt28449649",
     "tmdb": 1275150
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-07-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-07-18",
+  "genres": [
+    "Music",
+    "Short"
+  ],
+  "is_adult": false
 }

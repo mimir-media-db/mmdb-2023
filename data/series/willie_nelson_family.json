@@ -9,5 +9,10 @@
     "imdb": "tt15167360",
     "tmdb": 216637
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

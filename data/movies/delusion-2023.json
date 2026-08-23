@@ -8,6 +8,11 @@
     "wikidata": "Q136221137",
     "imdb": "tt35599011"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-01-24"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-01-24",
+  "genres": [
+    "Musical",
+    "Short"
+  ],
+  "is_adult": false
 }

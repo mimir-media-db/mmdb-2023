@@ -9,7 +9,12 @@
     "imdb": "tt28491199",
     "tmdb": 231331
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 4
+  "total_episodes": 4,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

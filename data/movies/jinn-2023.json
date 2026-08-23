@@ -8,6 +8,10 @@
     "wikidata": "Q84305422",
     "imdb": "tt10539208"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-04-22"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-04-22",
+  "genres": [
+    "Horror"
+  ],
+  "is_adult": false
 }

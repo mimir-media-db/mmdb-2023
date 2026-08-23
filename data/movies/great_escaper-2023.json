@@ -9,7 +9,13 @@
     "imdb": "tt14124080",
     "tmdb": 944194
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2023-10-06",
-  "runtime_minutes": 96
+  "runtime_minutes": 96,
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false
 }

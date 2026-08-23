@@ -9,5 +9,9 @@
     "imdb": "tt64325778",
     "tmdb": 228620
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "mystery television series"
+  ],
+  "is_adult": false
 }

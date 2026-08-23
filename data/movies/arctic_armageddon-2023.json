@@ -9,6 +9,11 @@
     "imdb": "tt29259841",
     "tmdb": 1217300
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-01-01",
+  "genres": [
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

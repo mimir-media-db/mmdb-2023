@@ -9,5 +9,9 @@
     "imdb": "tt23473230",
     "tmdb": 218069
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "true crime"
+  ],
+  "is_adult": false
 }

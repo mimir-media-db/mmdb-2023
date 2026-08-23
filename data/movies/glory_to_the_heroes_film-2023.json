@@ -9,6 +9,11 @@
     "imdb": "tt30090195",
     "tmdb": 1204896
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2023-11-14"
+  "last_updated": "2026-08-23",
+  "release_date": "2023-11-14",
+  "genres": [
+    "Documentary",
+    "War"
+  ],
+  "is_adult": false
 }
